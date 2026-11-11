@@ -1,0 +1,7 @@
+Feature,Calculation,Purpose,Evidence
+total_mineral_fertilizer_kg_ha,npk_kg_ha + urea_kg_ha,Combined mineral fertilizer application rate,Correlation analysis and feature selection
+manure_kg_ha,manure_t_ha * 1000,Manure application in kilograms per hectare,Correlation analysis and feature selection
+estimated_total_plants,plant_density_per_ha * farm_area_ha,Estimated total plants on a farm,Correlation analysis and feature selection
+rainfall_temperature_interaction,rainfall_mm * avg_temp_c,Combined rainfall and temperature measurement,Correlation analysis and feature selection
+soil_ph_distance_from_neutral,abs(soil_ph - 7),Distance of soil pH from neutral,Correlation analysis and feature selection
+npk_fertilizer_share,npk_kg_ha / (npk_kg_ha + urea_kg_ha),NPK proportion of mineral fertilizer,Correlation analysis and feature selection

@@ -1,0 +1,11 @@
+Problem,Affected_Columns,Records_Affected,Proposed_Treatment
+Missing values,rainfall_mm,11,Investigate missingness and consider appropriate imputation in Stage 4.
+Missing values,soil_ph,14,Investigate missingness and consider appropriate imputation in Stage 4.
+Missing values,pest_incidence_index,14,Investigate missingness and consider appropriate imputation in Stage 4.
+Duplicate complete rows,All columns,0,Investigate duplicates; remove only if confirmed.
+Duplicate record identifiers,record_id,0,Investigate repeated identifiers and determine whether they represent separate observations.
+Potential IQR outliers,soil_ph,10,Investigate observations; retain genuine values and handle confirmed errors appropriately.
+Potential IQR outliers,manure_t_ha,6,Investigate observations; retain genuine values and handle confirmed errors appropriately.
+Potential IQR outliers,farm_area_ha,75,Investigate observations; retain genuine values and handle confirmed errors appropriately.
+Potential IQR outliers,pest_incidence_index,13,Investigate observations; retain genuine values and handle confirmed errors appropriately.
+Potential IQR outliers,yield_t_ha,8,Investigate observations; retain genuine values and handle confirmed errors appropriately.

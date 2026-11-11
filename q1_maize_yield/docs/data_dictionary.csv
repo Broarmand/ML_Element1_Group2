@@ -1,0 +1,21 @@
+column_name,meaning,data_type,unit,allowed_values_or_notes
+record_id,Unique farm record identifier,Categorical,None,Unique record code
+year,Year of agricultural record,Integer,Year,2015-2024 observed
+season,Agricultural season,Categorical,None,"A, B or C observed"
+province,Province where the farm is located,Categorical,None,Rwandan provinces observed
+district,District where the farm is located,Categorical,None,District names observed
+altitude_m,Farm altitude,Integer,Metres,Numerical altitude
+rainfall_mm,Rainfall recorded for the farm/season,Numerical,Millimetres,Missing values present
+avg_temp_c,Average temperature,Numerical,Degrees Celsius,Numerical temperature
+soil_ph,Soil acidity or alkalinity,Numerical,pH,Missing values present
+soil_type,Type of soil,Categorical,None,Soil categories observed
+seed_variety,Maize seed variety used,Categorical,None,Seed varieties observed
+farming_practice,Farming practice used,Categorical,None,Observed practice categories
+npk_kg_ha,NPK fertiliser application rate,Numerical,kg/ha,Numerical rate
+urea_kg_ha,Urea fertiliser application rate,Numerical,kg/ha,Numerical rate
+manure_t_ha,Manure application rate,Numerical,tonnes/ha,Numerical rate
+plant_density_per_ha,Plant density per hectare,Integer,Plants/ha,Numerical count
+farm_area_ha,Farm area,Numerical,Hectares,Numerical area
+irrigation,Whether irrigation was used,Categorical,Yes/No,Observed categories
+pest_incidence_index,Numerical pest incidence indicator,Numerical,Not specified,Scale requires confirmation
+yield_t_ha,Maize yield per hectare,Numerical,Tonnes/ha,Target variable in supplied CSV

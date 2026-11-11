@@ -1,0 +1,2 @@
+source,file_name,source_link,date_accessed,licence,collector,data_description,limitations,ethical_issues
+Assignment 1 supplied dataset,maize_yield_rwanda_rw.csv,Not provided,2026-11-11,Not specified in assignment,Not specified; supplied for the course,Synthetic Rwanda maize yield dataset,CSV schema and target differ from the assignment description; measurement definitions require confirmation,Contains farm record codes; no direct personal identifiers observed in the column names

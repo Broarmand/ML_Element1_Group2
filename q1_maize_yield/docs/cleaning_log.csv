@@ -1,0 +1,3 @@
+Operation,Affected_Column,Records_Affected,Before,After,Justification
+Remove exact duplicate rows,All columns,0,0 duplicate rows,0 duplicate rows,Exact duplicate records should not be counted as separate observations.
+Remove rows with missing target,yield_t_ha,0,0,0,Supervised regression requires a known target value for each retained observation.
