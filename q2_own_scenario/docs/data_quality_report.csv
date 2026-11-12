@@ -1,0 +1,14 @@
+Column,Data_Type,Missing_Count,Missing_Percentage,Unique_Values
+accident_id,str,0,0.0,1600
+district,str,0,0.0,13
+road_type,str,0,0.0,5
+weather,str,41,2.55,4
+road_surface,str,32,1.99,4
+lighting,str,0,0.0,3
+time_of_day,str,0,0.0,4
+vehicle_type,str,0,0.0,6
+speed_limit_kmh,int64,0,0.0,10
+vehicles_involved,int64,0,0.0,5
+road_users_affected,int64,0,0.0,6
+response_time_min,float64,24,1.49,414
+severity,str,0,0.0,3

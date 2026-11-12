@@ -1,0 +1,1601 @@
+accident_id,district,road_type,weather,road_surface,lighting,time_of_day,vehicle_type,speed_limit_kmh,vehicles_involved,road_users_affected,response_time_min,severity
+RWACC-00001,Rusizi,Market road,Rain,Dry,Dark,Afternoon,Car,60.0,2,2,10.1,Serious
+RWACC-00002,Karongi,Highway,Clear,Damaged,Daylight,Morning,Car,100.0,2,4,27.6,Serious
+RWACC-00003,Rubavu,Highway,Clear,Gravel,Daylight,Morning,Car,50.0,1,1,19.5,Minor
+RWACC-00004,Kicukiro,Urban,Clear,Wet,Dark,Evening,Bus,30.0,2,1,28.2,Serious
+RWACC-00005,Rusizi,Market road,,Dry,Dark,Night,Truck,40.0,1,2,9.2,Fatal
+RWACC-00006,Musanze,Highway,Clear,Dry,Daylight,Afternoon,Car,40.0,1,1,24.1,Minor
+RWACC-00007,Nyagatare,Urban,Clear,Wet,Dark,Afternoon,Motorcycle,40.0,1,2,14.0,Serious
+RWACC-00008,Karongi,Rural,Rain,Dry,Daylight,Afternoon,Motorcycle,40.0,1,2,18.4,Serious
+RWACC-00009,Kicukiro,Urban,Fog,Dry,Daylight,Morning,Motorcycle,60.0,2,6,46.3,Serious
+RWACC-00010,Kicukiro,Highway,Clear,Dry,Daylight,Afternoon,Motorcycle,80.0,2,3,16.7,Minor
+RWACC-00011,Kicukiro,Rural,Clear,Dry,Daylight,Evening,Motorcycle,60.0,1,2,15.6,Minor
+RWACC-00012,Huye,Urban,Fog,Gravel,Daylight,Afternoon,Car,60.0,3,1,25.7,Serious
+RWACC-00013,Muhanga,Rural,Windy,Gravel,Dark,Morning,Motorcycle,30.0,1,2,31.3,Minor
+RWACC-00014,Huye,Urban,Clear,Dry,Daylight,Afternoon,Car,50.0,2,6,36.9,Minor
+RWACC-00015,Bugesera,Urban,Clear,Dry,Daylight,Afternoon,Truck,80.0,3,4,15.6,Serious
+RWACC-00016,Rwamagana,Rural,Clear,Dry,Street lights,Afternoon,Motorcycle,60.0,1,6,17.5,Minor
+RWACC-00017,Kicukiro,Rural,Clear,Dry,Street lights,Evening,Bus,80.0,2,4,7.7,Minor
+RWACC-00018,Kicukiro,Rural,Clear,Dry,Street lights,Afternoon,Motorcycle,100.0,1,6,16.6,Minor
+RWACC-00019,Bugesera,Rural,Clear,Dry,Street lights,Morning,Bus,60.0,2,5,15.2,Minor
+RWACC-00020,Huye,Highway,Clear,,Daylight,Morning,Car,40.0,2,1,3.9,Minor
+RWACC-00021,Muhanga,Market road,Rain,Dry,Daylight,Evening,Car,50.0,2,6,26.2,Minor
+RWACC-00022,Kicukiro,Rural,Clear,Dry,Daylight,Evening,Bus,40.0,1,6,15.9,Serious
+RWACC-00023,Rwamagana,Rural,Clear,Dry,Daylight,Afternoon,Car,60.0,1,6,22.7,Minor
+RWACC-00024,Musanze,Urban,Clear,Dry,Daylight,Morning,Bus,80.0,1,6,18.7,Minor
+RWACC-00025,Musanze,Rural,Clear,Wet,Daylight,Afternoon,Truck,40.0,1,4,19.7,Serious
+RWACC-00026,Gasabo,Market road,Rain,Dry,Street lights,Morning,Truck,60.0,3,3,,Serious
+RWACC-00027,Muhanga,Urban,Rain,Dry,Street lights,Night,Car,40.0,2,1,6.9,Serious
+RWACC-00028,Musanze,Urban,Clear,Wet,Daylight,Night,Motorcycle,50.0,1,4,6.0,Minor
+RWACC-00029,Kicukiro,Highway,Clear,Wet,Dark,Evening,Pedestrian involved,40.0,2,3,15.5,Minor
+RWACC-00030,Karongi,Urban,Clear,Wet,Daylight,Afternoon,Motorcycle,30.0,2,4,7.9,Serious
+RWACC-00031,Huye,Urban,Clear,Dry,Street lights,Morning,Motorcycle,40.0,3,1,14.0,Minor
+RWACC-00032,Kicukiro,Urban,Clear,Dry,Daylight,Night,Car,40.0,3,2,17.5,Minor
+RWACC-00033,Gasabo,Urban,Clear,Dry,Daylight,Morning,Car,40.0,1,1,38.2,Minor
+RWACC-00034,Muhanga,Highway,Rain,Damaged,Daylight,Evening,Pedestrian involved,80.0,2,1,10.0,Serious
+RWACC-00035,Rusizi,Urban,Clear,Dry,Daylight,Night,Car,80.0,2,4,2.0,Minor
+RWACC-00036,Nyarugenge,Rural,Clear,Gravel,Daylight,Morning,Truck,80.0,2,2,36.0,Minor
+RWACC-00037,Kicukiro,Urban,Clear,Wet,Daylight,Morning,Car,60.0,2,2,9.9,Minor
+RWACC-00038,Kicukiro,Highway,Clear,Gravel,Daylight,Afternoon,Motorcycle,60.0,4,5,2.0,Serious
+RWACC-00039,Rusizi,Rural,Rain,Dry,Daylight,Evening,Motorcycle,80.0,1,2,9.2,Minor
+RWACC-00040,Kicukiro,Urban,Clear,Dry,Street lights,Morning,Pedestrian involved,40.0,2,1,6.9,Minor
+RWACC-00041,Rwamagana,Urban,Clear,Wet,Daylight,Morning,Motorcycle,80.0,1,5,39.6,Minor
+RWACC-00042,Karongi,Rural,Rain,Damaged,Daylight,Afternoon,Truck,50.0,2,1,5.8,Serious
+RWACC-00043,Musanze,Urban,Clear,Dry,Daylight,Night,Bicycle,60.0,4,4,29.0,Minor
+RWACC-00044,Musanze,Urban,Clear,Gravel,Daylight,Night,Car,40.0,1,4,16.4,Minor
+RWACC-00045,Musanze,Rural,Rain,Dry,Daylight,Afternoon,Motorcycle,80.0,2,1,42.6,Minor
+RWACC-00046,Nyagatare,Rural,Clear,Gravel,Street lights,Evening,Bicycle,30.0,2,5,9.6,Minor
+RWACC-00047,Kicukiro,Highway,Fog,Gravel,Daylight,Afternoon,Motorcycle,50.0,5,3,2.4,Serious
+RWACC-00048,Karongi,Highway,Clear,Wet,Street lights,Morning,Car,30.0,1,6,11.5,Serious
+RWACC-00049,Nyagatare,Urban,Rain,Dry,Daylight,Evening,Motorcycle,60.0,1,4,14.1,Minor
+RWACC-00050,Huye,Urban,,Dry,Daylight,Morning,Bicycle,60.0,1,5,30.0,Minor
+RWACC-00051,Gasabo,Urban,,Damaged,Street lights,Night,Motorcycle,30.0,1,3,12.2,Serious
+RWACC-00052,Musanze,Highway,Clear,Wet,Street lights,Evening,Motorcycle,80.0,2,2,16.4,Minor
+RWACC-00053,Rubavu,Rural,Clear,Wet,Dark,Morning,Truck,40.0,2,2,7.3,Serious
+RWACC-00054,Nyarugenge,Urban,Clear,Dry,Daylight,Afternoon,Car,60.0,1,4,12.7,Serious
+RWACC-00055,Karongi,Rural,Clear,Dry,Street lights,Morning,Motorcycle,30.0,1,1,44.4,Minor
+RWACC-00056,Huye,Urban,Rain,Dry,Street lights,Morning,Truck,50.0,1,4,8.0,Fatal
+RWACC-00057,Bugesera,Urban,Rain,Gravel,Daylight,Afternoon,Motorcycle,60.0,1,4,10.4,Serious
+RWACC-00058,Musanze,Market road,Clear,Damaged,Dark,Afternoon,Motorcycle,80.0,1,1,17.5,Minor
+RWACC-00059,Rubavu,Rural,,Damaged,Street lights,Evening,Truck,60.0,2,5,11.4,Serious
+RWACC-00060,Karongi,Rural,Rain,Dry,Daylight,Evening,Pedestrian involved,40.0,2,2,13.7,Minor
+RWACC-00061,Nyagatare,Urban,Clear,Dry,Street lights,Morning,Pedestrian involved,50.0,1,2,9.3,Minor
+RWACC-00062,Nyagatare,Highway,Clear,Dry,Dark,Afternoon,Bus,80.0,1,3,35.4,Minor
+RWACC-00063,Huye,Rural,Clear,Damaged,Street lights,Evening,Bus,60.0,2,2,11.1,Minor
+RWACC-00064,Bugesera,Rural,Fog,Dry,Street lights,Afternoon,Motorcycle,80.0,1,6,32.0,Serious
+RWACC-00065,Nyagatare,Urban,Rain,Dry,Daylight,Afternoon,Bus,80.0,2,5,3.0,Serious
+RWACC-00066,Kicukiro,Rural,,Wet,Street lights,Afternoon,Motorcycle,80.0,2,3,22.8,Minor
+RWACC-00067,Karongi,Highway,Clear,Dry,Daylight,Morning,Car,30.0,1,1,3.0,Minor
+RWACC-00068,Kicukiro,Urban,Clear,Wet,Daylight,Afternoon,Pedestrian involved,30.0,1,6,16.7,Minor
+RWACC-00069,Rwamagana,Highway,Clear,Wet,Daylight,Afternoon,Motorcycle,40.0,3,1,23.4,Serious
+RWACC-00070,Huye,Rural,Clear,Dry,Street lights,Morning,Pedestrian involved,100.0,1,4,,Minor
+RWACC-00071,Bugesera,Rural,Rain,Gravel,Street lights,Evening,Bus,60.0,1,2,26.2,Serious
+RWACC-00072,Karongi,Highway,Clear,Damaged,Daylight,Afternoon,Car,40.0,2,5,10.7,Serious
+RWACC-00073,Nyagatare,Rural,Clear,Damaged,Daylight,Afternoon,Car,30.0,1,6,9.8,Minor
+RWACC-00074,Muhanga,Rural,Clear,Dry,Dark,Evening,Car,60.0,1,2,4.6,Minor
+RWACC-00075,Kicukiro,Highway,Rain,,Daylight,Morning,Pedestrian involved,80.0,2,4,6.4,Serious
+RWACC-00076,Nyagatare,Urban,Rain,Gravel,Dark,Morning,Truck,50.0,1,1,13.9,Serious
+RWACC-00077,Bugesera,Market road,Clear,Dry,Daylight,Night,Motorcycle,80.0,1,6,18.9,Minor
+RWACC-00078,Musanze,Highway,Clear,Wet,Daylight,Morning,Truck,50.0,2,6,15.0,Serious
+RWACC-00079,Rwamagana,Urban,Clear,Dry,Street lights,Afternoon,Motorcycle,60.0,2,1,,Minor
+RWACC-00080,Huye,Rural,Clear,Gravel,Daylight,Afternoon,Pedestrian involved,30.0,2,2,2.2,Minor
+RWACC-00081,Rusizi,Rural,Clear,Dry,Street lights,Afternoon,Motorcycle,40.0,1,5,22.0,Minor
+RWACC-00082,Musanze,Rural,Clear,Dry,Dark,Night,Car,100.0,4,2,14.4,Serious
+RWACC-00083,Nyagatare,Urban,Clear,Dry,Street lights,Evening,Car,60.0,3,1,30.7,Minor
+RWACC-00084,Rusizi,Urban,Rain,Dry,Dark,Morning,Car,30.0,1,3,35.4,Serious
+RWACC-00085,Musanze,Urban,Clear,Dry,Daylight,Afternoon,Car,100.0,1,3,10.1,Minor
+RWACC-00086,Bugesera,Market road,Clear,Dry,Daylight,Evening,Truck,100.0,1,3,27.8,Minor
+RWACC-00087,Bugesera,Rural,Clear,Dry,Daylight,Morning,Motorcycle,50.0,2,4,14.8,Minor
+RWACC-00088,Nyarugenge,Rural,Clear,Dry,Daylight,Afternoon,Car,30.0,1,4,7.7,Minor
+RWACC-00089,Musanze,Rural,Clear,Dry,Daylight,Morning,Car,60.0,3,2,18.7,Minor
+RWACC-00090,Karongi,Rural,Clear,Dry,Daylight,Morning,Car,40.0,1,3,27.9,Minor
+RWACC-00091,Nyarugenge,Urban,Fog,Dry,Street lights,Afternoon,Car,60.0,3,4,18.4,Serious
+RWACC-00092,Karongi,Highway,Clear,Wet,Daylight,Evening,Motorcycle,60.0,1,3,35.4,Serious
+RWACC-00093,Nyagatare,Rural,Clear,Dry,Daylight,Evening,Truck,50.0,1,5,16.8,Serious
+RWACC-00094,Bugesera,Urban,Clear,,Daylight,Evening,Motorcycle,60.0,1,4,19.9,Minor
+RWACC-00095,Karongi,Rural,Clear,Dry,Daylight,Morning,Car,30.0,2,2,8.3,Minor
+RWACC-00096,Gasabo,Urban,Rain,Dry,Daylight,Night,Bus,30.0,1,5,8.1,Serious
+RWACC-00097,Karongi,Rural,Clear,Dry,Street lights,Night,Truck,80.0,4,3,4.6,Minor
+RWACC-00098,Kicukiro,Highway,,Dry,Dark,Morning,Pedestrian involved,30.0,1,3,23.0,Minor
+RWACC-00099,Muhanga,Urban,Fog,Dry,Daylight,Morning,Motorcycle,50.0,2,1,10.5,Serious
+RWACC-00100,Huye,Highway,Clear,Dry,Daylight,Afternoon,Motorcycle,60.0,2,2,5.7,Minor
+RWACC-00101,Kicukiro,Rural,Clear,Dry,Daylight,Morning,Car,100.0,1,2,10.1,Minor
+RWACC-00102,Musanze,Urban,Fog,Dry,Daylight,Morning,Motorcycle,50.0,1,6,28.1,Minor
+RWACC-00103,Rubavu,Rural,Rain,Dry,Daylight,Morning,Car,100.0,3,3,6.3,Minor
+RWACC-00104,Rwamagana,Urban,Clear,Wet,Daylight,Afternoon,Truck,50.0,1,3,28.8,Serious
+RWACC-00105,Kicukiro,Rural,Clear,Dry,Dark,Night,Car,50.0,1,3,59.6,Serious
+RWACC-00106,Gasabo,Urban,Fog,Dry,Daylight,Afternoon,Car,60.0,2,1,8.1,Minor
+RWACC-00107,Rubavu,Urban,Clear,Wet,Daylight,Night,Car,40.0,1,6,7.5,Minor
+RWACC-00108,Kicukiro,Urban,Clear,Dry,Street lights,Afternoon,Motorcycle,60.0,1,6,18.3,Minor
+RWACC-00109,Huye,Urban,Rain,Dry,Daylight,Evening,Car,40.0,3,3,5.2,Minor
+RWACC-00110,Muhanga,Urban,Clear,Damaged,Street lights,Morning,Pedestrian involved,40.0,3,3,7.7,Minor
+RWACC-00111,Nyarugenge,Urban,Clear,Wet,Daylight,Morning,Motorcycle,100.0,2,1,27.3,Minor
+RWACC-00112,Rusizi,Urban,Clear,Dry,Daylight,Morning,Truck,60.0,4,2,,Minor
+RWACC-00113,Rusizi,Rural,Clear,Dry,Dark,Morning,Motorcycle,30.0,1,5,8.8,Minor
+RWACC-00114,Rusizi,Urban,Windy,Gravel,Daylight,Morning,Motorcycle,80.0,3,6,6.7,Serious
+RWACC-00115,Nyarugenge,Rural,Clear,Dry,Dark,Night,Car,30.0,2,4,10.2,Serious
+RWACC-00116,Rubavu,Market road,Clear,Damaged,Daylight,Night,Bicycle,50.0,1,4,17.8,Serious
+RWACC-00117,Rwamagana,Highway,Rain,Damaged,Dark,Morning,Bicycle,30.0,2,5,22.8,Fatal
+RWACC-00118,Huye,Market road,Clear,Dry,Daylight,Night,Bicycle,40.0,1,3,8.8,Minor
+RWACC-00119,Rubavu,Rural,Clear,Dry,Daylight,Afternoon,Motorcycle,40.0,1,5,15.0,Serious
+RWACC-00120,Rusizi,Rural,Clear,Dry,Daylight,Morning,Motorcycle,80.0,1,2,43.5,Minor
+RWACC-00121,Muhanga,Urban,Clear,Dry,Daylight,Morning,Motorcycle,60.0,2,5,2.0,Minor
+RWACC-00122,Kicukiro,Rural,Clear,Wet,Street lights,Morning,Truck,60.0,2,6,14.7,Serious
+RWACC-00123,Huye,Market road,Clear,Dry,Street lights,Afternoon,Motorcycle,40.0,2,5,27.0,Minor
+RWACC-00124,Kicukiro,Market road,Clear,Wet,Daylight,Morning,Car,80.0,4,2,21.1,Minor
+RWACC-00125,Nyagatare,Urban,Clear,Dry,Street lights,Evening,Motorcycle,30.0,2,3,10.2,Minor
+RWACC-00126,Muhanga,Urban,Fog,Dry,Street lights,Night,Bus,40.0,3,4,7.2,Fatal
+RWACC-00127,Bugesera,Highway,,Damaged,Street lights,Night,Car,30.0,2,4,26.1,Fatal
+RWACC-00128,Huye,Urban,Rain,Dry,Dark,Morning,Motorcycle,80.0,1,5,5.0,Fatal
+RWACC-00129,Muhanga,Highway,Clear,Dry,Dark,Morning,Pedestrian involved,80.0,3,1,30.7,Serious
+RWACC-00130,Rubavu,Urban,Clear,Dry,Daylight,Evening,Motorcycle,40.0,4,5,2.6,Minor
+RWACC-00131,Rwamagana,Urban,Fog,Damaged,Daylight,Evening,Car,60.0,2,3,19.5,Serious
+RWACC-00132,Nyagatare,Rural,Fog,Dry,Dark,Evening,Pedestrian involved,60.0,3,2,23.3,Serious
+RWACC-00133,Musanze,Highway,Clear,Wet,Daylight,Evening,Car,50.0,2,2,20.6,Minor
+RWACC-00134,Nyarugenge,Market road,Fog,Dry,Daylight,Night,Motorcycle,100.0,1,5,16.7,Serious
+RWACC-00135,Gasabo,Market road,Windy,Dry,Street lights,Afternoon,Car,30.0,1,2,8.8,Minor
+RWACC-00136,Kicukiro,Rural,Clear,Dry,Daylight,Evening,Motorcycle,30.0,1,1,16.6,Minor
+RWACC-00137,Muhanga,Highway,Rain,Dry,Street lights,Morning,Bicycle,30.0,1,6,16.7,Serious
+RWACC-00138,Kicukiro,Urban,Rain,Damaged,Daylight,Evening,Bus,60.0,1,4,13.8,Serious
+RWACC-00139,Huye,Urban,Rain,Dry,Dark,Evening,Car,60.0,4,5,22.2,Serious
+RWACC-00140,Nyagatare,Urban,Clear,Wet,Street lights,Morning,Car,30.0,1,4,2.0,Serious
+RWACC-00141,Muhanga,Rural,,Wet,Dark,Morning,Car,60.0,4,3,20.4,Fatal
+RWACC-00142,Kicukiro,Urban,Clear,Dry,Daylight,Evening,Motorcycle,100.0,1,5,8.2,Minor
+RWACC-00143,Huye,Urban,Clear,Dry,Daylight,Morning,Car,50.0,2,6,12.5,Minor
+RWACC-00144,Rusizi,Urban,Rain,Dry,Daylight,Morning,Bus,50.0,2,3,30.7,Minor
+RWACC-00145,Muhanga,Urban,Clear,Dry,Street lights,Morning,Motorcycle,50.0,4,1,20.4,Minor
+RWACC-00146,Huye,Urban,Rain,Damaged,Daylight,Afternoon,Motorcycle,60.0,1,3,10.9,Minor
+RWACC-00147,Rwamagana,Urban,Clear,Dry,Dark,Evening,Motorcycle,80.0,1,6,8.5,Minor
+RWACC-00148,Rubavu,Highway,Clear,Gravel,Daylight,Night,Car,60.0,1,1,41.2,Serious
+RWACC-00149,Gasabo,Urban,Clear,Wet,Street lights,Evening,Bus,60.0,3,5,7.5,Fatal
+RWACC-00150,Muhanga,Urban,Rain,Dry,Street lights,Night,Bus,50.0,2,6,6.8,Fatal
+RWACC-00151,Rwamagana,Urban,Clear,Dry,Daylight,Morning,Car,30.0,1,3,8.6,Minor
+RWACC-00152,Nyagatare,Rural,Clear,Dry,Daylight,Morning,Motorcycle,40.0,2,4,18.6,Minor
+RWACC-00153,Nyagatare,Highway,Clear,Dry,Street lights,Evening,Motorcycle,80.0,2,2,13.5,Minor
+RWACC-00154,Nyagatare,Highway,Clear,Dry,Daylight,Morning,Truck,60.0,4,3,20.0,Minor
+RWACC-00155,Muhanga,Urban,Clear,Dry,Street lights,Afternoon,Motorcycle,60.0,2,5,47.2,Minor
+RWACC-00156,Karongi,Rural,Fog,Dry,Daylight,Morning,Car,100.0,2,6,17.8,Serious
+RWACC-00157,Gasabo,Rural,Rain,Dry,Daylight,Morning,Car,50.0,3,4,20.9,Serious
+RWACC-00158,Kicukiro,Rural,Windy,Damaged,Daylight,Morning,Car,30.0,2,4,8.3,Minor
+RWACC-00159,Karongi,Urban,Clear,Wet,Daylight,Evening,Car,80.0,1,6,20.2,Minor
+RWACC-00160,Gasabo,Highway,Clear,Dry,Daylight,Afternoon,Motorcycle,80.0,1,2,13.6,Minor
+RWACC-00161,Nyarugenge,Rural,Clear,Gravel,Dark,Morning,Truck,30.0,2,1,16.6,Serious
+RWACC-00162,Nyarugenge,Rural,Clear,Damaged,Dark,Evening,Car,80.0,1,3,4.6,Serious
+RWACC-00163,Huye,Market road,Clear,Gravel,Daylight,Morning,Car,50.0,3,5,7.1,Minor
+RWACC-00164,Muhanga,Urban,Rain,Dry,Daylight,Night,Car,30.0,4,6,23.2,Serious
+RWACC-00165,Rwamagana,Rural,Rain,Gravel,Daylight,Morning,Car,50.0,3,3,8.7,Serious
+RWACC-00166,Nyarugenge,Urban,Clear,Damaged,Daylight,Afternoon,Motorcycle,100.0,2,4,5.7,Minor
+RWACC-00167,Nyarugenge,Urban,Rain,Dry,Street lights,Morning,Motorcycle,60.0,2,2,4.7,Minor
+RWACC-00168,Huye,Urban,Rain,Dry,Dark,Afternoon,Motorcycle,60.0,5,5,6.6,Serious
+RWACC-00169,Kicukiro,Market road,Clear,Gravel,Dark,Night,Car,80.0,2,2,29.7,Serious
+RWACC-00170,Rubavu,Market road,Rain,Dry,Daylight,Evening,Motorcycle,30.0,1,4,35.2,Serious
+RWACC-00171,Huye,Rural,Clear,Gravel,Daylight,Afternoon,Truck,80.0,1,2,4.7,Serious
+RWACC-00172,Muhanga,Rural,Clear,Gravel,Street lights,Evening,Motorcycle,50.0,1,6,13.7,Serious
+RWACC-00173,Rwamagana,Rural,Clear,Dry,Street lights,Afternoon,Car,30.0,1,4,12.8,Minor
+RWACC-00174,Rusizi,Urban,Clear,Wet,Daylight,Evening,Motorcycle,30.0,3,4,16.8,Serious
+RWACC-00175,Nyarugenge,Rural,Clear,Wet,Daylight,Afternoon,Motorcycle,80.0,4,6,44.3,Serious
+RWACC-00176,Huye,Rural,Windy,Gravel,Daylight,Evening,Bus,30.0,3,4,18.3,Minor
+RWACC-00177,Muhanga,Highway,Clear,Dry,Dark,Morning,Motorcycle,40.0,2,3,17.6,Minor
+RWACC-00178,Muhanga,Market road,Clear,Dry,Street lights,Afternoon,Car,50.0,3,3,2.0,Minor
+RWACC-00179,Bugesera,Highway,Clear,Damaged,Daylight,Night,Pedestrian involved,100.0,1,3,11.6,Serious
+RWACC-00180,Gasabo,Highway,Clear,Dry,Daylight,Afternoon,Motorcycle,80.0,2,6,17.4,Serious
+RWACC-00181,Nyagatare,Urban,Clear,Damaged,Dark,Afternoon,Truck,50.0,1,4,47.1,Serious
+RWACC-00182,Muhanga,Urban,Rain,Wet,Daylight,Afternoon,Car,100.0,2,6,11.0,Fatal
+RWACC-00183,Rubavu,Highway,Clear,Dry,Daylight,Night,Truck,40.0,1,6,18.2,Serious
+RWACC-00184,Kicukiro,Rural,Clear,Gravel,Daylight,Morning,Car,50.0,5,2,24.8,Minor
+RWACC-00185,Musanze,Rural,Clear,Dry,Daylight,Afternoon,Bus,40.0,1,2,10.3,Minor
+RWACC-00186,Rubavu,Rural,Clear,Dry,Daylight,Morning,Bicycle,30.0,1,1,19.0,Minor
+RWACC-00187,Muhanga,Urban,Clear,Gravel,Street lights,Morning,Motorcycle,30.0,1,1,18.5,Minor
+RWACC-00188,Nyagatare,Urban,Clear,Wet,Daylight,Afternoon,Motorcycle,30.0,1,4,26.2,Minor
+RWACC-00189,Kicukiro,Rural,Rain,Dry,Daylight,Morning,Car,80.0,2,6,7.2,Minor
+RWACC-00190,Kicukiro,Rural,Clear,Damaged,Daylight,Evening,Car,30.0,1,5,22.1,Serious
+RWACC-00191,Nyarugenge,Rural,Clear,Wet,Dark,Night,Motorcycle,40.0,2,2,24.4,Serious
+RWACC-00192,Huye,Urban,Windy,Gravel,Daylight,Morning,Pedestrian involved,60.0,1,1,12.9,Minor
+RWACC-00193,Rusizi,Urban,Clear,Dry,Daylight,Evening,Motorcycle,50.0,1,4,24.8,Minor
+RWACC-00194,Kicukiro,Urban,Clear,Gravel,Daylight,Afternoon,Motorcycle,60.0,1,5,34.7,Serious
+RWACC-00195,Rusizi,Urban,Clear,Gravel,Daylight,Afternoon,Car,80.0,1,5,2.3,Minor
+RWACC-00196,Bugesera,Market road,Clear,Dry,Daylight,Evening,Bicycle,30.0,1,5,5.9,Minor
+RWACC-00197,Bugesera,Urban,Clear,Wet,Daylight,Afternoon,Truck,40.0,1,6,3.4,Minor
+RWACC-00198,Karongi,Rural,Clear,,Daylight,Afternoon,Motorcycle,30.0,1,1,16.8,Minor
+RWACC-00199,Musanze,Urban,Clear,Dry,Daylight,Afternoon,Motorcycle,80.0,3,2,22.2,Serious
+RWACC-00200,Gasabo,Rural,Fog,Dry,Daylight,Evening,Motorcycle,100.0,1,5,30.9,Serious
+RWACC-00201,Musanze,Rural,Rain,Dry,Dark,Evening,Car,60.0,1,4,,Serious
+RWACC-00202,Nyagatare,Rural,Clear,Gravel,Street lights,Night,Truck,60.0,3,5,12.5,Serious
+RWACC-00203,Kicukiro,Urban,Rain,Dry,Daylight,Afternoon,Truck,30.0,1,4,12.6,Serious
+RWACC-00204,Kicukiro,Highway,Clear,Gravel,Daylight,Night,Bus,30.0,1,2,21.0,Fatal
+RWACC-00205,Rubavu,Market road,Windy,Damaged,Dark,Evening,Motorcycle,30.0,1,5,3.9,Serious
+RWACC-00206,Nyagatare,Urban,Clear,Wet,Dark,Evening,Car,50.0,1,6,17.1,Serious
+RWACC-00207,Huye,Rural,Windy,Dry,Daylight,Night,Motorcycle,80.0,1,1,28.2,Minor
+RWACC-00208,Rusizi,Urban,Rain,Dry,Daylight,Morning,Motorcycle,60.0,4,5,10.4,Serious
+RWACC-00209,Bugesera,Highway,Clear,Gravel,Street lights,Afternoon,Motorcycle,80.0,2,2,16.0,Minor
+RWACC-00210,Rubavu,Highway,Clear,Dry,Daylight,Afternoon,Car,40.0,1,2,2.1,Minor
+RWACC-00211,Musanze,Urban,Clear,Dry,Daylight,Afternoon,Motorcycle,30.0,3,2,8.3,Minor
+RWACC-00212,Huye,Rural,Clear,Wet,Daylight,Morning,Motorcycle,40.0,1,2,30.9,Minor
+RWACC-00213,Nyagatare,Rural,Clear,Gravel,Daylight,Evening,Truck,30.0,2,4,28.0,Minor
+RWACC-00214,Rwamagana,Rural,Clear,Wet,Daylight,Morning,Car,50.0,2,3,26.8,Minor
+RWACC-00215,Rusizi,Urban,Rain,Dry,Dark,Afternoon,Bicycle,60.0,3,6,49.8,Fatal
+RWACC-00216,Rwamagana,Urban,Clear,Gravel,Street lights,Afternoon,Car,60.0,1,4,20.2,Minor
+RWACC-00217,Rusizi,Urban,Rain,,Street lights,Afternoon,Car,60.0,3,2,13.9,Serious
+RWACC-00218,Kicukiro,Rural,Clear,Dry,Street lights,Evening,Car,100.0,2,6,4.6,Serious
+RWACC-00219,Muhanga,Market road,Clear,Gravel,Street lights,Afternoon,Car,60.0,1,4,7.3,Minor
+RWACC-00220,Karongi,Market road,Clear,Wet,Daylight,Afternoon,Motorcycle,30.0,2,1,5.2,Minor
+RWACC-00221,Bugesera,Rural,Clear,Dry,Daylight,Afternoon,Motorcycle,40.0,2,6,9.2,Minor
+RWACC-00222,Rubavu,Highway,Clear,Dry,Daylight,Evening,Car,60.0,1,3,10.9,Serious
+RWACC-00223,Karongi,Rural,Clear,Dry,Daylight,Afternoon,Car,30.0,2,3,5.9,Minor
+RWACC-00224,Rusizi,Rural,Clear,Dry,Daylight,Afternoon,Bicycle,60.0,1,5,10.5,Minor
+RWACC-00225,Musanze,Rural,Rain,Dry,Daylight,Afternoon,Car,40.0,1,1,29.4,Serious
+RWACC-00226,Gasabo,Rural,Clear,Damaged,Street lights,Night,Car,40.0,2,1,13.3,Serious
+RWACC-00227,Rubavu,Rural,Fog,Gravel,Daylight,Night,Bus,30.0,1,5,12.3,Fatal
+RWACC-00228,Kicukiro,Urban,Clear,Dry,Daylight,Morning,Car,50.0,3,2,17.2,Minor
+RWACC-00229,Huye,Rural,Clear,Gravel,Dark,Evening,Motorcycle,30.0,1,5,17.2,Minor
+RWACC-00230,Rwamagana,Urban,Rain,Dry,Dark,Night,Car,50.0,5,5,17.4,Fatal
+RWACC-00231,Musanze,Urban,Rain,Wet,Street lights,Night,Car,100.0,1,2,3.9,Minor
+RWACC-00232,Nyarugenge,Urban,Clear,Dry,Daylight,Afternoon,Car,100.0,2,3,11.2,Minor
+RWACC-00233,Kicukiro,Rural,Rain,Gravel,Daylight,Afternoon,Bicycle,30.0,1,2,14.6,Serious
+RWACC-00234,Karongi,Urban,Clear,Dry,Street lights,Evening,Bus,50.0,1,2,18.0,Minor
+RWACC-00235,Bugesera,Rural,Fog,Dry,Dark,Morning,Motorcycle,30.0,1,6,2.0,Fatal
+RWACC-00236,Musanze,Market road,Windy,Dry,Daylight,Morning,Car,60.0,2,1,5.5,Minor
+RWACC-00237,Karongi,Highway,Clear,Gravel,Daylight,Evening,Motorcycle,80.0,1,3,26.4,Minor
+RWACC-00238,Nyarugenge,Highway,Clear,Damaged,Daylight,Evening,Car,30.0,2,2,15.6,Minor
+RWACC-00239,Rusizi,Urban,Windy,Dry,Street lights,Morning,Car,30.0,4,3,17.6,Minor
+RWACC-00240,Kicukiro,Urban,Clear,Dry,Dark,Afternoon,Car,50.0,1,1,18.2,Minor
+RWACC-00241,Rubavu,Urban,Clear,Dry,Dark,Evening,Motorcycle,30.0,1,3,22.4,Minor
+RWACC-00242,Rwamagana,Rural,Clear,Dry,Dark,Evening,Truck,40.0,2,2,20.0,Minor
+RWACC-00243,Musanze,Urban,Clear,Dry,Daylight,Morning,Truck,30.0,1,3,3.0,Minor
+RWACC-00244,Gasabo,Urban,Clear,Wet,Dark,Afternoon,Truck,80.0,2,4,4.3,Serious
+RWACC-00245,Bugesera,Rural,Rain,Wet,Daylight,Morning,Motorcycle,50.0,2,1,13.4,Serious
+RWACC-00246,Rwamagana,Urban,Windy,Wet,Street lights,Morning,Motorcycle,50.0,1,2,19.8,Minor
+RWACC-00247,Huye,Urban,Windy,Dry,Daylight,Afternoon,Truck,30.0,2,2,20.0,Minor
+RWACC-00248,Nyagatare,Urban,Clear,Dry,Daylight,Morning,Motorcycle,60.0,2,2,25.8,Minor
+RWACC-00249,Rubavu,Highway,Clear,Gravel,Street lights,Morning,Motorcycle,80.0,1,4,8.4,Serious
+RWACC-00250,Rusizi,Highway,Rain,Wet,Daylight,Afternoon,Bus,60.0,1,2,21.6,Serious
+RWACC-00251,Bugesera,Urban,Rain,Wet,Daylight,Evening,Pedestrian involved,60.0,1,3,15.4,Serious
+RWACC-00252,Rwamagana,Urban,Rain,Dry,Daylight,Morning,Truck,40.0,2,6,9.6,Serious
+RWACC-00253,Nyagatare,Rural,Clear,Dry,Street lights,Evening,Bus,30.0,2,5,22.5,Serious
+RWACC-00254,Muhanga,Rural,Clear,Dry,Daylight,Evening,Motorcycle,40.0,1,3,,Minor
+RWACC-00255,Rwamagana,Highway,Clear,Wet,Daylight,Evening,Pedestrian involved,60.0,1,5,14.5,Serious
+RWACC-00256,Rwamagana,Rural,Fog,Dry,Street lights,Afternoon,Motorcycle,30.0,1,3,2.2,Minor
+RWACC-00257,Muhanga,Rural,Fog,Dry,Dark,Afternoon,Truck,40.0,1,6,13.3,Fatal
+RWACC-00258,Muhanga,Urban,Clear,Gravel,Dark,Morning,Motorcycle,50.0,2,6,9.3,Minor
+RWACC-00259,Rubavu,Urban,Clear,Dry,Daylight,Night,Motorcycle,80.0,1,1,18.5,Minor
+RWACC-00260,Huye,Highway,Clear,Dry,Daylight,Evening,Motorcycle,50.0,3,3,16.8,Minor
+RWACC-00261,Huye,Urban,Rain,Dry,Daylight,Morning,Car,60.0,1,2,19.9,Minor
+RWACC-00262,Rusizi,Urban,Clear,Dry,Street lights,Afternoon,Truck,40.0,2,6,5.5,Minor
+RWACC-00263,Rusizi,Urban,Clear,Dry,Dark,Afternoon,Car,50.0,2,4,10.7,Serious
+RWACC-00264,Karongi,Highway,Clear,Wet,Street lights,Afternoon,Car,40.0,2,3,24.4,Minor
+RWACC-00265,Rwamagana,Urban,Fog,Wet,Daylight,Evening,Bus,30.0,2,1,40.8,Serious
+RWACC-00266,Huye,Market road,Rain,Dry,Daylight,Afternoon,Bus,50.0,1,1,6.2,Serious
+RWACC-00267,Huye,Rural,Windy,Dry,Daylight,Morning,Motorcycle,30.0,1,2,4.8,Minor
+RWACC-00268,Rusizi,Urban,Rain,Dry,Dark,Afternoon,Truck,40.0,2,3,9.6,Serious
+RWACC-00269,Rusizi,Highway,Clear,Dry,Daylight,Morning,Car,30.0,3,2,3.0,Minor
+RWACC-00270,Karongi,Urban,,Wet,Dark,Night,Bus,30.0,1,5,35.8,Serious
+RWACC-00271,Rwamagana,Urban,Clear,Gravel,Street lights,Night,Car,50.0,1,6,42.3,Serious
+RWACC-00272,Rusizi,Urban,Fog,Dry,Street lights,Afternoon,Car,60.0,1,2,13.7,Minor
+RWACC-00273,Bugesera,Rural,Clear,Dry,Dark,Afternoon,Motorcycle,30.0,4,6,6.3,Serious
+RWACC-00274,Muhanga,Highway,Clear,Dry,Daylight,Evening,Car,50.0,2,6,11.3,Minor
+RWACC-00275,Karongi,Urban,Clear,Gravel,Daylight,Evening,Bicycle,60.0,2,4,5.3,Minor
+RWACC-00276,Nyagatare,Highway,Fog,Dry,Daylight,Morning,Truck,80.0,1,2,23.4,Serious
+RWACC-00277,Huye,Market road,Rain,Dry,Dark,Morning,Motorcycle,30.0,3,6,2.2,Serious
+RWACC-00278,Muhanga,Urban,Clear,Dry,Daylight,Morning,Pedestrian involved,80.0,1,3,7.5,Minor
+RWACC-00279,Muhanga,Rural,Rain,Dry,Daylight,Evening,Pedestrian involved,60.0,1,4,17.4,Minor
+RWACC-00280,Nyarugenge,Urban,Rain,Wet,Street lights,Morning,Motorcycle,50.0,1,3,35.1,Serious
+RWACC-00281,Nyarugenge,Highway,Fog,Wet,Daylight,Morning,Pedestrian involved,60.0,1,2,11.0,Serious
+RWACC-00282,Kicukiro,Rural,Rain,Wet,Daylight,Afternoon,Motorcycle,80.0,1,1,22.0,Minor
+RWACC-00283,Huye,Urban,Rain,Gravel,Street lights,Evening,Car,40.0,1,1,5.5,Serious
+RWACC-00284,Rusizi,Rural,Clear,Dry,Dark,Morning,Bus,50.0,1,5,20.5,Fatal
+RWACC-00285,Muhanga,Highway,Fog,Wet,Dark,Night,Pedestrian involved,50.0,1,6,21.8,Fatal
+RWACC-00286,Kicukiro,Market road,Rain,Dry,Daylight,Afternoon,Car,50.0,2,4,4.6,Serious
+RWACC-00287,Kicukiro,Market road,Clear,Dry,Daylight,Evening,Pedestrian involved,60.0,3,5,8.5,Minor
+RWACC-00288,Rusizi,Highway,Rain,Wet,Street lights,Afternoon,Motorcycle,40.0,2,2,15.0,Serious
+RWACC-00289,Kicukiro,Urban,Clear,Dry,Dark,Night,Motorcycle,40.0,4,4,17.1,Serious
+RWACC-00290,Bugesera,Rural,Clear,Wet,Daylight,Afternoon,Car,30.0,3,6,27.1,Serious
+RWACC-00291,Rusizi,Urban,Clear,Wet,Daylight,Afternoon,Car,80.0,1,2,24.7,Minor
+RWACC-00292,Huye,Urban,Rain,Dry,Daylight,Morning,Motorcycle,80.0,1,4,22.8,Minor
+RWACC-00293,Huye,Urban,Clear,Damaged,Daylight,Afternoon,Car,60.0,1,2,5.5,Minor
+RWACC-00294,Nyarugenge,Rural,Clear,Wet,Street lights,Evening,Motorcycle,30.0,2,6,3.2,Minor
+RWACC-00295,Nyarugenge,Urban,Clear,Dry,Daylight,Morning,Car,40.0,1,1,9.8,Minor
+RWACC-00296,Rubavu,Urban,Clear,Dry,Street lights,Evening,Bus,100.0,2,2,9.4,Minor
+RWACC-00297,Muhanga,Urban,Clear,Wet,Daylight,Afternoon,Bicycle,60.0,1,1,2.2,Minor
+RWACC-00298,Kicukiro,Urban,Fog,Dry,Street lights,Night,Bicycle,80.0,2,2,29.7,Serious
+RWACC-00299,Rubavu,Market road,Clear,Dry,Street lights,Morning,Motorcycle,30.0,3,5,5.8,Minor
+RWACC-00300,Kicukiro,Urban,Clear,Dry,Street lights,Afternoon,Pedestrian involved,60.0,2,4,3.2,Minor
+RWACC-00301,Musanze,Urban,Clear,Gravel,Daylight,Afternoon,Car,80.0,2,3,20.4,Minor
+RWACC-00302,Karongi,Urban,Clear,Dry,Daylight,Morning,Motorcycle,80.0,1,3,27.6,Minor
+RWACC-00303,Rusizi,Rural,Rain,Gravel,Daylight,Evening,Bus,60.0,1,4,2.0,Serious
+RWACC-00304,Musanze,Rural,Clear,Dry,Daylight,Evening,Pedestrian involved,60.0,1,3,23.8,Minor
+RWACC-00305,Rwamagana,Urban,Rain,Wet,Street lights,Morning,Motorcycle,50.0,5,2,5.7,Minor
+RWACC-00306,Karongi,Urban,Clear,Dry,Dark,Afternoon,Motorcycle,30.0,1,1,43.1,Minor
+RWACC-00307,Nyarugenge,Rural,Clear,Dry,Daylight,Afternoon,Car,60.0,3,5,6.7,Minor
+RWACC-00308,Kicukiro,Highway,Clear,Dry,Daylight,Night,Motorcycle,60.0,1,3,32.5,Minor
+RWACC-00309,Rwamagana,Urban,Clear,Dry,Daylight,Morning,Pedestrian involved,40.0,1,1,12.2,Minor
+RWACC-00310,Musanze,Urban,Clear,Dry,Daylight,Evening,Motorcycle,60.0,3,3,55.9,Serious
+RWACC-00311,Rusizi,Rural,Clear,Wet,Daylight,Morning,Pedestrian involved,30.0,1,1,,Serious
+RWACC-00312,Karongi,Urban,Rain,Gravel,Street lights,Night,Car,50.0,2,2,5.9,Serious
+RWACC-00313,Karongi,Highway,,Dry,Daylight,Night,Pedestrian involved,80.0,2,4,49.0,Serious
+RWACC-00314,Nyagatare,Urban,Clear,Wet,Daylight,Night,Pedestrian involved,50.0,2,5,11.2,Serious
+RWACC-00315,Kicukiro,Rural,Clear,Dry,Daylight,Evening,Truck,60.0,2,5,24.7,Minor
+RWACC-00316,Karongi,Rural,Clear,Wet,Dark,Evening,Pedestrian involved,80.0,1,3,27.9,Minor
+RWACC-00317,Nyarugenge,Urban,Clear,Gravel,Daylight,Evening,Car,60.0,1,5,21.5,Serious
+RWACC-00318,Huye,Rural,Clear,Dry,Daylight,Afternoon,Motorcycle,30.0,2,6,,Minor
+RWACC-00319,Nyagatare,Rural,Clear,Gravel,Daylight,Afternoon,Car,60.0,1,6,31.0,Minor
+RWACC-00320,Huye,Highway,Clear,Wet,Daylight,Afternoon,Bicycle,80.0,1,5,20.8,Serious
+RWACC-00321,Rubavu,Highway,Windy,Dry,Daylight,Afternoon,Motorcycle,80.0,1,1,2.8,Minor
+RWACC-00322,Rubavu,Urban,Clear,Wet,Daylight,Morning,Motorcycle,50.0,2,1,24.8,Minor
+RWACC-00323,Rusizi,Urban,Clear,Dry,Street lights,Morning,Pedestrian involved,80.0,2,4,55.0,Serious
+RWACC-00324,Rusizi,Rural,Clear,Wet,Daylight,Afternoon,Truck,50.0,1,2,21.5,Minor
+RWACC-00325,Muhanga,Urban,Clear,Wet,Daylight,Morning,Motorcycle,80.0,1,3,34.6,Minor
+RWACC-00326,Nyagatare,Market road,Rain,Damaged,Daylight,Night,Motorcycle,100.0,4,2,9.6,Serious
+RWACC-00327,Kicukiro,Highway,Clear,Dry,Daylight,Morning,Pedestrian involved,100.0,1,3,28.9,Minor
+RWACC-00328,Nyagatare,Highway,Clear,Dry,Daylight,Morning,Motorcycle,50.0,1,5,18.9,Minor
+RWACC-00329,Nyagatare,Rural,Fog,Dry,Daylight,Evening,Motorcycle,80.0,1,4,34.0,Serious
+RWACC-00330,Gasabo,Highway,Windy,Dry,Daylight,Afternoon,Bus,80.0,2,4,20.6,Serious
+RWACC-00331,Karongi,Highway,Clear,Dry,Daylight,Morning,Car,30.0,1,3,11.9,Minor
+RWACC-00332,Musanze,Urban,Clear,Dry,Daylight,Afternoon,Car,30.0,2,3,6.6,Minor
+RWACC-00333,Huye,Urban,Windy,Dry,Street lights,Afternoon,Motorcycle,80.0,1,3,6.5,Minor
+RWACC-00334,Rubavu,Urban,Clear,Dry,Daylight,Morning,Motorcycle,60.0,3,3,16.8,Minor
+RWACC-00335,Muhanga,Rural,Clear,Dry,Street lights,Night,Truck,30.0,3,2,10.5,Minor
+RWACC-00336,Kicukiro,Rural,Rain,Dry,Daylight,Afternoon,Car,100.0,2,6,33.6,Minor
+RWACC-00337,Rubavu,Highway,Clear,Dry,Daylight,Morning,Car,60.0,2,1,23.9,Minor
+RWACC-00338,Rwamagana,Highway,Clear,Wet,Daylight,Night,Truck,40.0,2,3,26.3,Serious
+RWACC-00339,Bugesera,Highway,Rain,Damaged,Street lights,Morning,Motorcycle,30.0,2,6,53.5,Serious
+RWACC-00340,Muhanga,Urban,Clear,Dry,Street lights,Morning,Motorcycle,50.0,2,2,26.5,Minor
+RWACC-00341,Karongi,Rural,Clear,Dry,Dark,Evening,Car,40.0,1,1,7.1,Minor
+RWACC-00342,Rwamagana,Highway,Clear,Wet,Daylight,Afternoon,Motorcycle,80.0,1,4,10.4,Minor
+RWACC-00343,Muhanga,Highway,Rain,Dry,Daylight,Morning,Car,40.0,2,3,2.0,Minor
+RWACC-00344,Rubavu,Urban,Fog,Damaged,Daylight,Evening,Pedestrian involved,60.0,1,5,13.6,Fatal
+RWACC-00345,Musanze,Highway,Rain,Dry,Daylight,Evening,Bus,30.0,2,6,4.3,Serious
+RWACC-00346,Karongi,Rural,Clear,Dry,Street lights,Evening,Motorcycle,50.0,1,1,8.0,Minor
+RWACC-00347,Nyagatare,Urban,Clear,Dry,Daylight,Night,Car,50.0,2,6,9.6,Minor
+RWACC-00348,Muhanga,Rural,Rain,Damaged,Street lights,Evening,Motorcycle,100.0,1,3,35.9,Minor
+RWACC-00349,Bugesera,Rural,Fog,Dry,Street lights,Morning,Motorcycle,40.0,1,3,9.3,Minor
+RWACC-00350,Gasabo,Urban,Clear,Wet,Daylight,Evening,Bicycle,50.0,2,6,6.0,Serious
+RWACC-00351,Nyagatare,Urban,Rain,Dry,Daylight,Night,Truck,60.0,1,5,37.3,Serious
+RWACC-00352,Nyagatare,Rural,Clear,Dry,Dark,Afternoon,Truck,60.0,2,1,8.9,Minor
+RWACC-00353,Rwamagana,Rural,Clear,Gravel,Street lights,Afternoon,Car,30.0,3,1,32.4,Minor
+RWACC-00354,Muhanga,Rural,Clear,Dry,Daylight,Evening,Pedestrian involved,100.0,1,4,30.4,Serious
+RWACC-00355,Kicukiro,Market road,Windy,Dry,Daylight,Evening,Motorcycle,30.0,3,6,5.4,Minor
+RWACC-00356,Gasabo,Rural,,Dry,Daylight,Afternoon,Motorcycle,100.0,2,2,9.1,Minor
+RWACC-00357,Kicukiro,Urban,Clear,Dry,Street lights,Morning,Motorcycle,80.0,2,4,23.1,Minor
+RWACC-00358,Kicukiro,Rural,Rain,Gravel,Street lights,Afternoon,Pedestrian involved,40.0,2,4,17.0,Minor
+RWACC-00359,Rusizi,Rural,Rain,Dry,Dark,Morning,Truck,40.0,2,3,2.1,Serious
+RWACC-00360,Nyagatare,Rural,Rain,Dry,Dark,Afternoon,Car,30.0,1,2,19.2,Serious
+RWACC-00361,Rwamagana,Highway,Clear,Dry,Daylight,Afternoon,Car,50.0,2,4,8.3,Minor
+RWACC-00362,Gasabo,Urban,Clear,Dry,Daylight,Night,Pedestrian involved,40.0,1,1,7.1,Minor
+RWACC-00363,Nyagatare,Urban,,Dry,Daylight,Morning,Motorcycle,80.0,5,2,20.7,Minor
+RWACC-00364,Kicukiro,Highway,Clear,Dry,Street lights,Morning,Car,100.0,2,5,31.9,Minor
+RWACC-00365,Huye,Market road,Clear,Dry,Daylight,Evening,Truck,30.0,1,6,8.8,Minor
+RWACC-00366,Rubavu,Market road,Clear,Damaged,Daylight,Night,Car,80.0,1,6,14.1,Serious
+RWACC-00367,Karongi,Highway,Clear,Wet,Daylight,Morning,Motorcycle,50.0,1,1,15.9,Minor
+RWACC-00368,Huye,Urban,Clear,Wet,Daylight,Afternoon,Car,50.0,1,6,20.0,Serious
+RWACC-00369,Karongi,Highway,Clear,Dry,Daylight,Afternoon,Pedestrian involved,60.0,1,1,9.7,Minor
+RWACC-00370,Muhanga,Highway,Rain,Dry,Daylight,Afternoon,Motorcycle,80.0,4,6,20.4,Serious
+RWACC-00371,Nyagatare,Highway,Rain,Dry,Daylight,Afternoon,Motorcycle,50.0,2,3,21.0,Minor
+RWACC-00372,Musanze,Rural,Windy,Dry,Daylight,Afternoon,Motorcycle,100.0,2,4,23.9,Minor
+RWACC-00373,Nyagatare,Rural,Rain,Wet,Dark,Night,Motorcycle,100.0,1,6,,Serious
+RWACC-00374,Rusizi,Rural,Clear,Gravel,Street lights,Evening,Pedestrian involved,40.0,5,4,26.9,Minor
+RWACC-00375,Nyarugenge,Urban,Fog,Dry,Daylight,Evening,Motorcycle,80.0,1,4,9.9,Serious
+RWACC-00376,Kicukiro,Rural,Fog,Dry,Dark,Evening,Car,40.0,5,1,22.6,Fatal
+RWACC-00377,Musanze,Rural,Rain,Wet,Dark,Afternoon,Bus,50.0,4,1,15.1,Serious
+RWACC-00378,Bugesera,Urban,Clear,Damaged,Street lights,Morning,Bus,30.0,1,6,11.9,Serious
+RWACC-00379,Kicukiro,Rural,Clear,Dry,Daylight,Morning,Motorcycle,60.0,2,3,15.6,Minor
+RWACC-00380,Rubavu,Urban,Clear,Wet,Daylight,Morning,Car,60.0,1,5,5.2,Serious
+RWACC-00381,Nyarugenge,Highway,Windy,Gravel,Daylight,Morning,Truck,60.0,2,6,,Minor
+RWACC-00382,Nyagatare,Market road,Clear,Dry,Daylight,Evening,Motorcycle,50.0,1,4,21.9,Minor
+RWACC-00383,Rusizi,Urban,Clear,Dry,Daylight,Afternoon,Truck,30.0,4,5,35.6,Serious
+RWACC-00384,Kicukiro,Market road,Rain,Dry,Daylight,Afternoon,Car,100.0,4,1,5.2,Serious
+RWACC-00385,Kicukiro,Highway,Rain,Dry,Daylight,Morning,Motorcycle,50.0,2,4,32.0,Serious
+RWACC-00386,Rusizi,Urban,Clear,Dry,Daylight,Afternoon,Motorcycle,60.0,1,4,21.9,Serious
+RWACC-00387,Musanze,Urban,Clear,Gravel,Daylight,Morning,Car,50.0,3,5,2.0,Serious
+RWACC-00388,Bugesera,Urban,Fog,Damaged,Daylight,Afternoon,Car,40.0,2,4,20.0,Serious
+RWACC-00389,Nyarugenge,Rural,,Wet,Street lights,Afternoon,Motorcycle,80.0,1,3,13.7,Minor
+RWACC-00390,Rusizi,Market road,Rain,Gravel,Dark,Afternoon,Truck,50.0,3,2,9.0,Serious
+RWACC-00391,Kicukiro,Market road,Clear,Dry,Daylight,Afternoon,Car,100.0,2,6,6.4,Minor
+RWACC-00392,Rusizi,Rural,Rain,Dry,Daylight,Afternoon,Car,60.0,1,6,2.4,Serious
+RWACC-00393,Karongi,Urban,Clear,Dry,Street lights,Afternoon,Car,40.0,1,2,11.4,Minor
+RWACC-00394,Rusizi,Urban,Fog,Dry,Street lights,Evening,Car,40.0,2,2,5.3,Minor
+RWACC-00395,Muhanga,Urban,Clear,Wet,Street lights,Night,Bus,80.0,1,6,4.0,Serious
+RWACC-00396,Muhanga,Highway,Clear,Dry,Daylight,Afternoon,Motorcycle,60.0,1,2,14.9,Minor
+RWACC-00397,Nyagatare,Rural,Clear,Gravel,Street lights,Night,Car,50.0,2,3,17.0,Minor
+RWACC-00398,Rusizi,Market road,Clear,Gravel,Daylight,Afternoon,Motorcycle,30.0,2,3,2.6,Minor
+RWACC-00399,Rwamagana,Urban,Clear,Wet,Daylight,Evening,Car,40.0,3,2,19.2,Minor
+RWACC-00400,Muhanga,Urban,Clear,Dry,Dark,Morning,Car,60.0,1,3,6.5,Minor
+RWACC-00401,Nyarugenge,Highway,Fog,Dry,Daylight,Evening,Pedestrian involved,30.0,1,6,10.0,Serious
+RWACC-00402,Huye,Market road,Clear,Dry,Daylight,Afternoon,Car,30.0,1,5,20.0,Minor
+RWACC-00403,Karongi,Urban,Rain,Wet,Daylight,Evening,Car,30.0,1,4,14.9,Minor
+RWACC-00404,Huye,Market road,Rain,Dry,Daylight,Evening,Pedestrian involved,60.0,2,4,24.4,Serious
+RWACC-00405,Rusizi,Market road,Clear,Dry,Street lights,Evening,Motorcycle,30.0,1,6,15.0,Minor
+RWACC-00406,Kicukiro,Rural,Clear,Wet,Daylight,Morning,Motorcycle,30.0,1,5,76.4,Minor
+RWACC-00407,Rwamagana,Rural,Clear,Dry,Street lights,Night,Car,40.0,1,6,9.6,Minor
+RWACC-00408,Gasabo,Urban,Clear,Dry,Daylight,Night,Pedestrian involved,60.0,2,3,10.0,Minor
+RWACC-00409,Rwamagana,Market road,Clear,Gravel,Daylight,Morning,Car,50.0,3,6,12.3,Minor
+RWACC-00410,Kicukiro,Highway,Clear,Dry,Daylight,Afternoon,Car,80.0,1,1,19.7,Minor
+RWACC-00411,Rwamagana,Urban,Rain,Dry,Street lights,Night,Motorcycle,100.0,1,5,23.0,Serious
+RWACC-00412,Nyarugenge,Urban,Clear,Gravel,Street lights,Afternoon,Truck,40.0,2,3,8.7,Minor
+RWACC-00413,Musanze,Highway,Clear,Dry,Daylight,Morning,Car,40.0,1,5,30.4,Serious
+RWACC-00414,Rwamagana,Highway,Rain,Wet,Street lights,Night,Car,80.0,2,4,38.5,Fatal
+RWACC-00415,Kicukiro,Rural,Fog,Dry,Dark,Afternoon,Car,60.0,1,3,12.3,Serious
+RWACC-00416,Huye,Rural,Clear,Wet,Street lights,Morning,Truck,40.0,1,3,7.3,Minor
+RWACC-00417,Rubavu,Rural,Clear,Dry,Street lights,Afternoon,Bicycle,40.0,3,4,16.7,Serious
+RWACC-00418,Bugesera,Highway,Clear,Dry,Dark,Evening,Motorcycle,30.0,1,4,37.8,Serious
+RWACC-00419,Nyarugenge,Urban,Fog,Gravel,Dark,Afternoon,Bus,50.0,2,5,15.4,Serious
+RWACC-00420,Karongi,Urban,Clear,Dry,Daylight,Afternoon,Motorcycle,40.0,1,5,11.3,Minor
+RWACC-00421,Rwamagana,Urban,Clear,Damaged,Street lights,Morning,Car,80.0,1,1,4.8,Minor
+RWACC-00422,Muhanga,Urban,Clear,Gravel,Daylight,Afternoon,Motorcycle,40.0,1,1,8.4,Minor
+RWACC-00423,Gasabo,Rural,Rain,Dry,Daylight,Afternoon,Truck,50.0,4,2,27.1,Minor
+RWACC-00424,Huye,Urban,Rain,Dry,Street lights,Morning,Bus,30.0,4,3,4.3,Serious
+RWACC-00425,Huye,Urban,Rain,Gravel,Street lights,Night,Motorcycle,40.0,1,3,11.8,Serious
+RWACC-00426,Kicukiro,Urban,Clear,Dry,Dark,Evening,Car,60.0,2,2,2.7,Minor
+RWACC-00427,Kicukiro,Urban,Clear,Dry,Daylight,Afternoon,Motorcycle,40.0,2,4,13.6,Minor
+RWACC-00428,Muhanga,Urban,Clear,Dry,Daylight,Afternoon,Car,40.0,2,2,8.9,Minor
+RWACC-00429,Muhanga,Urban,Clear,Wet,Dark,Afternoon,Truck,50.0,1,4,13.3,Serious
+RWACC-00430,Karongi,Urban,Rain,Wet,Street lights,Morning,Bicycle,60.0,1,4,4.7,Serious
+RWACC-00431,Nyarugenge,Rural,Rain,Wet,Street lights,Morning,Bus,50.0,2,2,8.6,Minor
+RWACC-00432,Muhanga,Rural,Clear,Gravel,Street lights,Night,Motorcycle,30.0,1,1,19.4,Minor
+RWACC-00433,Huye,Rural,Clear,Dry,Daylight,Night,Bicycle,80.0,2,5,4.8,Serious
+RWACC-00434,Musanze,Market road,Rain,Dry,Daylight,Evening,Bus,40.0,1,1,18.7,Minor
+RWACC-00435,Bugesera,Urban,Rain,Dry,Dark,Morning,Bicycle,60.0,1,1,50.7,Minor
+RWACC-00436,Musanze,Urban,Rain,Dry,Daylight,Evening,Car,30.0,1,1,6.6,Minor
+RWACC-00437,Rusizi,Highway,Clear,Dry,Daylight,Night,Car,50.0,3,6,33.1,Serious
+RWACC-00438,Huye,Market road,Clear,Gravel,Street lights,Night,Car,50.0,1,5,27.4,Minor
+RWACC-00439,Gasabo,Highway,,Dry,Daylight,Evening,Motorcycle,50.0,1,1,11.1,Minor
+RWACC-00440,Nyarugenge,Rural,Rain,Dry,Daylight,Night,Motorcycle,30.0,1,1,8.6,Minor
+RWACC-00441,Bugesera,Urban,Clear,Wet,Street lights,Morning,Truck,60.0,3,6,32.6,Serious
+RWACC-00442,Karongi,Market road,Clear,Dry,Dark,Afternoon,Motorcycle,80.0,1,4,13.9,Minor
+RWACC-00443,Karongi,Market road,Windy,Dry,Daylight,Afternoon,Motorcycle,40.0,3,4,3.7,Minor
+RWACC-00444,Nyagatare,Urban,Clear,Dry,Daylight,Evening,Truck,80.0,1,6,18.6,Serious
+RWACC-00445,Nyagatare,Urban,,Dry,Daylight,Afternoon,Pedestrian involved,60.0,4,4,23.4,Serious
+RWACC-00446,Nyagatare,Rural,Clear,Gravel,Daylight,Afternoon,Motorcycle,30.0,2,5,10.7,Minor
+RWACC-00447,Nyagatare,Highway,Rain,Dry,Daylight,Evening,Truck,60.0,1,5,4.3,Serious
+RWACC-00448,Musanze,Urban,Rain,Dry,Daylight,Evening,Motorcycle,60.0,1,5,12.3,Serious
+RWACC-00449,Gasabo,Urban,Clear,Dry,Dark,Afternoon,Motorcycle,50.0,3,2,15.6,Minor
+RWACC-00450,Nyarugenge,Urban,Clear,Dry,Daylight,Morning,Motorcycle,60.0,1,2,3.0,Minor
+RWACC-00451,Musanze,Urban,Rain,Dry,Dark,Evening,Truck,30.0,1,5,21.6,Fatal
+RWACC-00452,Rwamagana,Urban,Fog,Gravel,Daylight,Evening,Car,50.0,1,5,33.0,Serious
+RWACC-00453,Rubavu,Urban,Windy,Wet,Street lights,Morning,Motorcycle,80.0,1,2,26.9,Minor
+RWACC-00454,Gasabo,Market road,Clear,Dry,Daylight,Evening,Bus,30.0,1,6,16.8,Minor
+RWACC-00455,Huye,Rural,Clear,Dry,Daylight,Night,Motorcycle,30.0,1,5,15.2,Minor
+RWACC-00456,Musanze,Market road,Windy,Dry,Street lights,Morning,Motorcycle,30.0,3,3,7.3,Minor
+RWACC-00457,Musanze,Highway,Clear,Dry,Dark,Evening,Car,50.0,2,2,7.2,Minor
+RWACC-00458,Kicukiro,Market road,Clear,Dry,Dark,Morning,Car,50.0,1,6,27.7,Minor
+RWACC-00459,Muhanga,Urban,Rain,Wet,Daylight,Morning,Bus,60.0,1,2,21.1,Serious
+RWACC-00460,Muhanga,Urban,Clear,Dry,Daylight,Night,Motorcycle,50.0,1,6,23.0,Serious
+RWACC-00461,Gasabo,Rural,Clear,Dry,Daylight,Afternoon,Motorcycle,60.0,1,6,3.7,Minor
+RWACC-00462,Rwamagana,Urban,Clear,Dry,Daylight,Afternoon,Truck,60.0,2,5,7.9,Minor
+RWACC-00463,Rwamagana,Rural,Rain,Dry,Daylight,Morning,Motorcycle,50.0,2,6,,Serious
+RWACC-00464,Nyagatare,Rural,Clear,Damaged,Daylight,Afternoon,Motorcycle,50.0,1,1,16.3,Minor
+RWACC-00465,Rwamagana,Rural,Clear,Dry,Daylight,Morning,Pedestrian involved,40.0,2,1,16.9,Minor
+RWACC-00466,Karongi,Urban,Fog,Dry,Street lights,Morning,Motorcycle,60.0,2,3,30.0,Minor
+RWACC-00467,Nyarugenge,Urban,Fog,Dry,Daylight,Morning,Pedestrian involved,40.0,3,5,15.8,Serious
+RWACC-00468,Musanze,Highway,Clear,Dry,Street lights,Afternoon,Truck,50.0,1,3,32.3,Serious
+RWACC-00469,Nyarugenge,Market road,Clear,Wet,Dark,Night,Car,40.0,1,2,41.4,Serious
+RWACC-00470,Huye,Urban,Rain,Gravel,Daylight,Afternoon,Bus,80.0,3,3,7.9,Serious
+RWACC-00471,Nyagatare,Highway,Rain,Dry,Street lights,Afternoon,Motorcycle,60.0,1,6,15.1,Serious
+RWACC-00472,Gasabo,Urban,Clear,Dry,Daylight,Afternoon,Car,40.0,3,1,15.6,Minor
+RWACC-00473,Gasabo,Market road,Clear,Wet,Daylight,Morning,Car,50.0,1,2,13.3,Minor
+RWACC-00474,Nyagatare,Urban,Rain,Gravel,Daylight,Evening,Car,40.0,3,4,13.6,Serious
+RWACC-00475,Nyarugenge,Rural,Clear,Dry,Daylight,Afternoon,Truck,80.0,3,1,7.6,Serious
+RWACC-00476,Nyagatare,Urban,Rain,Dry,Dark,Afternoon,Motorcycle,50.0,2,5,14.1,Serious
+RWACC-00477,Kicukiro,Urban,Clear,Dry,Daylight,Morning,Car,60.0,3,5,12.5,Minor
+RWACC-00478,Nyarugenge,Urban,Clear,Dry,Street lights,Evening,Motorcycle,60.0,2,2,40.3,Minor
+RWACC-00479,Muhanga,Urban,Clear,Wet,Street lights,Afternoon,Motorcycle,30.0,1,6,8.2,Minor
+RWACC-00480,Nyarugenge,Urban,Clear,Wet,Street lights,Evening,Pedestrian involved,30.0,1,6,14.4,Minor
+RWACC-00481,Muhanga,Rural,Rain,Dry,Dark,Morning,Motorcycle,60.0,2,1,57.5,Serious
+RWACC-00482,Musanze,Urban,Clear,Dry,Street lights,Night,Car,40.0,1,5,16.6,Minor
+RWACC-00483,Huye,Market road,Clear,Dry,Daylight,Morning,Truck,30.0,1,2,20.2,Minor
+RWACC-00484,Huye,Urban,,Dry,Dark,Evening,Car,30.0,1,5,78.2,Minor
+RWACC-00485,Huye,Urban,Clear,Wet,Street lights,Evening,Motorcycle,30.0,5,5,2.7,Serious
+RWACC-00486,Kicukiro,Rural,Clear,Dry,Street lights,Morning,Car,100.0,2,6,46.1,Serious
+RWACC-00487,Bugesera,Rural,Windy,Dry,Street lights,Evening,Car,60.0,2,5,35.7,Minor
+RWACC-00488,Muhanga,Rural,Clear,Dry,Daylight,Morning,Pedestrian involved,80.0,1,2,16.1,Minor
+RWACC-00489,Karongi,Urban,Clear,Dry,Daylight,Evening,Motorcycle,80.0,2,6,16.3,Minor
+RWACC-00490,Karongi,Urban,Windy,Dry,Daylight,Evening,Car,60.0,1,1,18.8,Minor
+RWACC-00491,Rwamagana,Highway,Rain,Dry,Street lights,Morning,Motorcycle,40.0,1,3,7.5,Minor
+RWACC-00492,Kicukiro,Highway,Clear,Dry,Street lights,Evening,Motorcycle,50.0,1,4,16.5,Serious
+RWACC-00493,Nyarugenge,Rural,Clear,Wet,Daylight,Night,Motorcycle,30.0,3,3,8.1,Serious
+RWACC-00494,Huye,Urban,Clear,Gravel,Street lights,Evening,Car,60.0,1,5,5.9,Minor
+RWACC-00495,Nyarugenge,Rural,Clear,Wet,Daylight,Morning,Motorcycle,40.0,2,6,24.1,Minor
+RWACC-00496,Rubavu,Rural,Clear,Wet,Daylight,Morning,Motorcycle,50.0,3,2,9.1,Serious
+RWACC-00497,Huye,Market road,Rain,Gravel,Street lights,Morning,Car,50.0,1,5,6.6,Minor
+RWACC-00498,Bugesera,Rural,Clear,Dry,Street lights,Afternoon,Truck,80.0,1,1,2.4,Minor
+RWACC-00499,Kicukiro,Highway,Fog,Dry,Daylight,Evening,Bus,80.0,1,2,23.2,Serious
+RWACC-00500,Nyarugenge,Market road,Clear,Dry,Daylight,Night,Motorcycle,40.0,1,1,9.1,Minor
+RWACC-00501,Rubavu,Highway,Clear,Wet,Street lights,Morning,Car,100.0,1,3,52.2,Minor
+RWACC-00502,Rubavu,Urban,Clear,Dry,Street lights,Afternoon,Bicycle,60.0,1,3,7.0,Minor
+RWACC-00503,Gasabo,Highway,Rain,Damaged,Daylight,Afternoon,Truck,60.0,1,4,35.5,Fatal
+RWACC-00504,Nyarugenge,Urban,Clear,Dry,Daylight,Morning,Motorcycle,60.0,2,3,15.4,Minor
+RWACC-00505,Musanze,Rural,Clear,Dry,Daylight,Morning,Truck,40.0,1,2,30.9,Minor
+RWACC-00506,Bugesera,Urban,Clear,Wet,Street lights,Afternoon,Car,40.0,2,2,19.0,Minor
+RWACC-00507,Gasabo,Rural,Clear,Gravel,Daylight,Morning,Car,50.0,3,6,40.0,Serious
+RWACC-00508,Nyagatare,Rural,Fog,Dry,Daylight,Morning,Pedestrian involved,60.0,1,4,8.4,Serious
+RWACC-00509,Nyarugenge,Rural,Clear,Dry,Street lights,Morning,Car,30.0,3,3,27.2,Minor
+RWACC-00510,Musanze,Urban,Clear,Dry,Daylight,Evening,Car,50.0,2,1,11.4,Minor
+RWACC-00511,Gasabo,Urban,Clear,Dry,Dark,Morning,Car,80.0,1,1,16.6,Minor
+RWACC-00512,Rusizi,Highway,Clear,Dry,Dark,Afternoon,Bus,60.0,2,4,10.5,Serious
+RWACC-00513,Huye,Urban,Clear,Dry,Daylight,Morning,Motorcycle,30.0,1,2,33.1,Minor
+RWACC-00514,Huye,Urban,Clear,Dry,Daylight,Afternoon,Motorcycle,60.0,3,4,4.2,Serious
+RWACC-00515,Karongi,Highway,Rain,Damaged,Daylight,Night,Pedestrian involved,60.0,2,5,16.6,Serious
+RWACC-00516,Nyarugenge,Market road,Clear,Dry,Daylight,Evening,Car,80.0,2,2,12.7,Minor
+RWACC-00517,Nyarugenge,Rural,Fog,Dry,Street lights,Morning,Car,50.0,1,6,10.4,Fatal
+RWACC-00518,Nyagatare,Market road,Clear,Dry,Daylight,Night,Car,50.0,2,1,14.3,Minor
+RWACC-00519,Huye,Highway,Clear,Dry,Daylight,Night,Pedestrian involved,30.0,1,6,23.8,Minor
+RWACC-00520,Kicukiro,Rural,Clear,Dry,Daylight,Afternoon,Truck,60.0,3,2,20.3,Minor
+RWACC-00521,Huye,Urban,Clear,Wet,Daylight,Evening,Car,40.0,2,6,2.6,Minor
+RWACC-00522,Muhanga,Urban,Clear,Gravel,Daylight,Afternoon,Motorcycle,,1,5,36.3,Minor
+RWACC-00523,Gasabo,Highway,Rain,Dry,Dark,Afternoon,Truck,40.0,2,5,15.4,Fatal
+RWACC-00524,Rwamagana,Urban,Rain,Wet,Daylight,Night,Motorcycle,30.0,1,1,10.2,Serious
+RWACC-00525,Huye,Urban,Clear,Dry,Daylight,Morning,Pedestrian involved,30.0,1,6,18.3,Minor
+RWACC-00526,Huye,Highway,Rain,Dry,Street lights,Night,Bicycle,40.0,2,1,3.8,Serious
+RWACC-00527,Rubavu,Urban,Clear,Dry,Daylight,Night,Motorcycle,80.0,2,6,5.2,Minor
+RWACC-00528,Rusizi,Rural,Clear,Damaged,Dark,Evening,Car,50.0,1,4,8.1,Serious
+RWACC-00529,Musanze,Rural,Clear,Dry,Street lights,Night,Truck,60.0,2,2,4.0,Serious
+RWACC-00530,Rubavu,Rural,Clear,Dry,Street lights,Night,Motorcycle,80.0,2,3,33.4,Minor
+RWACC-00531,Musanze,Urban,Clear,Dry,Dark,Night,Motorcycle,80.0,2,1,4.8,Minor
+RWACC-00532,Rusizi,Highway,Clear,,Street lights,Morning,Motorcycle,60.0,1,3,10.8,Minor
+RWACC-00533,Huye,Highway,Clear,Dry,Dark,Afternoon,Motorcycle,80.0,1,6,15.3,Serious
+RWACC-00534,Muhanga,Rural,Clear,Dry,Daylight,Afternoon,Motorcycle,50.0,2,1,45.1,Minor
+RWACC-00535,Musanze,Highway,Clear,Gravel,Street lights,Night,Bicycle,100.0,5,6,10.5,Serious
+RWACC-00536,Huye,Urban,Clear,Dry,Dark,Afternoon,Bus,60.0,2,2,11.8,Minor
+RWACC-00537,Musanze,Urban,Clear,Wet,Dark,Evening,Car,40.0,1,5,11.9,Serious
+RWACC-00538,Karongi,Urban,Clear,Damaged,Street lights,Afternoon,Motorcycle,30.0,1,2,12.6,Minor
+RWACC-00539,Nyarugenge,Urban,Clear,Dry,Dark,Morning,Truck,80.0,2,3,18.2,Minor
+RWACC-00540,Rusizi,Rural,Rain,,Daylight,Night,Pedestrian involved,50.0,2,2,28.4,Minor
+RWACC-00541,Nyarugenge,Rural,Clear,Gravel,Daylight,Evening,Motorcycle,30.0,2,6,29.5,Minor
+RWACC-00542,Muhanga,Urban,Clear,Dry,Daylight,Morning,Pedestrian involved,40.0,1,1,18.0,Minor
+RWACC-00543,Nyagatare,Rural,Clear,Gravel,Dark,Afternoon,Bus,60.0,4,1,17.2,Serious
+RWACC-00544,Bugesera,Urban,Windy,Dry,Daylight,Afternoon,Motorcycle,30.0,1,2,31.3,Minor
+RWACC-00545,Muhanga,Highway,Windy,Dry,Daylight,Morning,Truck,40.0,2,5,19.1,Serious
+RWACC-00546,Muhanga,Urban,Clear,Gravel,Street lights,Afternoon,Car,80.0,3,1,14.4,Minor
+RWACC-00547,Huye,Highway,Clear,Dry,Daylight,Evening,Pedestrian involved,60.0,2,1,9.0,Serious
+RWACC-00548,Bugesera,Urban,Clear,Dry,Street lights,Morning,Car,60.0,1,3,8.0,Minor
+RWACC-00549,Bugesera,Rural,Clear,Wet,Street lights,Evening,Bus,50.0,2,1,10.2,Serious
+RWACC-00550,Rwamagana,Highway,Clear,Gravel,Daylight,Night,Truck,40.0,2,6,15.1,Serious
+RWACC-00551,Muhanga,Market road,Clear,Wet,Daylight,Afternoon,Motorcycle,50.0,2,3,16.7,Minor
+RWACC-00552,Nyarugenge,Market road,Clear,Gravel,Street lights,Evening,Motorcycle,50.0,2,6,30.4,Serious
+RWACC-00553,Nyagatare,Urban,Clear,Dry,Daylight,Morning,Car,60.0,2,4,5.8,Minor
+RWACC-00554,Rusizi,Urban,Clear,Damaged,Street lights,Afternoon,Car,60.0,1,3,17.2,Minor
+RWACC-00555,Kicukiro,Highway,Clear,Dry,Daylight,Morning,Car,30.0,3,1,5.1,Minor
+RWACC-00556,Gasabo,Urban,Clear,Dry,Daylight,Evening,Pedestrian involved,100.0,1,5,3.2,Serious
+RWACC-00557,Muhanga,Urban,Clear,Dry,Dark,Afternoon,Motorcycle,40.0,2,3,19.8,Minor
+RWACC-00558,Rubavu,Rural,Clear,Wet,Daylight,Afternoon,Truck,50.0,1,2,6.8,Minor
+RWACC-00559,Huye,Urban,Rain,Dry,Daylight,Evening,Car,30.0,2,6,29.4,Minor
+RWACC-00560,Nyagatare,Urban,Clear,Dry,Dark,Morning,Pedestrian involved,100.0,1,5,10.4,Minor
+RWACC-00561,Kicukiro,Rural,Rain,Dry,Street lights,Evening,Car,60.0,1,6,14.4,Serious
+RWACC-00562,Nyarugenge,Rural,Clear,Dry,Daylight,Evening,Motorcycle,40.0,3,4,12.1,Minor
+RWACC-00563,Nyagatare,Rural,Rain,Gravel,Street lights,Afternoon,Bus,50.0,1,5,17.2,Serious
+RWACC-00564,Gasabo,Market road,Rain,Dry,Daylight,Evening,Motorcycle,40.0,2,6,3.8,Serious
+RWACC-00565,Rusizi,Urban,Fog,Wet,Daylight,Evening,Car,50.0,5,4,27.7,Serious
+RWACC-00566,Musanze,Highway,Clear,Damaged,Street lights,Afternoon,Car,50.0,1,2,29.3,Minor
+RWACC-00567,Muhanga,Market road,Rain,,Daylight,Afternoon,Car,100.0,2,2,12.7,Minor
+RWACC-00568,Gasabo,Urban,Rain,Wet,Dark,Night,Pedestrian involved,60.0,1,3,13.5,Serious
+RWACC-00569,Musanze,Highway,Clear,Wet,Street lights,Afternoon,Truck,50.0,2,2,2.5,Serious
+RWACC-00570,Gasabo,Rural,Clear,Dry,Daylight,Afternoon,Pedestrian involved,80.0,2,2,8.9,Minor
+RWACC-00571,Nyagatare,Highway,Clear,Dry,Street lights,Morning,Truck,40.0,1,5,7.9,Serious
+RWACC-00572,Gasabo,Urban,Clear,Gravel,Daylight,Afternoon,Car,80.0,2,5,24.9,Minor
+RWACC-00573,Gasabo,Urban,Clear,Dry,Daylight,Afternoon,Motorcycle,50.0,2,5,11.0,Minor
+RWACC-00574,Nyagatare,Urban,Clear,Wet,Street lights,Afternoon,Car,60.0,1,2,8.3,Minor
+RWACC-00575,Rusizi,Urban,Clear,Dry,Daylight,Evening,Car,60.0,1,3,16.3,Minor
+RWACC-00576,Rubavu,Highway,Windy,Dry,Daylight,Morning,Truck,50.0,2,1,24.1,Minor
+RWACC-00577,Muhanga,Urban,Fog,Dry,Street lights,Night,Bus,60.0,3,2,9.9,Serious
+RWACC-00578,Nyarugenge,Highway,Clear,Dry,Dark,Evening,Bus,50.0,2,2,18.2,Serious
+RWACC-00579,Karongi,Urban,Clear,Damaged,Daylight,Afternoon,Truck,80.0,2,3,17.7,Minor
+RWACC-00580,Rubavu,Rural,Clear,Dry,Street lights,Night,Car,50.0,1,6,7.5,Minor
+RWACC-00581,Rusizi,Rural,Rain,Wet,Daylight,Morning,Motorcycle,30.0,2,2,39.0,Serious
+RWACC-00582,Rubavu,Rural,Rain,Wet,Daylight,Afternoon,Bicycle,80.0,2,5,30.3,Serious
+RWACC-00583,Karongi,Rural,Clear,Dry,Daylight,Night,Bus,80.0,1,4,2.7,Serious
+RWACC-00584,Muhanga,Urban,Clear,Dry,Daylight,Afternoon,Truck,80.0,2,4,12.2,Minor
+RWACC-00585,Muhanga,Urban,Clear,Wet,Daylight,Afternoon,Bus,60.0,3,6,25.6,Fatal
+RWACC-00586,Karongi,Rural,Clear,Dry,Street lights,Evening,Bus,50.0,2,2,13.5,Minor
+RWACC-00587,Muhanga,Highway,Clear,Wet,Street lights,Morning,Truck,60.0,2,6,23.7,Serious
+RWACC-00588,Nyagatare,Rural,Clear,Dry,Street lights,Evening,Bus,40.0,1,2,20.2,Minor
+RWACC-00589,Gasabo,Rural,Rain,Dry,Street lights,Morning,Pedestrian involved,30.0,2,4,24.0,Serious
+RWACC-00590,Bugesera,Highway,Clear,Dry,Daylight,Morning,Car,30.0,2,6,12.2,Minor
+RWACC-00591,Musanze,Urban,Clear,Dry,Daylight,Night,Truck,30.0,5,1,9.5,Minor
+RWACC-00592,Nyagatare,Market road,Clear,Wet,Daylight,Afternoon,Pedestrian involved,30.0,3,4,14.3,Serious
+RWACC-00593,Nyarugenge,Highway,Rain,Dry,Street lights,Evening,Truck,80.0,1,1,18.0,Serious
+RWACC-00594,Nyarugenge,Rural,Clear,Dry,Daylight,Evening,Car,60.0,2,3,19.6,Minor
+RWACC-00595,Karongi,Rural,Clear,Dry,Dark,Evening,Car,60.0,4,3,7.2,Minor
+RWACC-00596,Gasabo,Urban,Clear,Dry,Daylight,Morning,Car,40.0,1,1,9.7,Minor
+RWACC-00597,Karongi,Rural,Clear,Wet,Dark,Afternoon,Car,80.0,1,1,38.7,Serious
+RWACC-00598,Rusizi,Urban,Clear,Dry,Street lights,Morning,Bus,60.0,1,5,6.5,Minor
+RWACC-00599,Musanze,Urban,Fog,Gravel,Daylight,Evening,Bicycle,50.0,1,6,12.4,Serious
+RWACC-00600,Nyagatare,Urban,Clear,Wet,Daylight,Afternoon,Truck,60.0,1,1,20.1,Serious
+RWACC-00601,Rwamagana,Rural,,Dry,Street lights,Afternoon,Pedestrian involved,60.0,1,1,25.9,Minor
+RWACC-00602,Gasabo,Highway,Clear,Dry,Daylight,Night,Motorcycle,80.0,3,1,11.4,Minor
+RWACC-00603,Muhanga,Urban,Clear,Gravel,Daylight,Morning,Pedestrian involved,40.0,1,5,18.5,Minor
+RWACC-00604,Nyagatare,Rural,Clear,Dry,Street lights,Morning,Motorcycle,50.0,1,6,10.4,Minor
+RWACC-00605,Rubavu,Urban,Rain,Wet,Daylight,Morning,Car,50.0,2,5,4.2,Serious
+RWACC-00606,Nyagatare,Highway,Clear,Dry,Street lights,Night,Car,40.0,2,1,4.6,Serious
+RWACC-00607,Musanze,Market road,Rain,Dry,Dark,Afternoon,Truck,80.0,1,6,48.2,Serious
+RWACC-00608,Muhanga,Highway,Clear,Dry,Daylight,Afternoon,Car,30.0,2,5,19.5,Minor
+RWACC-00609,Gasabo,Urban,Rain,Dry,Street lights,Evening,Motorcycle,40.0,1,2,13.9,Minor
+RWACC-00610,Rubavu,Market road,Fog,Wet,Daylight,Afternoon,Motorcycle,60.0,3,4,13.9,Serious
+RWACC-00611,Nyarugenge,Highway,Clear,Dry,Daylight,Evening,Motorcycle,80.0,3,4,5.8,Serious
+RWACC-00612,Rusizi,Highway,Fog,Dry,Street lights,Evening,Motorcycle,80.0,2,5,18.3,Serious
+RWACC-00613,Musanze,Urban,Rain,Dry,Daylight,Night,Motorcycle,60.0,3,6,7.6,Serious
+RWACC-00614,Nyarugenge,Urban,Clear,Dry,Daylight,Afternoon,Bus,40.0,2,4,6.2,Serious
+RWACC-00615,Kicukiro,Urban,Clear,Dry,Daylight,Afternoon,Truck,40.0,1,5,10.4,Serious
+RWACC-00616,Bugesera,Rural,Clear,Dry,Daylight,Morning,Car,50.0,1,2,3.3,Minor
+RWACC-00617,Rusizi,Urban,Clear,Dry,Daylight,Evening,Motorcycle,60.0,2,2,10.8,Minor
+RWACC-00618,Nyarugenge,Urban,Clear,Dry,Street lights,Evening,Car,30.0,3,2,5.7,Minor
+RWACC-00619,Gasabo,Rural,Clear,Dry,Daylight,Morning,Motorcycle,50.0,1,4,17.3,Minor
+RWACC-00620,Huye,Highway,Clear,Dry,Daylight,Night,Truck,40.0,3,1,45.1,Serious
+RWACC-00621,Rwamagana,Market road,Clear,Dry,Daylight,Night,Motorcycle,40.0,2,5,33.1,Minor
+RWACC-00622,Rwamagana,Urban,Clear,Dry,Daylight,Morning,Pedestrian involved,40.0,2,6,5.4,Serious
+RWACC-00623,Bugesera,Rural,Clear,Dry,Dark,Morning,Motorcycle,80.0,1,5,8.7,Serious
+RWACC-00624,Muhanga,Urban,Clear,Dry,Daylight,Morning,Pedestrian involved,60.0,2,3,6.6,Minor
+RWACC-00625,Nyagatare,Rural,Clear,Dry,Daylight,Afternoon,Pedestrian involved,50.0,1,3,3.9,Minor
+RWACC-00626,Rwamagana,Highway,Rain,Dry,Daylight,Afternoon,Motorcycle,50.0,1,2,12.8,Minor
+RWACC-00627,Kicukiro,Rural,Rain,Dry,Daylight,Morning,Car,30.0,4,6,20.6,Serious
+RWACC-00628,Rubavu,Rural,Clear,Gravel,Daylight,Afternoon,Motorcycle,80.0,3,4,5.0,Minor
+RWACC-00629,Gasabo,Urban,Clear,Dry,Daylight,Afternoon,Car,50.0,3,2,18.2,Minor
+RWACC-00630,Kicukiro,Urban,Rain,Dry,Street lights,Morning,Truck,60.0,2,2,4.7,Serious
+RWACC-00631,Nyarugenge,Rural,Rain,Damaged,Daylight,Night,Truck,50.0,1,3,7.8,Serious
+RWACC-00632,Muhanga,Highway,Rain,Dry,Street lights,Night,Bicycle,60.0,1,2,7.7,Serious
+RWACC-00633,Rwamagana,Rural,Clear,Dry,Daylight,Night,Motorcycle,60.0,4,4,17.1,Serious
+RWACC-00634,Karongi,Rural,Fog,Dry,Daylight,Afternoon,Motorcycle,40.0,5,6,12.6,Minor
+RWACC-00635,Rwamagana,Highway,Clear,Gravel,Street lights,Evening,Car,80.0,1,4,44.9,Serious
+RWACC-00636,Gasabo,Highway,Rain,Wet,Daylight,Evening,Car,60.0,1,3,4.3,Serious
+RWACC-00637,Bugesera,Rural,Clear,Wet,Street lights,Morning,Pedestrian involved,50.0,3,5,14.4,Minor
+RWACC-00638,Karongi,Rural,Clear,Dry,Daylight,Afternoon,Motorcycle,60.0,1,4,7.0,Minor
+RWACC-00639,Bugesera,Rural,Clear,Gravel,Street lights,Evening,Motorcycle,60.0,2,3,17.0,Minor
+RWACC-00640,Nyarugenge,Urban,Clear,Gravel,Dark,Afternoon,Motorcycle,50.0,1,3,27.5,Minor
+RWACC-00641,Gasabo,Rural,Clear,Dry,Daylight,Morning,Motorcycle,100.0,1,4,17.7,Minor
+RWACC-00642,Rubavu,Rural,Clear,,Daylight,Afternoon,Car,50.0,1,3,9.9,Minor
+RWACC-00643,Musanze,Rural,Clear,Damaged,Street lights,Afternoon,Bus,50.0,2,5,28.6,Minor
+RWACC-00644,Nyagatare,Urban,Clear,Gravel,Daylight,Evening,Pedestrian involved,60.0,2,2,11.5,Minor
+RWACC-00645,Rwamagana,Urban,Clear,Dry,Daylight,Afternoon,Motorcycle,100.0,1,5,,Serious
+RWACC-00646,Bugesera,Rural,Clear,Wet,Daylight,Night,Truck,50.0,1,4,10.7,Serious
+RWACC-00647,Bugesera,Urban,Clear,Gravel,Dark,Night,Car,40.0,1,1,11.3,Minor
+RWACC-00648,Nyagatare,Rural,Clear,Dry,Street lights,Afternoon,Car,80.0,1,6,24.5,Minor
+RWACC-00649,Bugesera,Market road,Rain,,Street lights,Night,Motorcycle,30.0,1,1,14.7,Serious
+RWACC-00650,Rubavu,Rural,Clear,Dry,Daylight,Morning,Car,50.0,2,5,2.6,Minor
+RWACC-00651,Musanze,Rural,Clear,Dry,Dark,Morning,Car,40.0,5,3,14.8,Minor
+RWACC-00652,Rubavu,Highway,Rain,Damaged,Daylight,Afternoon,Car,60.0,4,1,22.7,Serious
+RWACC-00653,Karongi,Rural,Clear,Wet,Daylight,Morning,Pedestrian involved,60.0,2,5,7.0,Minor
+RWACC-00654,Rwamagana,Rural,Clear,Wet,Street lights,Afternoon,Car,40.0,2,1,9.7,Minor
+RWACC-00655,Karongi,Rural,Clear,Dry,Street lights,Evening,Car,60.0,2,2,2.0,Minor
+RWACC-00656,Nyagatare,Urban,Clear,Dry,Daylight,Afternoon,Motorcycle,60.0,2,5,49.8,Minor
+RWACC-00657,Bugesera,Highway,Clear,Dry,Daylight,Morning,Truck,60.0,5,4,19.2,Serious
+RWACC-00658,Rubavu,Rural,Clear,Dry,Daylight,Afternoon,Car,30.0,3,4,66.6,Serious
+RWACC-00659,Gasabo,Urban,Clear,Damaged,Street lights,Morning,Truck,40.0,3,4,19.1,Serious
+RWACC-00660,Muhanga,Urban,Windy,Dry,Dark,Night,Motorcycle,30.0,1,5,7.8,Serious
+RWACC-00661,Huye,Rural,Clear,Dry,Street lights,Evening,Pedestrian involved,40.0,2,1,29.7,Minor
+RWACC-00662,Rwamagana,Rural,Rain,Dry,Daylight,Afternoon,Bus,30.0,3,1,8.4,Serious
+RWACC-00663,Huye,Urban,Clear,Damaged,Street lights,Evening,Truck,30.0,3,1,10.7,Serious
+RWACC-00664,Kicukiro,Urban,Rain,Dry,Street lights,Morning,Bicycle,80.0,1,3,19.4,Serious
+RWACC-00665,Karongi,Highway,Clear,Damaged,Daylight,Morning,Bus,40.0,1,3,8.4,Serious
+RWACC-00666,Muhanga,Rural,Clear,Dry,Dark,Afternoon,Motorcycle,30.0,2,4,11.1,Minor
+RWACC-00667,Huye,Rural,Clear,Gravel,Street lights,Morning,Motorcycle,30.0,4,2,7.4,Minor
+RWACC-00668,Rusizi,Market road,Rain,Dry,Dark,Evening,Bus,50.0,3,5,10.7,Serious
+RWACC-00669,Bugesera,Urban,Clear,Gravel,Daylight,Night,Car,30.0,1,3,10.8,Minor
+RWACC-00670,Muhanga,Urban,Clear,Dry,Daylight,Night,Car,60.0,1,5,18.4,Minor
+RWACC-00671,Musanze,Highway,Rain,Dry,Daylight,Night,Motorcycle,80.0,1,2,34.5,Serious
+RWACC-00672,Nyarugenge,Urban,Rain,Damaged,Street lights,Afternoon,Motorcycle,80.0,1,2,5.8,Minor
+RWACC-00673,Rubavu,Rural,Clear,Damaged,Daylight,Afternoon,Car,30.0,1,2,9.4,Minor
+RWACC-00674,Nyagatare,Urban,Clear,Dry,Street lights,Afternoon,Bus,30.0,1,4,11.6,Serious
+RWACC-00675,Muhanga,Urban,Clear,Wet,Daylight,Afternoon,Motorcycle,80.0,1,5,19.7,Minor
+RWACC-00676,Gasabo,Rural,Rain,Dry,Street lights,Evening,Motorcycle,40.0,1,1,10.4,Serious
+RWACC-00677,Rusizi,Urban,Clear,Wet,Street lights,Afternoon,Car,50.0,1,2,11.8,Minor
+RWACC-00678,Gasabo,Rural,Clear,Wet,Daylight,Evening,Motorcycle,30.0,2,4,7.5,Serious
+RWACC-00679,Gasabo,Highway,Clear,Wet,Daylight,Morning,Truck,50.0,1,1,20.0,Serious
+RWACC-00680,Rwamagana,Urban,Windy,Gravel,Daylight,Afternoon,Car,80.0,1,4,4.2,Minor
+RWACC-00681,Rwamagana,Rural,Clear,Dry,Daylight,Morning,Motorcycle,40.0,3,2,13.8,Minor
+RWACC-00682,Musanze,Rural,Clear,Dry,Dark,Evening,Motorcycle,50.0,1,2,11.7,Minor
+RWACC-00683,Kicukiro,Urban,Clear,Dry,Street lights,Evening,Car,40.0,2,3,7.0,Minor
+RWACC-00684,Kicukiro,Urban,Windy,Dry,Daylight,Evening,Car,30.0,1,3,20.0,Minor
+RWACC-00685,Kicukiro,Urban,Clear,Dry,Street lights,Morning,Car,100.0,2,2,5.1,Minor
+RWACC-00686,Kicukiro,Rural,Clear,Gravel,Daylight,Evening,Car,80.0,2,2,56.6,Minor
+RWACC-00687,Karongi,Highway,Clear,Wet,Street lights,Afternoon,Motorcycle,30.0,1,2,2.0,Minor
+RWACC-00688,Gasabo,Urban,Clear,,Daylight,Evening,Car,40.0,3,2,36.3,Minor
+RWACC-00689,Huye,Urban,Clear,Dry,Street lights,Night,Car,30.0,4,2,15.8,Minor
+RWACC-00690,Rusizi,Urban,Clear,Wet,Daylight,Afternoon,Pedestrian involved,60.0,1,4,20.9,Serious
+RWACC-00691,Gasabo,Rural,Clear,Damaged,Daylight,Afternoon,Pedestrian involved,50.0,1,6,12.2,Serious
+RWACC-00692,Rubavu,Urban,,Wet,Daylight,Evening,Motorcycle,30.0,1,5,11.8,Serious
+RWACC-00693,Muhanga,Rural,Clear,Wet,Daylight,Afternoon,Car,80.0,1,2,11.3,Minor
+RWACC-00694,Rubavu,Urban,Clear,Dry,Dark,Morning,Motorcycle,30.0,1,5,,Serious
+RWACC-00695,Rwamagana,Urban,Clear,Dry,Dark,Evening,Truck,40.0,2,2,19.7,Serious
+RWACC-00696,Bugesera,Highway,Fog,Dry,Daylight,Morning,Car,40.0,1,2,34.4,Minor
+RWACC-00697,Karongi,Rural,Clear,Dry,Dark,Afternoon,Motorcycle,80.0,2,5,31.7,Minor
+RWACC-00698,Huye,Rural,Clear,Gravel,Daylight,Night,Motorcycle,60.0,2,1,8.4,Minor
+RWACC-00699,Musanze,Urban,Fog,Wet,Daylight,Evening,Motorcycle,50.0,1,1,19.3,Serious
+RWACC-00700,Musanze,Urban,Clear,Dry,Daylight,Morning,Bicycle,60.0,1,6,11.1,Minor
+RWACC-00701,Muhanga,Market road,Rain,Damaged,Daylight,Afternoon,Truck,40.0,2,2,3.7,Minor
+RWACC-00702,Bugesera,Rural,Clear,Wet,Daylight,Morning,Pedestrian involved,60.0,2,3,,Minor
+RWACC-00703,Rusizi,Market road,Clear,Damaged,Street lights,Morning,Car,60.0,2,1,15.2,Serious
+RWACC-00704,Muhanga,Urban,Fog,Dry,Street lights,Morning,Car,50.0,4,6,16.9,Serious
+RWACC-00705,Bugesera,Urban,Fog,Dry,Daylight,Evening,Motorcycle,30.0,1,3,26.7,Minor
+RWACC-00706,Kicukiro,Highway,Windy,Dry,Daylight,Afternoon,Motorcycle,40.0,1,1,7.8,Minor
+RWACC-00707,Rwamagana,Highway,Clear,Dry,Street lights,Morning,Motorcycle,50.0,1,1,24.4,Minor
+RWACC-00708,Karongi,Rural,,Gravel,Daylight,Morning,Motorcycle,60.0,2,4,25.4,Minor
+RWACC-00709,Rwamagana,Urban,Fog,Wet,Dark,Night,Truck,80.0,1,5,10.8,Fatal
+RWACC-00710,Rusizi,Rural,Clear,Dry,Daylight,Afternoon,Truck,60.0,1,2,8.6,Minor
+RWACC-00711,Rusizi,Urban,Clear,Dry,Daylight,Evening,Car,60.0,2,2,14.4,Minor
+RWACC-00712,Muhanga,Urban,Clear,Wet,Daylight,Night,Car,60.0,2,4,17.6,Serious
+RWACC-00713,Bugesera,Market road,Clear,Dry,Daylight,Evening,Motorcycle,50.0,3,1,13.2,Minor
+RWACC-00714,Nyagatare,Rural,Clear,Dry,Dark,Afternoon,Car,60.0,3,3,16.3,Serious
+RWACC-00715,Nyarugenge,Rural,Rain,Dry,Dark,Afternoon,Car,40.0,4,1,25.4,Serious
+RWACC-00716,Huye,Rural,Clear,Damaged,Dark,Night,Car,80.0,1,4,10.8,Serious
+RWACC-00717,Muhanga,Rural,Clear,Dry,Street lights,Afternoon,Motorcycle,50.0,2,5,17.6,Minor
+RWACC-00718,Huye,Urban,Clear,Dry,Daylight,Afternoon,Truck,80.0,1,6,24.3,Minor
+RWACC-00719,Gasabo,Highway,Clear,Gravel,Dark,Night,Bus,80.0,2,5,6.6,Serious
+RWACC-00720,Bugesera,Market road,Clear,Gravel,Daylight,Evening,Motorcycle,80.0,1,6,15.3,Minor
+RWACC-00721,Rwamagana,Market road,Rain,Dry,Dark,Morning,Pedestrian involved,40.0,2,4,5.7,Serious
+RWACC-00722,Kicukiro,Rural,Clear,Gravel,Daylight,Afternoon,Motorcycle,40.0,2,6,21.5,Minor
+RWACC-00723,Rusizi,Rural,Clear,Dry,Daylight,Evening,Bicycle,50.0,3,6,16.3,Minor
+RWACC-00724,Musanze,Rural,Windy,Wet,Dark,Evening,Motorcycle,40.0,1,6,9.5,Serious
+RWACC-00725,Muhanga,Rural,Rain,Dry,Daylight,Afternoon,Car,60.0,1,4,5.6,Minor
+RWACC-00726,Nyagatare,Urban,Rain,Wet,Street lights,Morning,Motorcycle,50.0,2,4,27.6,Serious
+RWACC-00727,Rubavu,Market road,Clear,Damaged,Daylight,Morning,Motorcycle,80.0,1,2,37.8,Minor
+RWACC-00728,Bugesera,Urban,Rain,,Daylight,Evening,Truck,40.0,2,4,7.5,Fatal
+RWACC-00729,Rwamagana,Market road,Clear,Dry,Dark,Afternoon,Car,80.0,1,4,16.3,Serious
+RWACC-00730,Nyarugenge,Urban,Clear,Wet,Daylight,Night,Truck,50.0,1,1,8.7,Serious
+RWACC-00731,Kicukiro,Highway,Clear,Dry,Daylight,Morning,Truck,60.0,1,6,25.3,Serious
+RWACC-00732,Gasabo,Urban,Clear,Wet,Daylight,Morning,Truck,,1,4,41.9,Minor
+RWACC-00733,Nyagatare,Urban,Clear,Dry,Street lights,Morning,Pedestrian involved,50.0,1,5,14.1,Minor
+RWACC-00734,Karongi,Urban,Rain,Dry,Street lights,Afternoon,Bicycle,40.0,1,3,56.8,Minor
+RWACC-00735,Kicukiro,Urban,Fog,Dry,Daylight,Morning,Pedestrian involved,80.0,1,5,13.4,Serious
+RWACC-00736,Rusizi,Urban,Clear,Dry,Daylight,Morning,Pedestrian involved,60.0,2,4,17.9,Serious
+RWACC-00737,Karongi,Highway,Clear,Gravel,Daylight,Evening,Car,50.0,4,2,11.0,Minor
+RWACC-00738,Huye,Highway,Clear,Dry,Street lights,Evening,Bus,50.0,1,1,19.0,Minor
+RWACC-00739,Nyagatare,Urban,Rain,Dry,Dark,Morning,Car,40.0,2,3,43.6,Minor
+RWACC-00740,Rwamagana,Urban,Clear,Dry,Dark,Morning,Motorcycle,50.0,1,4,32.7,Minor
+RWACC-00741,Rubavu,Urban,Clear,Dry,Daylight,Afternoon,Bicycle,60.0,4,1,24.8,Serious
+RWACC-00742,Nyagatare,Market road,Clear,Gravel,Daylight,Night,Car,80.0,1,3,10.2,Minor
+RWACC-00743,Rwamagana,Urban,Clear,Dry,Daylight,Evening,Truck,60.0,2,3,17.9,Minor
+RWACC-00744,Nyagatare,Urban,Rain,Wet,Street lights,Evening,Car,30.0,1,5,28.9,Serious
+RWACC-00745,Musanze,Rural,Rain,Dry,Dark,Morning,Car,30.0,2,3,53.2,Serious
+RWACC-00746,Musanze,Urban,Rain,Damaged,Dark,Morning,Motorcycle,80.0,1,1,12.9,Serious
+RWACC-00747,Kicukiro,Urban,Clear,Dry,Daylight,Afternoon,Bus,60.0,3,1,26.1,Minor
+RWACC-00748,Kicukiro,Rural,Clear,Dry,Street lights,Morning,Pedestrian involved,60.0,3,1,14.2,Minor
+RWACC-00749,Rubavu,Market road,Clear,Dry,Daylight,Afternoon,Pedestrian involved,30.0,2,5,16.6,Minor
+RWACC-00750,Huye,Urban,Rain,Dry,Street lights,Night,Motorcycle,100.0,4,4,10.8,Serious
+RWACC-00751,Gasabo,Urban,Windy,Wet,Street lights,Morning,Car,60.0,3,6,33.9,Serious
+RWACC-00752,Musanze,Urban,Fog,Gravel,Street lights,Morning,Motorcycle,60.0,2,6,35.6,Serious
+RWACC-00753,Nyarugenge,Urban,Clear,Dry,Daylight,Night,Truck,60.0,2,5,25.5,Serious
+RWACC-00754,Karongi,Urban,Clear,Dry,Daylight,Evening,Truck,50.0,3,6,9.9,Serious
+RWACC-00755,Gasabo,Market road,Rain,Wet,Daylight,Afternoon,Car,30.0,2,3,7.1,Serious
+RWACC-00756,Rwamagana,Rural,Clear,Dry,Daylight,Morning,Motorcycle,40.0,1,6,12.4,Minor
+RWACC-00757,Karongi,Urban,Rain,Dry,Street lights,Morning,Bus,80.0,2,3,11.9,Serious
+RWACC-00758,Huye,Market road,Clear,Dry,Dark,Afternoon,Car,60.0,2,4,3.3,Minor
+RWACC-00759,Nyarugenge,Urban,Fog,Dry,Daylight,Afternoon,Bus,80.0,2,6,11.6,Serious
+RWACC-00760,Bugesera,Highway,Rain,Wet,Daylight,Afternoon,Motorcycle,30.0,2,2,18.2,Serious
+RWACC-00761,Rwamagana,Rural,Clear,Dry,Daylight,Afternoon,Motorcycle,50.0,1,5,26.2,Minor
+RWACC-00762,Rusizi,Highway,Rain,Dry,Dark,Evening,Motorcycle,80.0,3,1,13.1,Serious
+RWACC-00763,Nyarugenge,Market road,Clear,Gravel,Daylight,Evening,Motorcycle,60.0,1,2,6.4,Minor
+RWACC-00764,Rwamagana,Rural,Clear,Gravel,Daylight,Afternoon,Motorcycle,50.0,4,3,11.6,Minor
+RWACC-00765,Nyagatare,Rural,Clear,Dry,Daylight,Morning,Motorcycle,30.0,4,3,11.5,Minor
+RWACC-00766,Nyagatare,Rural,Rain,Dry,Daylight,Morning,Bicycle,50.0,2,5,38.5,Serious
+RWACC-00767,Rwamagana,Urban,Rain,Dry,Street lights,Night,Car,40.0,1,1,4.6,Serious
+RWACC-00768,Rubavu,Urban,Clear,Gravel,Daylight,Night,Truck,80.0,1,6,15.2,Minor
+RWACC-00769,Rubavu,Urban,Rain,Gravel,Daylight,Evening,Bus,60.0,2,5,12.7,Serious
+RWACC-00770,Muhanga,Rural,Clear,Wet,Daylight,Evening,Car,60.0,2,5,50.4,Minor
+RWACC-00771,Gasabo,Urban,Clear,Damaged,Daylight,Afternoon,Motorcycle,40.0,5,1,14.6,Minor
+RWACC-00772,Rusizi,Rural,Clear,Dry,Daylight,Morning,Truck,60.0,3,5,9.0,Serious
+RWACC-00773,Nyarugenge,Rural,Rain,Dry,Street lights,Morning,Motorcycle,50.0,2,5,26.6,Minor
+RWACC-00774,Karongi,Urban,Fog,Wet,Daylight,Night,Motorcycle,80.0,2,1,10.2,Serious
+RWACC-00775,Musanze,Urban,Fog,Wet,Dark,Afternoon,Motorcycle,30.0,3,3,7.5,Serious
+RWACC-00776,Rubavu,Urban,Clear,Gravel,Dark,Night,Motorcycle,30.0,2,3,8.8,Minor
+RWACC-00777,Nyarugenge,Rural,Rain,Dry,Daylight,Morning,Bus,40.0,1,4,3.7,Serious
+RWACC-00778,Rwamagana,Rural,Clear,Dry,Street lights,Morning,Motorcycle,60.0,1,5,8.8,Minor
+RWACC-00779,Rwamagana,Highway,Rain,Dry,Dark,Evening,Car,40.0,4,1,32.2,Serious
+RWACC-00780,Huye,Urban,Clear,Dry,Daylight,Evening,Car,40.0,2,1,10.8,Minor
+RWACC-00781,Rwamagana,Urban,Rain,Gravel,Daylight,Afternoon,Motorcycle,40.0,1,5,28.9,Minor
+RWACC-00782,Nyagatare,Urban,Clear,Dry,Dark,Afternoon,Car,50.0,2,6,10.2,Minor
+RWACC-00783,Nyagatare,Rural,Fog,Wet,Dark,Afternoon,Car,30.0,1,4,9.6,Serious
+RWACC-00784,Muhanga,Highway,Clear,Dry,Street lights,Morning,Bicycle,40.0,1,4,10.4,Serious
+RWACC-00785,Nyagatare,Urban,Clear,Dry,Street lights,Morning,Truck,100.0,1,1,22.2,Minor
+RWACC-00786,Nyagatare,Urban,Rain,Wet,Daylight,Evening,Motorcycle,40.0,3,3,11.1,Serious
+RWACC-00787,Kicukiro,Urban,Fog,Gravel,Dark,Evening,Car,50.0,4,1,32.2,Serious
+RWACC-00788,Muhanga,Highway,Clear,Wet,Daylight,Afternoon,Motorcycle,30.0,1,1,11.6,Minor
+RWACC-00789,Kicukiro,Urban,Clear,,Dark,Morning,Motorcycle,40.0,2,1,26.8,Serious
+RWACC-00790,Nyarugenge,Rural,Clear,Wet,Daylight,Night,Car,40.0,1,4,9.4,Minor
+RWACC-00791,Nyarugenge,Urban,Clear,Dry,Street lights,Night,Motorcycle,60.0,1,4,30.6,Minor
+RWACC-00792,Kicukiro,Urban,Clear,Dry,Daylight,Afternoon,Car,40.0,1,5,55.3,Minor
+RWACC-00793,Kicukiro,Urban,Clear,Wet,Daylight,Morning,Car,40.0,5,4,14.5,Serious
+RWACC-00794,Huye,Rural,Clear,,Daylight,Night,Truck,50.0,2,1,4.5,Serious
+RWACC-00795,Rwamagana,Highway,Clear,Dry,Dark,Morning,Bicycle,60.0,1,5,10.0,Minor
+RWACC-00796,Rwamagana,Rural,Rain,Dry,Daylight,Afternoon,Car,50.0,1,2,14.9,Minor
+RWACC-00797,Huye,Urban,Clear,Wet,Street lights,Afternoon,Motorcycle,100.0,2,4,10.3,Minor
+RWACC-00798,Bugesera,Urban,Clear,Dry,Daylight,Morning,Bicycle,50.0,2,5,18.1,Minor
+RWACC-00799,Nyarugenge,Market road,Fog,Dry,Daylight,Evening,Car,40.0,3,2,21.2,Minor
+RWACC-00800,Rubavu,Highway,Windy,Dry,Street lights,Morning,Pedestrian involved,30.0,1,5,18.5,Serious
+RWACC-00801,Rubavu,Urban,Rain,Dry,Daylight,Morning,Pedestrian involved,30.0,2,1,6.8,Minor
+RWACC-00802,Huye,Urban,Fog,Wet,Dark,Night,Motorcycle,50.0,4,1,13.0,Serious
+RWACC-00803,Huye,Highway,Clear,Dry,Daylight,Morning,Car,40.0,1,2,8.2,Minor
+RWACC-00804,Musanze,Highway,Clear,Gravel,Daylight,Afternoon,Motorcycle,30.0,3,3,12.7,Serious
+RWACC-00805,Musanze,Urban,Rain,Dry,Daylight,Night,Motorcycle,80.0,2,2,12.0,Serious
+RWACC-00806,Rwamagana,Urban,Clear,Dry,Dark,Night,Car,80.0,1,6,16.7,Serious
+RWACC-00807,Kicukiro,Urban,Rain,Dry,Daylight,Night,Motorcycle,80.0,4,6,15.2,Serious
+RWACC-00808,Rubavu,Market road,Clear,Wet,Dark,Morning,Pedestrian involved,80.0,1,6,22.3,Serious
+RWACC-00809,Nyagatare,Rural,Clear,Damaged,Daylight,Morning,Bus,50.0,1,5,2.0,Serious
+RWACC-00810,Musanze,Urban,Clear,Wet,Daylight,Afternoon,Motorcycle,30.0,2,3,9.0,Serious
+RWACC-00811,Bugesera,Rural,Clear,Wet,Daylight,Evening,Pedestrian involved,60.0,5,6,23.0,Serious
+RWACC-00812,Gasabo,Urban,Clear,Dry,Daylight,Night,Car,40.0,1,6,5.0,Serious
+RWACC-00813,Karongi,Urban,Clear,Dry,Daylight,Night,Car,30.0,1,3,38.4,Minor
+RWACC-00814,Kicukiro,Market road,Clear,Dry,Daylight,Afternoon,Bicycle,40.0,2,4,20.8,Minor
+RWACC-00815,Nyagatare,Market road,Fog,Damaged,Street lights,Night,Car,30.0,2,2,18.6,Serious
+RWACC-00816,Musanze,Rural,Clear,Dry,Street lights,Morning,Motorcycle,30.0,1,4,27.5,Minor
+RWACC-00817,Musanze,Urban,Rain,Dry,Dark,Afternoon,Car,50.0,2,5,30.6,Serious
+RWACC-00818,Rwamagana,Market road,Rain,Wet,Daylight,Evening,Motorcycle,50.0,1,1,11.3,Serious
+RWACC-00819,Muhanga,Urban,Clear,Wet,Dark,Evening,Motorcycle,30.0,1,5,16.9,Serious
+RWACC-00820,Muhanga,Urban,Clear,Dry,Dark,Morning,Bicycle,60.0,1,4,13.7,Serious
+RWACC-00821,Rusizi,Urban,Rain,Damaged,Street lights,Morning,Car,80.0,2,3,15.7,Serious
+RWACC-00822,Rwamagana,Urban,Clear,Dry,Daylight,Night,Car,60.0,3,2,13.4,Minor
+RWACC-00823,Kicukiro,Highway,Clear,Gravel,Daylight,Afternoon,Truck,80.0,2,4,15.5,Serious
+RWACC-00824,Muhanga,Urban,Clear,Dry,Daylight,Morning,Motorcycle,30.0,2,1,8.7,Minor
+RWACC-00825,Bugesera,Highway,Clear,Dry,Daylight,Night,Car,80.0,1,3,22.7,Minor
+RWACC-00826,Rubavu,Urban,Clear,Dry,Daylight,Morning,Bus,100.0,3,3,4.5,Serious
+RWACC-00827,Gasabo,Rural,Rain,Gravel,Dark,Morning,Car,80.0,1,1,43.4,Serious
+RWACC-00828,Musanze,Urban,Clear,Wet,Daylight,Morning,Motorcycle,30.0,1,1,2.4,Minor
+RWACC-00829,Karongi,Urban,Clear,Dry,Daylight,Afternoon,Bicycle,40.0,4,4,21.0,Serious
+RWACC-00830,Musanze,Urban,Clear,Dry,Daylight,Morning,Motorcycle,50.0,3,5,12.5,Serious
+RWACC-00831,Rubavu,Rural,Clear,Dry,Daylight,Morning,Motorcycle,60.0,1,1,4.0,Minor
+RWACC-00832,Nyarugenge,Market road,Clear,Wet,Daylight,Evening,Motorcycle,60.0,3,6,19.6,Serious
+RWACC-00833,Nyarugenge,Rural,Rain,Dry,Dark,Evening,Car,40.0,2,2,34.0,Minor
+RWACC-00834,Musanze,Urban,Clear,Dry,Street lights,Evening,Bus,40.0,2,6,8.5,Minor
+RWACC-00835,Rusizi,Urban,Clear,Dry,Street lights,Afternoon,Car,60.0,1,2,40.2,Minor
+RWACC-00836,Nyarugenge,Rural,Clear,Dry,Daylight,Morning,Motorcycle,30.0,2,4,2.0,Minor
+RWACC-00837,Rusizi,Urban,Rain,Wet,Daylight,Morning,Motorcycle,50.0,1,1,,Serious
+RWACC-00838,Kicukiro,Rural,Rain,Gravel,Dark,Night,Motorcycle,60.0,2,3,48.1,Minor
+RWACC-00839,Huye,Urban,Clear,Wet,Dark,Evening,Car,50.0,2,3,14.0,Minor
+RWACC-00840,Rubavu,Urban,Clear,Dry,Daylight,Afternoon,Pedestrian involved,30.0,4,2,37.4,Minor
+RWACC-00841,Gasabo,Highway,Rain,Dry,Daylight,Evening,Car,50.0,1,1,30.8,Serious
+RWACC-00842,Huye,Urban,Clear,Wet,Daylight,Morning,Car,80.0,1,2,23.0,Minor
+RWACC-00843,Kicukiro,Urban,Clear,Wet,Daylight,Afternoon,Motorcycle,60.0,1,5,3.1,Minor
+RWACC-00844,Rubavu,Urban,Clear,Wet,Daylight,Evening,Bus,30.0,1,4,21.2,Minor
+RWACC-00845,Bugesera,Urban,Clear,Dry,Daylight,Morning,Motorcycle,40.0,2,4,11.1,Minor
+RWACC-00846,Kicukiro,Rural,Clear,Gravel,Street lights,Afternoon,Truck,50.0,2,1,16.7,Minor
+RWACC-00847,Rwamagana,Urban,Rain,Wet,Street lights,Afternoon,Pedestrian involved,80.0,2,3,7.6,Minor
+RWACC-00848,Musanze,Market road,Clear,Dry,Daylight,Afternoon,Bus,80.0,1,2,4.1,Minor
+RWACC-00849,Rubavu,Highway,Rain,Damaged,Dark,Evening,Car,60.0,3,1,34.2,Fatal
+RWACC-00850,Muhanga,Urban,Clear,Dry,Dark,Evening,Truck,30.0,2,6,8.2,Serious
+RWACC-00851,Karongi,Rural,Clear,Gravel,Daylight,Evening,Bicycle,40.0,1,2,2.0,Minor
+RWACC-00852,Kicukiro,Urban,Clear,Damaged,Daylight,Afternoon,Car,40.0,2,5,4.7,Serious
+RWACC-00853,Rwamagana,Rural,Clear,Damaged,Daylight,Morning,Pedestrian involved,30.0,1,5,30.0,Minor
+RWACC-00854,Rusizi,Urban,Clear,,Daylight,Night,Motorcycle,50.0,5,4,19.5,Serious
+RWACC-00855,Karongi,Urban,Clear,Dry,Daylight,Afternoon,Car,50.0,1,2,10.2,Minor
+RWACC-00856,Bugesera,Rural,Rain,Dry,Daylight,Evening,Bicycle,60.0,1,3,18.8,Minor
+RWACC-00857,Kicukiro,Urban,Clear,Dry,Daylight,Morning,Motorcycle,60.0,1,3,22.9,Minor
+RWACC-00858,Karongi,Rural,Clear,Wet,Daylight,Afternoon,Pedestrian involved,60.0,1,3,10.8,Minor
+RWACC-00859,Kicukiro,Urban,Clear,Dry,Daylight,Evening,Car,40.0,4,4,31.4,Serious
+RWACC-00860,Huye,Highway,Rain,Gravel,Street lights,Afternoon,Bus,30.0,2,6,23.8,Serious
+RWACC-00861,Rubavu,Urban,Rain,Dry,Daylight,Afternoon,Motorcycle,40.0,5,1,15.4,Serious
+RWACC-00862,Rwamagana,Highway,Clear,Dry,Daylight,Afternoon,Pedestrian involved,30.0,1,5,28.4,Minor
+RWACC-00863,Huye,Urban,Rain,Dry,Street lights,Night,Motorcycle,40.0,2,2,16.3,Minor
+RWACC-00864,Kicukiro,Market road,Clear,Wet,Daylight,Evening,Motorcycle,40.0,3,3,4.9,Serious
+RWACC-00865,Karongi,Highway,Rain,Dry,Daylight,Afternoon,Motorcycle,60.0,3,4,19.1,Serious
+RWACC-00866,Nyagatare,Urban,Fog,Dry,Street lights,Afternoon,Truck,30.0,1,3,7.0,Minor
+RWACC-00867,Nyagatare,Rural,Rain,Dry,Daylight,Morning,Pedestrian involved,60.0,3,1,11.6,Minor
+RWACC-00868,Rusizi,Rural,Clear,Wet,Dark,Morning,Motorcycle,80.0,1,3,10.1,Serious
+RWACC-00869,Kicukiro,Highway,Clear,Dry,Daylight,Afternoon,Bicycle,80.0,1,4,24.9,Minor
+RWACC-00870,Rwamagana,Market road,Clear,Dry,Street lights,Night,Motorcycle,50.0,2,3,9.5,Minor
+RWACC-00871,Rusizi,Urban,,Dry,Daylight,Afternoon,Car,80.0,1,3,12.6,Minor
+RWACC-00872,Gasabo,Urban,Rain,Gravel,Daylight,Evening,Truck,50.0,3,2,17.2,Minor
+RWACC-00873,Karongi,Urban,Clear,Wet,Dark,Morning,Motorcycle,50.0,2,4,36.7,Serious
+RWACC-00874,Nyagatare,Urban,Rain,Dry,Daylight,Night,Car,50.0,2,3,12.0,Serious
+RWACC-00875,Gasabo,Rural,,Dry,Daylight,Morning,Car,40.0,3,5,31.2,Fatal
+RWACC-00876,Rwamagana,Market road,,Wet,Daylight,Morning,Car,30.0,3,1,10.6,Minor
+RWACC-00877,Karongi,Urban,Windy,Gravel,Street lights,Evening,Pedestrian involved,80.0,1,1,16.0,Minor
+RWACC-00878,Rwamagana,Urban,Rain,Dry,Street lights,Morning,Motorcycle,40.0,1,3,12.7,Minor
+RWACC-00879,Rusizi,Highway,Rain,,Daylight,Night,Pedestrian involved,30.0,1,4,23.6,Serious
+RWACC-00880,Gasabo,Rural,Clear,Dry,Street lights,Evening,Motorcycle,40.0,3,6,57.4,Serious
+RWACC-00881,Musanze,Highway,Clear,Wet,Street lights,Morning,Bus,60.0,2,2,9.2,Serious
+RWACC-00882,Rusizi,Rural,Clear,Dry,Daylight,Afternoon,Car,100.0,1,6,5.0,Minor
+RWACC-00883,Kicukiro,Urban,Rain,Damaged,Street lights,Night,Motorcycle,60.0,1,3,11.1,Serious
+RWACC-00884,Rwamagana,Rural,Clear,Gravel,Street lights,Afternoon,Truck,30.0,2,1,39.0,Serious
+RWACC-00885,Musanze,Urban,Clear,Dry,Street lights,Afternoon,Car,50.0,1,4,24.6,Serious
+RWACC-00886,Nyarugenge,Urban,Clear,Dry,Daylight,Evening,Truck,80.0,2,5,12.4,Minor
+RWACC-00887,Bugesera,Rural,Clear,Dry,Daylight,Afternoon,Truck,100.0,1,5,9.0,Minor
+RWACC-00888,Rubavu,Urban,Clear,Gravel,Dark,Night,Bus,60.0,1,4,25.3,Minor
+RWACC-00889,Rubavu,Rural,Rain,Dry,Street lights,Night,Motorcycle,50.0,1,4,15.3,Serious
+RWACC-00890,Rubavu,Rural,Clear,Gravel,Daylight,Afternoon,Truck,30.0,1,2,22.8,Minor
+RWACC-00891,Rusizi,Highway,Rain,Damaged,Dark,Evening,Motorcycle,50.0,3,5,20.5,Serious
+RWACC-00892,Bugesera,Urban,Clear,Dry,Dark,Afternoon,Truck,50.0,2,4,9.6,Serious
+RWACC-00893,Nyagatare,Rural,Clear,Wet,Daylight,Afternoon,Pedestrian involved,60.0,1,4,5.8,Minor
+RWACC-00894,Nyagatare,Rural,Rain,Wet,Dark,Afternoon,Car,80.0,3,4,6.7,Fatal
+RWACC-00895,Rubavu,Urban,Clear,Dry,Street lights,Morning,Car,60.0,2,4,19.1,Minor
+RWACC-00896,Nyagatare,Urban,Clear,Dry,Daylight,Morning,Car,60.0,2,6,18.7,Minor
+RWACC-00897,Musanze,Highway,Fog,Dry,Daylight,Evening,Car,30.0,3,4,16.9,Serious
+RWACC-00898,Kicukiro,Highway,Rain,Damaged,Dark,Afternoon,Truck,40.0,3,3,13.7,Fatal
+RWACC-00899,Karongi,Rural,Clear,Wet,Daylight,Morning,Car,50.0,1,6,24.5,Minor
+RWACC-00900,Rusizi,Highway,Rain,Dry,Daylight,Morning,Truck,40.0,1,5,11.1,Minor
+RWACC-00901,Nyarugenge,Rural,Clear,Dry,Daylight,Morning,Motorcycle,50.0,2,5,14.4,Minor
+RWACC-00902,Nyarugenge,Rural,Clear,Dry,Dark,Afternoon,Motorcycle,100.0,4,3,9.1,Serious
+RWACC-00903,Rubavu,Highway,Clear,Wet,Dark,Afternoon,Bicycle,60.0,1,1,9.2,Serious
+RWACC-00904,Huye,Rural,Clear,Wet,Daylight,Morning,Car,60.0,2,5,28.2,Serious
+RWACC-00905,Muhanga,Rural,Clear,Dry,Daylight,Night,Motorcycle,80.0,2,4,10.1,Minor
+RWACC-00906,Rubavu,Urban,Rain,Wet,Dark,Afternoon,Car,60.0,1,6,6.3,Fatal
+RWACC-00907,Muhanga,Urban,Fog,Dry,Dark,Afternoon,Pedestrian involved,40.0,2,4,,Serious
+RWACC-00908,Nyarugenge,Urban,Fog,Gravel,Daylight,Night,Car,50.0,1,4,15.2,Serious
+RWACC-00909,Karongi,Rural,Clear,Dry,Dark,Afternoon,Motorcycle,40.0,1,1,2.0,Minor
+RWACC-00910,Rubavu,Rural,Clear,Dry,Daylight,Morning,Motorcycle,100.0,1,5,11.9,Minor
+RWACC-00911,Rwamagana,Urban,Rain,Dry,Daylight,Afternoon,Car,40.0,1,4,8.4,Serious
+RWACC-00912,Karongi,Highway,Rain,Dry,Daylight,Afternoon,Motorcycle,50.0,3,4,7.2,Serious
+RWACC-00913,Nyagatare,Rural,Clear,Dry,Daylight,Evening,Motorcycle,30.0,1,5,20.8,Minor
+RWACC-00914,Rubavu,Highway,Clear,Damaged,Dark,Morning,Car,50.0,1,5,26.7,Serious
+RWACC-00915,Rwamagana,Rural,Rain,Gravel,Daylight,Evening,Car,40.0,2,2,19.5,Serious
+RWACC-00916,Kicukiro,Highway,Clear,Dry,Daylight,Morning,Car,40.0,1,4,30.4,Minor
+RWACC-00917,Muhanga,Urban,Rain,Dry,Daylight,Night,Pedestrian involved,40.0,2,3,3.0,Serious
+RWACC-00918,Bugesera,Urban,Windy,Dry,Daylight,Afternoon,Car,30.0,2,1,31.3,Minor
+RWACC-00919,Muhanga,Market road,Clear,Dry,Daylight,Evening,Motorcycle,60.0,5,4,8.1,Minor
+RWACC-00920,Kicukiro,Highway,Rain,Dry,Street lights,Night,Motorcycle,30.0,2,1,27.4,Minor
+RWACC-00921,Karongi,Urban,,Dry,Dark,Afternoon,Truck,60.0,1,2,16.5,Serious
+RWACC-00922,Rwamagana,Urban,Clear,Damaged,Daylight,Afternoon,Bus,50.0,2,3,23.8,Minor
+RWACC-00923,Kicukiro,Market road,Fog,Dry,Street lights,Morning,Motorcycle,80.0,2,1,35.9,Minor
+RWACC-00924,Rusizi,Rural,Clear,Dry,Daylight,Night,Motorcycle,60.0,4,5,20.5,Serious
+RWACC-00925,Nyagatare,Rural,Rain,Gravel,Daylight,Afternoon,Motorcycle,30.0,4,6,,Minor
+RWACC-00926,Muhanga,Rural,Clear,Dry,Daylight,Morning,Motorcycle,40.0,1,2,2.7,Minor
+RWACC-00927,Karongi,Market road,Clear,Dry,Daylight,Night,Car,50.0,2,5,3.6,Minor
+RWACC-00928,Gasabo,Rural,Clear,Dry,Dark,Morning,Car,40.0,1,3,17.8,Minor
+RWACC-00929,Huye,Urban,Windy,Dry,Daylight,Morning,Car,40.0,1,1,10.1,Minor
+RWACC-00930,Nyagatare,Highway,Clear,Dry,Daylight,Afternoon,Car,40.0,1,2,7.7,Minor
+RWACC-00931,Nyagatare,Market road,Clear,Dry,Daylight,Morning,Motorcycle,80.0,1,4,9.5,Minor
+RWACC-00932,Bugesera,Rural,Windy,Damaged,Street lights,Morning,Pedestrian involved,80.0,1,4,34.5,Serious
+RWACC-00933,Nyarugenge,Urban,Clear,Dry,Daylight,Morning,Truck,50.0,1,2,5.3,Minor
+RWACC-00934,Muhanga,Urban,Clear,Dry,Daylight,Evening,Bicycle,50.0,1,6,23.5,Minor
+RWACC-00935,Rusizi,Rural,Rain,Dry,Daylight,Morning,Motorcycle,80.0,2,6,9.5,Serious
+RWACC-00936,Nyarugenge,Rural,Clear,Wet,Daylight,Evening,Motorcycle,30.0,1,2,14.4,Minor
+RWACC-00937,Nyarugenge,Urban,Windy,Dry,Daylight,Morning,Pedestrian involved,40.0,1,5,47.8,Minor
+RWACC-00938,Karongi,Urban,Clear,Dry,Dark,Night,Bicycle,50.0,2,6,3.9,Minor
+RWACC-00939,Muhanga,Rural,Clear,Gravel,Daylight,Afternoon,Bus,50.0,3,1,8.4,Serious
+RWACC-00940,Rusizi,Market road,Clear,Dry,Daylight,Night,Truck,80.0,1,2,19.5,Minor
+RWACC-00941,Gasabo,Urban,Fog,Dry,Daylight,Morning,Bus,50.0,2,1,25.4,Serious
+RWACC-00942,Musanze,Rural,Clear,Wet,Street lights,Evening,Motorcycle,60.0,1,6,17.5,Minor
+RWACC-00943,Gasabo,Rural,Clear,Wet,Dark,Morning,Motorcycle,30.0,2,5,8.4,Serious
+RWACC-00944,Muhanga,Rural,Rain,Dry,Daylight,Afternoon,Bicycle,40.0,3,5,7.7,Minor
+RWACC-00945,Rwamagana,Highway,Rain,Damaged,Daylight,Evening,Car,60.0,1,2,33.2,Minor
+RWACC-00946,Rusizi,Highway,Clear,Dry,Street lights,Night,Motorcycle,40.0,2,3,35.4,Minor
+RWACC-00947,Muhanga,Highway,Windy,Dry,Daylight,Morning,Bicycle,30.0,1,1,5.4,Minor
+RWACC-00948,Muhanga,Highway,Clear,Dry,Daylight,Evening,Motorcycle,40.0,1,3,15.1,Minor
+RWACC-00949,Huye,Highway,Clear,Dry,Street lights,Evening,Car,30.0,3,3,9.3,Minor
+RWACC-00950,Rusizi,Rural,Rain,Dry,Daylight,Morning,Bus,40.0,2,5,2.0,Serious
+RWACC-00951,Karongi,Urban,Clear,Damaged,Dark,Morning,Truck,30.0,3,1,33.9,Fatal
+RWACC-00952,Musanze,Urban,Clear,Dry,Daylight,Evening,Truck,60.0,2,4,14.6,Serious
+RWACC-00953,Huye,Highway,Fog,Wet,Daylight,Night,Car,50.0,2,4,5.9,Fatal
+RWACC-00954,Rubavu,Rural,Fog,Dry,Street lights,Afternoon,Motorcycle,50.0,2,3,56.0,Minor
+RWACC-00955,Muhanga,Market road,Clear,Dry,Dark,Night,Motorcycle,80.0,1,5,11.8,Minor
+RWACC-00956,Huye,Highway,Rain,Wet,Street lights,Evening,Car,40.0,1,5,19.2,Serious
+RWACC-00957,Rwamagana,Urban,Clear,Dry,Dark,Afternoon,Car,80.0,2,6,9.9,Minor
+RWACC-00958,Karongi,Urban,Rain,Gravel,Daylight,Afternoon,Bicycle,30.0,1,5,24.5,Serious
+RWACC-00959,Bugesera,Market road,Rain,Dry,Daylight,Morning,Bus,60.0,1,6,22.1,Fatal
+RWACC-00960,Rusizi,Rural,Clear,Gravel,Dark,Afternoon,Motorcycle,30.0,2,1,15.2,Minor
+RWACC-00961,Musanze,Urban,Clear,Damaged,Dark,Afternoon,Motorcycle,40.0,2,3,18.0,Serious
+RWACC-00962,Rwamagana,Rural,Clear,Wet,Daylight,Evening,Truck,30.0,2,2,19.4,Minor
+RWACC-00963,Rwamagana,Market road,Clear,Dry,Daylight,Afternoon,Motorcycle,30.0,2,1,10.8,Minor
+RWACC-00964,Rusizi,Urban,Rain,Damaged,Daylight,Evening,Truck,60.0,1,5,19.3,Fatal
+RWACC-00965,Huye,Market road,Clear,Gravel,Street lights,Morning,Motorcycle,40.0,4,5,23.6,Minor
+RWACC-00966,Huye,Market road,Clear,Dry,Daylight,Morning,Pedestrian involved,60.0,1,2,14.9,Minor
+RWACC-00967,Musanze,Rural,Clear,Dry,Daylight,Afternoon,Truck,40.0,4,2,24.7,Minor
+RWACC-00968,Rwamagana,Urban,Clear,Wet,Daylight,Afternoon,Pedestrian involved,80.0,1,4,19.2,Serious
+RWACC-00969,Rusizi,Rural,Clear,Dry,Street lights,Evening,Bicycle,40.0,1,5,6.8,Minor
+RWACC-00970,Muhanga,Urban,Clear,Damaged,Daylight,Morning,Truck,60.0,1,5,15.2,Serious
+RWACC-00971,Rusizi,Highway,Rain,Gravel,Dark,Afternoon,Bus,60.0,1,4,28.0,Fatal
+RWACC-00972,Bugesera,Urban,,Dry,Daylight,Evening,Pedestrian involved,30.0,1,4,2.7,Minor
+RWACC-00973,Rwamagana,Urban,Clear,Dry,Street lights,Afternoon,Truck,40.0,3,1,2.6,Minor
+RWACC-00974,Karongi,Urban,Clear,Damaged,Daylight,Afternoon,Car,50.0,2,4,41.0,Serious
+RWACC-00975,Muhanga,Urban,Rain,Dry,Daylight,Evening,Motorcycle,80.0,1,5,65.4,Minor
+RWACC-00976,Bugesera,Highway,Clear,Dry,Daylight,Afternoon,Truck,40.0,4,6,18.3,Serious
+RWACC-00977,Karongi,Highway,Clear,Wet,Street lights,Night,Pedestrian involved,40.0,2,1,17.2,Serious
+RWACC-00978,Huye,Rural,Clear,Dry,Daylight,Morning,Car,30.0,2,2,12.5,Minor
+RWACC-00979,Musanze,Urban,Clear,Dry,Street lights,Afternoon,Car,40.0,2,4,19.6,Minor
+RWACC-00980,Karongi,Highway,Rain,Damaged,Street lights,Afternoon,Motorcycle,50.0,1,4,8.6,Serious
+RWACC-00981,Bugesera,Rural,,Dry,Daylight,Morning,Motorcycle,30.0,2,3,4.0,Minor
+RWACC-00982,Huye,Highway,Rain,Gravel,Daylight,Evening,Bus,50.0,3,3,12.9,Serious
+RWACC-00983,Gasabo,Rural,Clear,Wet,Street lights,Afternoon,Car,50.0,1,4,30.9,Minor
+RWACC-00984,Huye,Highway,Clear,Damaged,Daylight,Afternoon,Truck,80.0,1,3,3.3,Minor
+RWACC-00985,Rubavu,Urban,Rain,Gravel,Daylight,Morning,Pedestrian involved,40.0,5,1,5.4,Minor
+RWACC-00986,Nyagatare,Urban,Clear,Wet,Dark,Night,Bicycle,60.0,2,1,16.7,Serious
+RWACC-00987,Nyarugenge,Urban,Clear,Dry,Street lights,Evening,Pedestrian involved,80.0,1,6,2.0,Minor
+RWACC-00988,Nyagatare,Rural,Clear,Gravel,Daylight,Morning,Truck,100.0,1,2,7.0,Minor
+RWACC-00989,Huye,Highway,Clear,Dry,Daylight,Evening,Motorcycle,50.0,1,5,,Minor
+RWACC-00990,Musanze,Urban,Rain,Dry,Street lights,Night,Car,80.0,1,6,19.1,Fatal
+RWACC-00991,Huye,Highway,Rain,Wet,Daylight,Morning,Truck,60.0,1,4,11.0,Fatal
+RWACC-00992,Bugesera,Urban,Rain,Gravel,Dark,Morning,Motorcycle,30.0,2,3,12.8,Minor
+RWACC-00993,Musanze,Rural,Windy,,Daylight,Morning,Motorcycle,50.0,1,1,17.3,Minor
+RWACC-00994,Rusizi,Rural,Clear,Dry,Daylight,Evening,Motorcycle,60.0,1,6,25.9,Minor
+RWACC-00995,Rubavu,Rural,Clear,Dry,Dark,Afternoon,Motorcycle,60.0,1,5,9.1,Serious
+RWACC-00996,Karongi,Urban,Clear,Gravel,Street lights,Night,Car,30.0,1,6,37.4,Serious
+RWACC-00997,Kicukiro,Rural,Rain,Dry,Street lights,Evening,Motorcycle,80.0,4,3,18.1,Serious
+RWACC-00998,Muhanga,Urban,Clear,Wet,Street lights,Evening,Motorcycle,60.0,5,6,20.8,Serious
+RWACC-00999,Musanze,Urban,Clear,Wet,Daylight,Afternoon,Car,60.0,1,4,35.1,Minor
+RWACC-01000,Rwamagana,Urban,Rain,Dry,Street lights,Morning,Motorcycle,50.0,1,3,20.6,Minor
+RWACC-01001,Rwamagana,Urban,Clear,Damaged,Daylight,Evening,Bus,40.0,2,4,3.7,Serious
+RWACC-01002,Huye,Rural,,Damaged,Dark,Evening,Motorcycle,60.0,4,3,31.6,Serious
+RWACC-01003,Kicukiro,Urban,,Wet,Daylight,Morning,Motorcycle,40.0,2,1,3.1,Minor
+RWACC-01004,Nyagatare,Urban,Clear,Damaged,Dark,Evening,Car,60.0,1,5,31.5,Serious
+RWACC-01005,Rwamagana,Highway,Clear,Wet,Daylight,Morning,Car,50.0,2,5,19.7,Minor
+RWACC-01006,Rwamagana,Rural,Rain,Wet,Daylight,Morning,Motorcycle,40.0,1,1,6.0,Serious
+RWACC-01007,Rusizi,Rural,Clear,Dry,Dark,Morning,Car,50.0,2,1,20.7,Minor
+RWACC-01008,Rubavu,Highway,Clear,Dry,Daylight,Afternoon,Bicycle,60.0,1,1,17.4,Minor
+RWACC-01009,Huye,Urban,Fog,Dry,Daylight,Morning,Motorcycle,80.0,2,6,19.5,Minor
+RWACC-01010,Huye,Rural,Clear,Dry,Street lights,Evening,Motorcycle,60.0,2,5,15.6,Minor
+RWACC-01011,Rwamagana,Market road,Clear,Dry,Daylight,Night,Car,50.0,1,5,5.3,Serious
+RWACC-01012,Bugesera,Rural,Clear,,Dark,Night,Motorcycle,50.0,2,1,4.8,Serious
+RWACC-01013,Gasabo,Highway,Rain,Dry,Daylight,Morning,Truck,30.0,1,2,9.5,Serious
+RWACC-01014,Musanze,Market road,Windy,Dry,Daylight,Morning,Bicycle,40.0,3,6,45.4,Serious
+RWACC-01015,Nyagatare,Highway,Fog,Dry,Street lights,Evening,Car,60.0,3,1,35.9,Fatal
+RWACC-01016,Bugesera,Highway,Rain,,Street lights,Night,Truck,50.0,2,2,9.2,Minor
+RWACC-01017,Rwamagana,Rural,Clear,Dry,Daylight,Afternoon,Motorcycle,80.0,2,2,19.0,Minor
+RWACC-01018,Huye,Urban,Clear,Dry,Dark,Evening,Car,60.0,2,4,15.7,Serious
+RWACC-01019,Nyarugenge,Rural,Fog,Dry,Daylight,Afternoon,Motorcycle,80.0,1,1,500.0,Serious
+RWACC-01020,Nyagatare,Rural,Clear,Dry,Daylight,Morning,Bus,30.0,3,3,17.3,Serious
+RWACC-01021,Gasabo,Market road,Clear,Gravel,Dark,Afternoon,Car,40.0,3,6,41.7,Serious
+RWACC-01022,Kicukiro,Urban,Clear,Dry,Street lights,Morning,Pedestrian involved,80.0,1,1,6.3,Minor
+RWACC-01023,Musanze,Rural,Clear,Dry,Daylight,Evening,Car,100.0,2,5,34.4,Minor
+RWACC-01024,Kicukiro,Rural,Fog,Dry,Daylight,Morning,Motorcycle,60.0,1,3,20.0,Serious
+RWACC-01025,Nyagatare,Rural,Rain,Dry,Street lights,Evening,Car,40.0,1,4,11.2,Serious
+RWACC-01026,Muhanga,Market road,Clear,Damaged,Street lights,Night,Truck,40.0,2,1,6.2,Minor
+RWACC-01027,Rusizi,Highway,Clear,Wet,Daylight,Afternoon,Motorcycle,60.0,1,3,13.5,Minor
+RWACC-01028,Musanze,Highway,Clear,Dry,Daylight,Afternoon,Pedestrian involved,50.0,1,6,39.6,Serious
+RWACC-01029,Rubavu,Urban,Clear,Dry,Street lights,Evening,Motorcycle,60.0,1,5,13.7,Minor
+RWACC-01030,Nyagatare,Highway,Clear,Dry,Dark,Afternoon,Truck,40.0,1,2,21.8,Minor
+RWACC-01031,Nyagatare,Rural,Clear,Dry,Daylight,Evening,Car,60.0,2,6,18.7,Minor
+RWACC-01032,Karongi,Urban,Clear,Dry,Daylight,Morning,Car,60.0,3,3,,Minor
+RWACC-01033,Rusizi,Urban,Rain,Gravel,Daylight,Morning,Car,50.0,1,3,35.1,Minor
+RWACC-01034,Kicukiro,Market road,Clear,Gravel,Daylight,Morning,Truck,30.0,2,1,9.9,Minor
+RWACC-01035,Rwamagana,Urban,Rain,Dry,Street lights,Afternoon,Motorcycle,80.0,2,2,6.6,Minor
+RWACC-01036,Huye,Highway,Clear,Gravel,Street lights,Night,Bus,80.0,1,1,22.4,Serious
+RWACC-01037,Rusizi,Highway,Fog,Dry,Daylight,Evening,Car,50.0,2,4,12.7,Serious
+RWACC-01038,Rwamagana,Rural,Clear,Dry,Dark,Afternoon,Pedestrian involved,40.0,5,4,2.0,Serious
+RWACC-01039,Rubavu,Urban,Clear,Dry,Daylight,Morning,Car,50.0,1,3,9.1,Minor
+RWACC-01040,Huye,Highway,Clear,Gravel,Daylight,Morning,Motorcycle,60.0,1,1,24.3,Minor
+RWACC-01041,Karongi,Highway,Fog,Wet,Dark,Afternoon,Motorcycle,80.0,2,4,10.0,Fatal
+RWACC-01042,Bugesera,Market road,Clear,Dry,Dark,Afternoon,Motorcycle,50.0,1,2,19.3,Minor
+RWACC-01043,Karongi,Rural,Clear,Dry,Street lights,Afternoon,Motorcycle,60.0,1,2,9.9,Minor
+RWACC-01044,Nyarugenge,Urban,,Dry,Daylight,Afternoon,Car,30.0,1,3,8.2,Minor
+RWACC-01045,Huye,Urban,Clear,Dry,Daylight,Afternoon,Motorcycle,80.0,1,3,7.0,Minor
+RWACC-01046,Muhanga,Urban,Rain,Wet,Daylight,Afternoon,Motorcycle,60.0,1,4,5.8,Fatal
+RWACC-01047,Muhanga,Rural,Rain,Dry,Dark,Morning,Pedestrian involved,50.0,1,2,4.8,Minor
+RWACC-01048,Musanze,Urban,Clear,Dry,Daylight,Morning,Pedestrian involved,80.0,1,3,12.6,Minor
+RWACC-01049,Nyarugenge,Rural,Clear,Dry,Street lights,Afternoon,Truck,30.0,1,1,6.8,Minor
+RWACC-01050,Bugesera,Urban,Clear,Dry,Daylight,Afternoon,Motorcycle,50.0,1,6,19.9,Minor
+RWACC-01051,Nyarugenge,Rural,Clear,Dry,Street lights,Evening,Bicycle,60.0,1,1,18.3,Minor
+RWACC-01052,Huye,Urban,Clear,Dry,Daylight,Night,Car,50.0,2,6,33.6,Minor
+RWACC-01053,Karongi,Rural,Rain,Damaged,Daylight,Night,Bus,30.0,1,2,12.1,Fatal
+RWACC-01054,Rusizi,Highway,Clear,Dry,Daylight,Afternoon,Car,50.0,1,1,10.4,Minor
+RWACC-01055,Nyagatare,Highway,Rain,Dry,Daylight,Afternoon,Motorcycle,80.0,1,6,19.1,Serious
+RWACC-01056,Gasabo,Rural,Clear,Dry,Daylight,Afternoon,Car,60.0,2,6,50.0,Minor
+RWACC-01057,Gasabo,Urban,Clear,,Daylight,Afternoon,Truck,50.0,1,3,19.3,Serious
+RWACC-01058,Kicukiro,Rural,Clear,Dry,Daylight,Afternoon,Pedestrian involved,40.0,1,4,25.9,Minor
+RWACC-01059,Rusizi,Rural,Clear,Dry,Daylight,Night,Motorcycle,30.0,1,2,23.9,Minor
+RWACC-01060,Kicukiro,Urban,Clear,Dry,Daylight,Afternoon,Motorcycle,40.0,3,1,31.4,Serious
+RWACC-01061,Rusizi,Urban,Fog,Dry,Daylight,Morning,Motorcycle,50.0,1,4,31.4,Serious
+RWACC-01062,Muhanga,Urban,Clear,Dry,Daylight,Night,Pedestrian involved,80.0,1,3,28.9,Minor
+RWACC-01063,Karongi,Highway,Clear,Dry,Street lights,Afternoon,Truck,80.0,1,4,,Serious
+RWACC-01064,Rwamagana,Urban,Fog,Gravel,Daylight,Evening,Pedestrian involved,40.0,2,2,5.2,Serious
+RWACC-01065,Muhanga,Urban,Clear,Dry,Daylight,Evening,Car,40.0,1,3,23.4,Minor
+RWACC-01066,Rubavu,Rural,Clear,Dry,Street lights,Morning,Motorcycle,80.0,2,4,7.2,Minor
+RWACC-01067,Rusizi,Urban,Rain,Dry,Street lights,Afternoon,Motorcycle,30.0,2,2,11.4,Minor
+RWACC-01068,Karongi,Urban,Rain,Gravel,Daylight,Afternoon,Motorcycle,60.0,3,5,41.3,Serious
+RWACC-01069,Nyagatare,Urban,Windy,Gravel,Daylight,Afternoon,Pedestrian involved,60.0,2,6,10.3,Minor
+RWACC-01070,Muhanga,Rural,Rain,Dry,Street lights,Afternoon,Car,30.0,1,1,23.0,Minor
+RWACC-01071,Gasabo,Urban,Clear,Damaged,Daylight,Night,Motorcycle,60.0,1,3,12.0,Minor
+RWACC-01072,Muhanga,Highway,Rain,,Street lights,Evening,Car,40.0,1,2,17.2,Serious
+RWACC-01073,Rusizi,Urban,Fog,Dry,Daylight,Afternoon,Pedestrian involved,50.0,3,2,8.7,Serious
+RWACC-01074,Musanze,Urban,Fog,Dry,Street lights,Afternoon,Truck,80.0,1,1,17.1,Serious
+RWACC-01075,Nyagatare,Highway,Fog,Dry,Dark,Night,Pedestrian involved,60.0,1,4,37.0,Fatal
+RWACC-01076,Nyarugenge,Highway,Clear,Dry,Daylight,Afternoon,Motorcycle,100.0,4,6,3.7,Minor
+RWACC-01077,Rusizi,Urban,Clear,Wet,Daylight,Afternoon,Car,50.0,1,2,33.5,Minor
+RWACC-01078,Karongi,Rural,Clear,Dry,Dark,Night,Motorcycle,60.0,3,6,13.4,Serious
+RWACC-01079,Karongi,Urban,Clear,Damaged,Daylight,Evening,Car,60.0,1,6,32.7,Serious
+RWACC-01080,Bugesera,Rural,Clear,Dry,Daylight,Afternoon,Bus,80.0,2,6,12.9,Minor
+RWACC-01081,Huye,Rural,Clear,Dry,Daylight,Evening,Bus,60.0,2,4,46.4,Minor
+RWACC-01082,Huye,Market road,Clear,Wet,Daylight,Evening,Truck,40.0,4,2,32.2,Minor
+RWACC-01083,Bugesera,Urban,Rain,Dry,Daylight,Evening,Motorcycle,100.0,1,4,15.5,Serious
+RWACC-01084,Muhanga,Urban,Clear,Wet,Daylight,Afternoon,Motorcycle,40.0,3,2,12.9,Minor
+RWACC-01085,Nyarugenge,Rural,Rain,Wet,Daylight,Evening,Car,50.0,3,4,10.0,Serious
+RWACC-01086,Nyarugenge,Urban,Clear,Dry,Dark,Morning,Car,40.0,1,5,16.6,Minor
+RWACC-01087,Karongi,Highway,Fog,Wet,Daylight,Morning,Motorcycle,60.0,5,2,15.7,Serious
+RWACC-01088,Bugesera,Market road,Clear,Dry,Dark,Morning,Car,50.0,2,5,22.1,Minor
+RWACC-01089,Kicukiro,Highway,Clear,Damaged,Daylight,Afternoon,Motorcycle,60.0,2,6,28.1,Minor
+RWACC-01090,Huye,Highway,Clear,Dry,Daylight,Afternoon,Bicycle,40.0,1,4,20.9,Minor
+RWACC-01091,Bugesera,Rural,Fog,Dry,Daylight,Evening,Car,80.0,2,3,15.0,Serious
+RWACC-01092,Rwamagana,Rural,Clear,Dry,Daylight,Afternoon,Bus,40.0,1,4,4.9,Serious
+RWACC-01093,Rubavu,Urban,Clear,Gravel,Daylight,Night,Bus,80.0,1,3,4.7,Minor
+RWACC-01094,Kicukiro,Rural,Rain,Dry,Daylight,Morning,Motorcycle,40.0,1,6,5.9,Serious
+RWACC-01095,Nyagatare,Rural,Clear,Dry,Daylight,Evening,Pedestrian involved,60.0,1,1,13.8,Minor
+RWACC-01096,Nyarugenge,Urban,Rain,Dry,Street lights,Afternoon,Car,30.0,2,5,19.9,Minor
+RWACC-01097,Rubavu,Urban,Rain,Gravel,Daylight,Afternoon,Motorcycle,50.0,2,4,6.8,Serious
+RWACC-01098,Bugesera,Rural,Clear,Dry,Daylight,Afternoon,Pedestrian involved,50.0,1,1,5.4,Minor
+RWACC-01099,Huye,Rural,Rain,Damaged,Daylight,Morning,Pedestrian involved,60.0,2,1,18.2,Minor
+RWACC-01100,Rubavu,Urban,Rain,Dry,Street lights,Afternoon,Pedestrian involved,40.0,1,1,17.0,Serious
+RWACC-01101,Rubavu,Urban,Clear,Damaged,Street lights,Morning,Motorcycle,60.0,1,5,17.4,Serious
+RWACC-01102,Karongi,Rural,Clear,Wet,Street lights,Afternoon,Truck,50.0,1,6,22.5,Serious
+RWACC-01103,Nyarugenge,Urban,Clear,Dry,Daylight,Morning,Motorcycle,60.0,1,3,8.0,Minor
+RWACC-01104,Rwamagana,Urban,Rain,Dry,Street lights,Night,Car,100.0,1,2,28.4,Serious
+RWACC-01105,Musanze,Highway,Fog,Dry,Daylight,Afternoon,Motorcycle,30.0,2,3,17.4,Serious
+RWACC-01106,Nyagatare,Urban,Clear,Gravel,Daylight,Afternoon,Motorcycle,50.0,1,3,29.7,Minor
+RWACC-01107,Huye,Rural,Rain,Dry,Dark,Morning,Pedestrian involved,30.0,1,5,11.4,Serious
+RWACC-01108,Bugesera,Urban,Clear,Damaged,Daylight,Morning,Bicycle,60.0,1,5,6.6,Serious
+RWACC-01109,Karongi,Urban,Clear,Dry,Dark,Night,Car,30.0,1,5,24.8,Serious
+RWACC-01110,Nyarugenge,Highway,Clear,Dry,Daylight,Morning,Motorcycle,60.0,1,6,8.3,Minor
+RWACC-01111,Gasabo,Highway,Rain,Gravel,Daylight,Morning,Car,80.0,3,4,10.6,Serious
+RWACC-01112,Rubavu,Urban,Clear,Dry,Street lights,Evening,Motorcycle,100.0,3,5,13.2,Serious
+RWACC-01113,Nyarugenge,Rural,Fog,Dry,Daylight,Evening,Pedestrian involved,60.0,4,2,28.2,Minor
+RWACC-01114,Nyarugenge,Rural,Clear,Dry,Daylight,Morning,Car,40.0,3,2,2.0,Minor
+RWACC-01115,Karongi,Highway,Clear,Dry,Dark,Morning,Motorcycle,50.0,2,1,30.5,Minor
+RWACC-01116,Musanze,Rural,Rain,Dry,Dark,Evening,Motorcycle,30.0,2,1,13.3,Minor
+RWACC-01117,Rubavu,Market road,Clear,,Daylight,Morning,Motorcycle,80.0,5,3,15.7,Minor
+RWACC-01118,Huye,Urban,Clear,Dry,Daylight,Afternoon,Motorcycle,30.0,2,2,37.9,Minor
+RWACC-01119,Musanze,Urban,,Dry,Daylight,Night,Motorcycle,40.0,2,1,13.7,Serious
+RWACC-01120,Kicukiro,Highway,Clear,Dry,Street lights,Evening,Motorcycle,40.0,2,4,30.0,Minor
+RWACC-01121,Gasabo,Urban,Clear,Dry,Street lights,Night,Motorcycle,50.0,2,5,14.8,Minor
+RWACC-01122,Musanze,Market road,Clear,Dry,Daylight,Evening,Car,30.0,1,4,,Minor
+RWACC-01123,Nyagatare,Market road,Clear,Dry,Street lights,Night,Pedestrian involved,60.0,1,6,16.6,Serious
+RWACC-01124,Karongi,Urban,Clear,Dry,Daylight,Evening,Truck,60.0,1,3,23.9,Minor
+RWACC-01125,Kicukiro,Market road,Clear,Dry,Street lights,Afternoon,Bicycle,60.0,1,4,11.7,Minor
+RWACC-01126,Rwamagana,Urban,Rain,,Daylight,Morning,Bus,80.0,1,2,21.8,Serious
+RWACC-01127,Rusizi,Highway,Fog,Dry,Street lights,Morning,Motorcycle,80.0,3,2,28.3,Minor
+RWACC-01128,Musanze,Urban,Clear,Damaged,Street lights,Night,Car,40.0,1,1,32.6,Minor
+RWACC-01129,Rwamagana,Highway,Clear,Dry,Street lights,Afternoon,Motorcycle,40.0,2,2,9.2,Serious
+RWACC-01130,Rusizi,Rural,Clear,Wet,Street lights,Night,Car,80.0,1,2,14.7,Minor
+RWACC-01131,Huye,Urban,Clear,Gravel,Daylight,Morning,Motorcycle,50.0,1,4,7.2,Minor
+RWACC-01132,Kicukiro,Highway,Clear,Damaged,Daylight,Morning,Motorcycle,60.0,1,5,34.7,Fatal
+RWACC-01133,Gasabo,Rural,Rain,Damaged,Street lights,Night,Motorcycle,40.0,3,3,22.7,Serious
+RWACC-01134,Kicukiro,Urban,Clear,Dry,Daylight,Evening,Car,60.0,2,1,20.3,Minor
+RWACC-01135,Karongi,Urban,Clear,Dry,Daylight,Night,Motorcycle,80.0,1,3,2.5,Minor
+RWACC-01136,Nyarugenge,Highway,Rain,Dry,Daylight,Afternoon,Car,50.0,3,6,13.9,Serious
+RWACC-01137,Muhanga,Rural,Clear,Dry,Daylight,Afternoon,Car,30.0,1,3,15.9,Minor
+RWACC-01138,Gasabo,Rural,Clear,Wet,Dark,Evening,Bicycle,50.0,1,2,14.6,Minor
+RWACC-01139,Rusizi,Urban,Clear,Gravel,Daylight,Evening,Motorcycle,30.0,2,2,9.4,Minor
+RWACC-01140,Muhanga,Rural,Rain,Dry,Dark,Afternoon,Car,30.0,3,4,15.2,Serious
+RWACC-01141,Bugesera,Highway,Windy,Dry,Daylight,Morning,Truck,30.0,2,6,19.6,Serious
+RWACC-01142,Nyagatare,Rural,Clear,Dry,Street lights,Afternoon,Motorcycle,60.0,2,4,33.7,Serious
+RWACC-01143,Karongi,Urban,Clear,Dry,Daylight,Afternoon,Car,30.0,1,6,8.5,Minor
+RWACC-01144,Karongi,Rural,Windy,Dry,Daylight,Morning,Motorcycle,80.0,1,1,22.5,Minor
+RWACC-01145,Gasabo,Urban,Clear,Dry,Street lights,Night,Car,100.0,1,6,41.0,Serious
+RWACC-01146,Rwamagana,Highway,Clear,Dry,Daylight,Afternoon,Car,60.0,2,2,15.4,Minor
+RWACC-01147,Huye,Market road,Clear,Gravel,Dark,Evening,Car,100.0,2,2,22.2,Serious
+RWACC-01148,Huye,Urban,Clear,Dry,Street lights,Afternoon,Motorcycle,60.0,1,4,23.7,Serious
+RWACC-01149,Rubavu,Rural,Rain,Dry,Dark,Afternoon,Car,60.0,1,4,6.7,Serious
+RWACC-01150,Rwamagana,Highway,Rain,Wet,Daylight,Evening,Car,40.0,1,1,27.8,Minor
+RWACC-01151,Musanze,Urban,Fog,Dry,Daylight,Evening,Motorcycle,50.0,3,2,8.2,Serious
+RWACC-01152,Nyarugenge,Rural,Clear,Dry,Daylight,Afternoon,Motorcycle,60.0,1,3,8.6,Minor
+RWACC-01153,Karongi,Urban,Clear,Wet,Dark,Morning,Truck,30.0,1,1,6.7,Serious
+RWACC-01154,Huye,Urban,Clear,Dry,Daylight,Night,Truck,60.0,1,3,20.6,Minor
+RWACC-01155,Rusizi,Urban,Clear,Dry,Daylight,Evening,Motorcycle,100.0,1,4,14.3,Minor
+RWACC-01156,Rwamagana,Urban,Clear,Dry,Street lights,Afternoon,Car,60.0,3,3,20.7,Minor
+RWACC-01157,Karongi,Rural,Rain,,Street lights,Night,Car,60.0,2,3,31.9,Minor
+RWACC-01158,Nyarugenge,Urban,Clear,Dry,Daylight,Afternoon,Car,60.0,1,2,56.9,Minor
+RWACC-01159,Rusizi,Highway,Rain,Dry,Daylight,Afternoon,Motorcycle,30.0,2,6,21.1,Serious
+RWACC-01160,Bugesera,Urban,Clear,Dry,Daylight,Morning,Pedestrian involved,60.0,1,4,5.7,Minor
+RWACC-01161,Musanze,Highway,Clear,Dry,Street lights,Afternoon,Bicycle,30.0,1,5,6.4,Serious
+RWACC-01162,Gasabo,Rural,Clear,Gravel,Street lights,Afternoon,Motorcycle,40.0,3,4,8.9,Minor
+RWACC-01163,Kicukiro,Market road,Fog,Wet,Daylight,Afternoon,Motorcycle,40.0,1,3,11.0,Minor
+RWACC-01164,Gasabo,Highway,Rain,Dry,Dark,Evening,Pedestrian involved,30.0,1,2,3.1,Serious
+RWACC-01165,Rusizi,Urban,Clear,Dry,Daylight,Evening,Pedestrian involved,60.0,2,3,4.3,Minor
+RWACC-01166,Musanze,Urban,Rain,Wet,Daylight,Morning,Motorcycle,50.0,2,3,14.7,Serious
+RWACC-01167,Kicukiro,Urban,Clear,Wet,Dark,Evening,Car,50.0,1,5,4.9,Minor
+RWACC-01168,Kicukiro,Rural,Clear,Gravel,Street lights,Night,Pedestrian involved,30.0,1,6,5.5,Serious
+RWACC-01169,Musanze,Urban,Clear,Dry,Daylight,Morning,Motorcycle,40.0,2,1,11.4,Minor
+RWACC-01170,Rusizi,Urban,Fog,Dry,Daylight,Night,Motorcycle,80.0,1,6,17.5,Serious
+RWACC-01171,Karongi,Urban,Rain,Damaged,Street lights,Afternoon,Car,80.0,2,6,9.3,Serious
+RWACC-01172,Musanze,Rural,Rain,Dry,Street lights,Morning,Truck,30.0,1,5,18.5,Minor
+RWACC-01173,Nyagatare,Rural,Clear,Dry,Street lights,Morning,Car,80.0,2,3,15.6,Minor
+RWACC-01174,Rubavu,Urban,Rain,Wet,Daylight,Afternoon,Motorcycle,30.0,2,1,18.0,Serious
+RWACC-01175,Rwamagana,Highway,Clear,Dry,Street lights,Afternoon,Motorcycle,50.0,2,4,11.7,Serious
+RWACC-01176,Nyarugenge,Urban,Clear,Dry,Daylight,Afternoon,Motorcycle,100.0,1,3,23.6,Minor
+RWACC-01177,Rubavu,Urban,Clear,Dry,Dark,Night,Motorcycle,60.0,2,4,400.0,Minor
+RWACC-01178,Nyagatare,Urban,Rain,Dry,Street lights,Evening,Truck,40.0,1,3,6.2,Serious
+RWACC-01179,Rusizi,Rural,Clear,Dry,Dark,Afternoon,Pedestrian involved,40.0,1,4,5.1,Minor
+RWACC-01180,Rwamagana,Highway,Rain,Dry,Daylight,Night,Car,30.0,3,6,14.1,Fatal
+RWACC-01181,Musanze,Urban,Clear,Dry,Dark,Evening,Motorcycle,60.0,2,2,20.0,Minor
+RWACC-01182,Rubavu,Urban,Clear,Dry,Daylight,Evening,Motorcycle,50.0,1,4,12.2,Minor
+RWACC-01183,Gasabo,Highway,Rain,Dry,Daylight,Morning,Car,50.0,2,2,10.1,Serious
+RWACC-01184,Huye,Rural,Rain,Dry,Daylight,Evening,Motorcycle,60.0,3,4,7.7,Minor
+RWACC-01185,Kicukiro,Urban,Clear,Dry,Daylight,Evening,Bicycle,50.0,1,3,18.5,Minor
+RWACC-01186,Rusizi,Rural,Clear,Dry,Street lights,Afternoon,Car,30.0,1,3,11.2,Minor
+RWACC-01187,Bugesera,Urban,Clear,Damaged,Street lights,Evening,Car,100.0,3,2,10.3,Minor
+RWACC-01188,Musanze,Urban,Clear,Dry,Daylight,Evening,Motorcycle,30.0,2,2,25.5,Minor
+RWACC-01189,Rusizi,Highway,Clear,Dry,Dark,Afternoon,Motorcycle,40.0,1,2,28.3,Minor
+RWACC-01190,Rubavu,Urban,Clear,Dry,Daylight,Evening,Car,60.0,2,5,13.2,Minor
+RWACC-01191,Karongi,Market road,Clear,Dry,Daylight,Morning,Car,50.0,1,1,61.8,Minor
+RWACC-01192,Kicukiro,Rural,Rain,Dry,Daylight,Morning,Motorcycle,50.0,2,2,4.4,Minor
+RWACC-01193,Rubavu,Urban,Clear,Dry,Daylight,Night,Motorcycle,30.0,2,6,,Minor
+RWACC-01194,Nyagatare,Urban,Clear,Dry,Dark,Morning,Pedestrian involved,40.0,1,4,4.0,Serious
+RWACC-01195,Gasabo,Highway,Clear,Wet,Dark,Afternoon,Car,30.0,1,4,22.9,Serious
+RWACC-01196,Nyagatare,Highway,Fog,Dry,Street lights,Morning,Motorcycle,50.0,4,2,15.7,Serious
+RWACC-01197,Karongi,Urban,Clear,Dry,Street lights,Morning,Car,100.0,1,1,32.2,Minor
+RWACC-01198,Huye,Rural,Clear,Wet,Daylight,Morning,Motorcycle,60.0,2,4,5.5,Minor
+RWACC-01199,Kicukiro,Highway,Windy,Wet,Daylight,Afternoon,Motorcycle,40.0,1,6,34.0,Serious
+RWACC-01200,Rubavu,Rural,Clear,Gravel,Street lights,Morning,Bus,40.0,1,3,5.1,Minor
+RWACC-01201,Karongi,Urban,Rain,Dry,Daylight,Evening,Motorcycle,80.0,1,2,17.1,Minor
+RWACC-01202,Kicukiro,Rural,Fog,Dry,Daylight,Morning,Truck,40.0,1,1,8.4,Serious
+RWACC-01203,Nyagatare,Rural,Rain,Dry,Daylight,Evening,Motorcycle,50.0,4,4,29.0,Serious
+RWACC-01204,Nyagatare,Rural,Rain,,Street lights,Evening,Car,30.0,1,1,19.8,Minor
+RWACC-01205,Rwamagana,Highway,Clear,Gravel,Daylight,Afternoon,Car,50.0,1,4,13.0,Minor
+RWACC-01206,Nyagatare,Rural,Clear,Dry,Daylight,Afternoon,Car,40.0,2,3,13.1,Minor
+RWACC-01207,Nyagatare,Urban,Rain,Wet,Street lights,Afternoon,Motorcycle,80.0,2,6,9.1,Serious
+RWACC-01208,Bugesera,Highway,Rain,Dry,Street lights,Afternoon,Motorcycle,80.0,3,4,27.4,Serious
+RWACC-01209,Nyarugenge,Highway,Clear,Dry,Street lights,Morning,Bus,30.0,1,2,32.6,Minor
+RWACC-01210,Bugesera,Market road,Clear,Wet,Dark,Evening,Motorcycle,60.0,2,1,9.4,Serious
+RWACC-01211,Nyarugenge,Rural,Clear,Gravel,Street lights,Afternoon,Car,80.0,1,3,12.4,Minor
+RWACC-01212,Gasabo,Rural,,Dry,Street lights,Afternoon,Car,30.0,1,6,13.8,Minor
+RWACC-01213,Muhanga,Rural,Clear,Dry,Daylight,Evening,Truck,50.0,2,3,13.0,Minor
+RWACC-01214,Huye,Rural,Clear,Gravel,Daylight,Morning,Bicycle,80.0,2,6,14.2,Minor
+RWACC-01215,Musanze,Market road,Clear,,Daylight,Afternoon,Motorcycle,60.0,1,3,25.6,Minor
+RWACC-01216,Rubavu,Market road,,Dry,Daylight,Afternoon,Pedestrian involved,50.0,2,6,8.3,Minor
+RWACC-01217,Muhanga,Highway,Rain,Dry,Daylight,Evening,Truck,40.0,1,3,22.3,Serious
+RWACC-01218,Rwamagana,Rural,Clear,Damaged,Daylight,Night,Motorcycle,60.0,2,5,60.8,Serious
+RWACC-01219,Kicukiro,Market road,Clear,Dry,Street lights,Evening,Pedestrian involved,50.0,2,4,3.9,Minor
+RWACC-01220,Rusizi,Urban,Clear,,Daylight,Night,Car,80.0,2,4,24.2,Serious
+RWACC-01221,Gasabo,Urban,Clear,Damaged,Daylight,Evening,Pedestrian involved,50.0,3,5,24.3,Minor
+RWACC-01222,Karongi,Highway,Rain,Wet,Daylight,Afternoon,Motorcycle,80.0,1,1,49.7,Serious
+RWACC-01223,Rwamagana,Market road,Rain,Wet,Street lights,Morning,Motorcycle,100.0,1,6,18.6,Serious
+RWACC-01224,Kicukiro,Rural,Fog,Dry,Daylight,Afternoon,Motorcycle,40.0,2,4,29.9,Minor
+RWACC-01225,Muhanga,Highway,Clear,Dry,Street lights,Evening,Car,50.0,1,1,16.1,Minor
+RWACC-01226,Karongi,Highway,Rain,Dry,Dark,Evening,Truck,100.0,2,3,3.8,Serious
+RWACC-01227,Karongi,Rural,Clear,Dry,Daylight,Night,Truck,40.0,2,6,23.4,Serious
+RWACC-01228,Karongi,Urban,Clear,Dry,Street lights,Morning,Motorcycle,80.0,1,3,19.9,Minor
+RWACC-01229,Rusizi,Rural,Clear,Wet,Daylight,Afternoon,Car,80.0,1,1,12.8,Minor
+RWACC-01230,Musanze,Urban,Windy,Dry,Street lights,Morning,Motorcycle,30.0,2,6,2.6,Minor
+RWACC-01231,Rusizi,Highway,Clear,Dry,Dark,Morning,Car,30.0,1,1,27.7,Minor
+RWACC-01232,Nyarugenge,Highway,Windy,Wet,Street lights,Afternoon,Truck,60.0,1,1,28.5,Serious
+RWACC-01233,Karongi,Urban,Rain,Gravel,Street lights,Evening,Truck,40.0,2,2,2.1,Serious
+RWACC-01234,Bugesera,Rural,Rain,Wet,Daylight,Evening,Car,40.0,2,4,3.9,Serious
+RWACC-01235,Karongi,Rural,Clear,Dry,Daylight,Night,Bicycle,60.0,1,3,13.8,Minor
+RWACC-01236,Karongi,Rural,Clear,Dry,Daylight,Morning,Car,50.0,2,5,21.8,Minor
+RWACC-01237,Bugesera,Rural,Rain,Dry,Dark,Afternoon,Bicycle,80.0,2,6,17.3,Serious
+RWACC-01238,Rubavu,Rural,Rain,Dry,Street lights,Evening,Bus,,1,3,2.5,Serious
+RWACC-01239,Gasabo,Urban,,Dry,Daylight,Night,Pedestrian involved,50.0,2,6,5.1,Serious
+RWACC-01240,Kicukiro,Urban,Clear,Dry,Street lights,Afternoon,Motorcycle,30.0,4,2,24.9,Minor
+RWACC-01241,Musanze,Highway,Clear,Wet,Daylight,Evening,Motorcycle,60.0,2,3,11.3,Serious
+RWACC-01242,Nyagatare,Urban,Clear,Wet,Daylight,Morning,Truck,40.0,4,6,6.4,Serious
+RWACC-01243,Gasabo,Rural,Clear,Dry,Daylight,Morning,Motorcycle,40.0,3,6,41.4,Serious
+RWACC-01244,Gasabo,Urban,Clear,Gravel,Dark,Afternoon,Motorcycle,40.0,1,1,25.8,Minor
+RWACC-01245,Nyagatare,Market road,Clear,Wet,Daylight,Evening,Truck,30.0,1,4,19.4,Minor
+RWACC-01246,Muhanga,Highway,Clear,Dry,Daylight,Afternoon,Car,60.0,3,5,19.6,Minor
+RWACC-01247,Kicukiro,Highway,Clear,Dry,Daylight,Morning,Motorcycle,40.0,2,1,26.7,Minor
+RWACC-01248,Rubavu,Market road,Clear,Dry,Daylight,Morning,Motorcycle,80.0,1,2,15.3,Minor
+RWACC-01249,Kicukiro,Rural,Clear,Dry,Dark,Night,Bicycle,40.0,2,4,30.1,Serious
+RWACC-01250,Rwamagana,Market road,Rain,Dry,Daylight,Afternoon,Bus,30.0,4,4,27.8,Serious
+RWACC-01251,Bugesera,Urban,Clear,Dry,Street lights,Evening,Motorcycle,60.0,4,3,21.4,Minor
+RWACC-01252,Rubavu,Urban,Clear,Dry,Street lights,Evening,Car,30.0,1,1,2.3,Minor
+RWACC-01253,Muhanga,Rural,Rain,Wet,Daylight,Afternoon,Car,40.0,2,3,35.9,Serious
+RWACC-01254,Nyagatare,Urban,Rain,Dry,Daylight,Morning,Car,30.0,2,3,4.5,Minor
+RWACC-01255,Kicukiro,Rural,Clear,Wet,Daylight,Evening,Car,80.0,2,3,24.8,Minor
+RWACC-01256,Gasabo,Rural,Clear,Dry,Dark,Afternoon,Motorcycle,80.0,2,6,2.8,Serious
+RWACC-01257,Rwamagana,Highway,Fog,Damaged,Daylight,Morning,Motorcycle,60.0,1,3,34.9,Serious
+RWACC-01258,Nyagatare,Urban,Fog,Dry,Daylight,Morning,Pedestrian involved,80.0,1,1,53.2,Serious
+RWACC-01259,Rubavu,Urban,Windy,Wet,Dark,Morning,Pedestrian involved,40.0,1,1,12.4,Serious
+RWACC-01260,Kicukiro,Highway,Clear,Dry,Street lights,Afternoon,Car,30.0,2,4,30.0,Minor
+RWACC-01261,Gasabo,Highway,Clear,Dry,Dark,Morning,Motorcycle,60.0,4,1,19.2,Serious
+RWACC-01262,Muhanga,Rural,Clear,,Daylight,Afternoon,Motorcycle,100.0,2,1,16.3,Minor
+RWACC-01263,Musanze,Market road,Clear,Dry,Dark,Night,Pedestrian involved,40.0,1,5,6.7,Serious
+RWACC-01264,Nyagatare,Urban,Clear,Dry,Street lights,Afternoon,Motorcycle,80.0,4,4,10.0,Minor
+RWACC-01265,Karongi,Urban,Clear,Dry,Daylight,Morning,Pedestrian involved,50.0,3,4,19.2,Serious
+RWACC-01266,Rusizi,Rural,Rain,Damaged,Dark,Morning,Pedestrian involved,40.0,1,2,30.2,Serious
+RWACC-01267,Rwamagana,Rural,Clear,Dry,Dark,Night,Pedestrian involved,60.0,2,5,11.9,Minor
+RWACC-01268,Bugesera,Urban,Clear,Dry,Daylight,Evening,Pedestrian involved,30.0,1,3,12.9,Minor
+RWACC-01269,Bugesera,Highway,Clear,Dry,Street lights,Night,Motorcycle,40.0,1,2,14.1,Minor
+RWACC-01270,Rusizi,Highway,Fog,Wet,Daylight,Morning,Bus,60.0,4,2,41.6,Fatal
+RWACC-01271,Musanze,Urban,Rain,Wet,Dark,Evening,Bicycle,50.0,3,5,16.9,Serious
+RWACC-01272,Gasabo,Urban,Clear,Dry,Dark,Afternoon,Motorcycle,60.0,1,1,22.6,Minor
+RWACC-01273,Huye,Urban,Fog,Dry,Dark,Evening,Truck,50.0,2,1,9.9,Serious
+RWACC-01274,Karongi,Rural,Clear,Gravel,Dark,Night,Car,50.0,1,3,13.2,Minor
+RWACC-01275,Huye,Highway,Clear,Dry,Street lights,Morning,Bicycle,60.0,1,1,15.0,Minor
+RWACC-01276,Huye,Urban,Clear,Dry,Daylight,Evening,Bicycle,80.0,1,4,5.1,Minor
+RWACC-01277,Musanze,Urban,Clear,Dry,Daylight,Afternoon,Pedestrian involved,50.0,1,4,5.5,Minor
+RWACC-01278,Nyarugenge,Urban,Clear,Dry,Dark,Night,Pedestrian involved,80.0,1,6,16.7,Minor
+RWACC-01279,Rusizi,Urban,Clear,Wet,Daylight,Morning,Motorcycle,80.0,2,4,9.5,Serious
+RWACC-01280,Bugesera,Market road,Fog,Dry,Daylight,Afternoon,Bus,60.0,1,1,18.1,Serious
+RWACC-01281,Kicukiro,Highway,Clear,Wet,Daylight,Morning,Motorcycle,40.0,2,6,14.1,Serious
+RWACC-01282,Huye,Urban,Clear,Wet,Daylight,Evening,Bus,40.0,2,1,39.2,Serious
+RWACC-01283,Kicukiro,Highway,Clear,Dry,Daylight,Morning,Motorcycle,40.0,2,6,9.3,Minor
+RWACC-01284,Gasabo,Urban,Clear,Dry,Street lights,Afternoon,Truck,50.0,1,4,43.1,Minor
+RWACC-01285,Rwamagana,Urban,Clear,Wet,Daylight,Evening,Car,80.0,2,2,13.1,Minor
+RWACC-01286,Nyarugenge,Highway,Clear,Wet,Dark,Afternoon,Truck,50.0,1,2,6.9,Serious
+RWACC-01287,Rwamagana,Urban,Clear,Dry,Daylight,Night,Bicycle,50.0,1,2,14.2,Minor
+RWACC-01288,Gasabo,Market road,Clear,Dry,Dark,Morning,Motorcycle,80.0,1,5,23.3,Minor
+RWACC-01289,Rubavu,Urban,Clear,Dry,Daylight,Evening,Truck,60.0,3,1,4.4,Minor
+RWACC-01290,Rusizi,Rural,Clear,Dry,Dark,Evening,Car,30.0,1,6,2.5,Minor
+RWACC-01291,Gasabo,Urban,Clear,Gravel,Daylight,Evening,Car,30.0,1,4,25.6,Serious
+RWACC-01292,Bugesera,Urban,Clear,Wet,Daylight,Afternoon,Motorcycle,60.0,1,6,22.3,Minor
+RWACC-01293,Muhanga,Urban,Rain,Dry,Street lights,Morning,Truck,60.0,1,3,23.3,Minor
+RWACC-01294,Nyarugenge,Highway,Clear,Dry,Daylight,Morning,Bus,80.0,3,3,8.4,Serious
+RWACC-01295,Huye,Rural,Clear,Dry,Dark,Night,Truck,60.0,1,6,26.2,Serious
+RWACC-01296,Rubavu,Market road,Clear,Dry,Daylight,Evening,Truck,100.0,1,3,4.6,Minor
+RWACC-01297,Rubavu,Urban,Clear,Dry,Street lights,Night,Motorcycle,50.0,1,1,25.4,Minor
+RWACC-01298,Karongi,Highway,Rain,Dry,Daylight,Evening,Motorcycle,50.0,2,1,18.5,Minor
+RWACC-01299,Rubavu,Highway,Clear,Dry,Street lights,Evening,Motorcycle,100.0,3,6,20.9,Serious
+RWACC-01300,Bugesera,Urban,Rain,Gravel,Dark,Night,Motorcycle,40.0,3,5,20.2,Serious
+RWACC-01301,Nyagatare,Urban,Clear,Dry,Daylight,Evening,Bus,50.0,1,5,7.4,Serious
+RWACC-01302,Nyagatare,Market road,Clear,Dry,Dark,Morning,Motorcycle,60.0,4,2,16.1,Minor
+RWACC-01303,Rusizi,Rural,Clear,Dry,Dark,Afternoon,Motorcycle,40.0,1,1,50.9,Minor
+RWACC-01304,Kicukiro,Urban,Rain,Gravel,Dark,Evening,Pedestrian involved,40.0,1,4,47.4,Serious
+RWACC-01305,Rwamagana,Urban,Clear,Dry,Daylight,Evening,Truck,40.0,2,3,30.0,Minor
+RWACC-01306,Muhanga,Rural,Fog,Dry,Daylight,Afternoon,Motorcycle,30.0,1,6,20.9,Minor
+RWACC-01307,Kicukiro,Highway,Clear,Dry,Dark,Afternoon,Motorcycle,30.0,1,1,12.9,Minor
+RWACC-01308,Huye,Market road,Rain,Dry,Daylight,Night,Bicycle,40.0,2,5,14.2,Serious
+RWACC-01309,Gasabo,Highway,Rain,Wet,Daylight,Night,Car,80.0,2,4,26.5,Serious
+RWACC-01310,Rusizi,Rural,Clear,Gravel,Dark,Morning,Truck,40.0,1,4,8.7,Serious
+RWACC-01311,Karongi,Urban,Clear,Dry,Daylight,Night,Car,80.0,3,1,8.1,Serious
+RWACC-01312,Rusizi,Urban,Clear,Wet,Daylight,Evening,Car,100.0,1,1,3.7,Minor
+RWACC-01313,Muhanga,Market road,Rain,Dry,Daylight,Afternoon,Car,60.0,2,4,19.1,Minor
+RWACC-01314,Kicukiro,Urban,Clear,Wet,Daylight,Afternoon,Bus,40.0,2,4,22.2,Serious
+RWACC-01315,Nyagatare,Urban,Clear,Gravel,Daylight,Afternoon,Truck,100.0,1,6,10.3,Serious
+RWACC-01316,Kicukiro,Rural,Rain,Dry,Street lights,Morning,Car,40.0,1,2,24.3,Minor
+RWACC-01317,Nyarugenge,Rural,Clear,Dry,Daylight,Afternoon,Car,30.0,2,6,6.0,Minor
+RWACC-01318,Rusizi,Urban,Fog,Wet,Street lights,Evening,Car,80.0,2,1,8.4,Serious
+RWACC-01319,Rubavu,Urban,Clear,Dry,Street lights,Morning,Car,60.0,1,2,42.0,Minor
+RWACC-01320,Kicukiro,Urban,Rain,Dry,Daylight,Morning,Motorcycle,50.0,3,5,16.1,Serious
+RWACC-01321,Musanze,Urban,Clear,Dry,Daylight,Morning,Motorcycle,60.0,2,4,27.7,Minor
+RWACC-01322,Rwamagana,Urban,Clear,Dry,Street lights,Evening,Pedestrian involved,30.0,2,1,6.6,Minor
+RWACC-01323,Rusizi,Rural,Clear,Gravel,Street lights,Night,Pedestrian involved,100.0,3,5,7.4,Serious
+RWACC-01324,Gasabo,Urban,Rain,Dry,Daylight,Morning,Motorcycle,40.0,3,2,6.7,Serious
+RWACC-01325,Karongi,Highway,Clear,Dry,Daylight,Evening,Truck,40.0,3,2,12.6,Minor
+RWACC-01326,Nyagatare,Rural,Clear,Dry,Street lights,Morning,Motorcycle,50.0,3,2,10.7,Minor
+RWACC-01327,Nyagatare,Rural,Clear,Wet,Daylight,Evening,Motorcycle,30.0,1,5,38.6,Minor
+RWACC-01328,Nyarugenge,Urban,Rain,Dry,Daylight,Evening,Car,30.0,1,4,23.1,Serious
+RWACC-01329,Rusizi,Rural,Rain,Dry,Daylight,Evening,Truck,80.0,2,5,5.8,Serious
+RWACC-01330,Nyarugenge,Rural,Fog,,Dark,Afternoon,Motorcycle,30.0,1,3,12.8,Minor
+RWACC-01331,Rwamagana,Rural,Rain,Wet,Street lights,Evening,Car,60.0,2,1,7.4,Minor
+RWACC-01332,Nyarugenge,Market road,Clear,Dry,Daylight,Morning,Motorcycle,80.0,2,4,19.1,Minor
+RWACC-01333,Huye,Urban,Clear,Dry,Street lights,Afternoon,Car,30.0,2,2,5.7,Minor
+RWACC-01334,Rubavu,Rural,Rain,Wet,Street lights,Evening,Pedestrian involved,100.0,2,1,36.6,Minor
+RWACC-01335,Bugesera,Rural,Clear,Dry,Dark,Evening,Motorcycle,50.0,1,4,30.5,Serious
+RWACC-01336,Rusizi,Market road,Rain,Dry,Daylight,Afternoon,Car,100.0,1,5,8.3,Minor
+RWACC-01337,Gasabo,Rural,Clear,Dry,Dark,Evening,Motorcycle,50.0,2,2,13.6,Minor
+RWACC-01338,Muhanga,Urban,Clear,Damaged,Daylight,Evening,Car,50.0,2,1,15.2,Minor
+RWACC-01339,Rusizi,Urban,Rain,Damaged,Street lights,Morning,Car,40.0,3,3,6.1,Minor
+RWACC-01340,Rubavu,Rural,Rain,Dry,Daylight,Afternoon,Pedestrian involved,50.0,2,1,17.2,Minor
+RWACC-01341,Bugesera,Highway,Clear,Wet,Dark,Afternoon,Motorcycle,40.0,1,4,18.8,Serious
+RWACC-01342,Gasabo,Urban,Fog,Dry,Daylight,Evening,Pedestrian involved,40.0,1,6,43.3,Serious
+RWACC-01343,Musanze,Urban,Clear,Wet,Dark,Morning,Motorcycle,30.0,2,3,17.5,Minor
+RWACC-01344,Muhanga,Urban,Clear,Dry,Dark,Afternoon,Truck,40.0,4,3,20.3,Minor
+RWACC-01345,Muhanga,Rural,Rain,Dry,Street lights,Evening,Car,80.0,1,2,13.4,Minor
+RWACC-01346,Nyagatare,Urban,Clear,Damaged,Dark,Morning,Bus,80.0,1,5,2.8,Serious
+RWACC-01347,Musanze,Market road,Clear,Dry,Daylight,Afternoon,Truck,100.0,1,2,36.2,Serious
+RWACC-01348,Karongi,Rural,Rain,Dry,Daylight,Afternoon,Bicycle,40.0,2,5,54.4,Serious
+RWACC-01349,Nyarugenge,Market road,Rain,Gravel,Dark,Night,Pedestrian involved,80.0,1,6,25.8,Fatal
+RWACC-01350,Nyagatare,Rural,Clear,Dry,Daylight,Afternoon,Motorcycle,50.0,2,5,41.9,Minor
+RWACC-01351,Musanze,Urban,Rain,Wet,Dark,Morning,Car,50.0,1,1,16.0,Serious
+RWACC-01352,Bugesera,Rural,Clear,Dry,Daylight,Evening,Truck,40.0,2,6,14.3,Minor
+RWACC-01353,Musanze,Urban,,Wet,Daylight,Morning,Pedestrian involved,50.0,2,4,11.6,Serious
+RWACC-01354,Huye,Rural,Windy,Wet,Daylight,Afternoon,Car,40.0,2,3,9.9,Minor
+RWACC-01355,Huye,Urban,Clear,Dry,Daylight,Afternoon,Car,40.0,3,1,10.6,Serious
+RWACC-01356,Bugesera,Urban,Clear,Dry,Daylight,Morning,Motorcycle,30.0,1,2,12.7,Serious
+RWACC-01357,Rwamagana,Urban,Clear,Dry,Daylight,Night,Car,40.0,1,2,9.9,Minor
+RWACC-01358,Rwamagana,Urban,Fog,Dry,Daylight,Afternoon,Motorcycle,30.0,2,3,9.7,Minor
+RWACC-01359,Rusizi,Urban,Fog,Dry,Daylight,Afternoon,Car,50.0,1,3,5.1,Serious
+RWACC-01360,Rwamagana,Urban,Clear,Damaged,Street lights,Morning,Bus,60.0,1,2,9.7,Serious
+RWACC-01361,Rusizi,Urban,Clear,Dry,Daylight,Night,Motorcycle,40.0,1,1,4.8,Minor
+RWACC-01362,Huye,Highway,Fog,Wet,Daylight,Afternoon,Pedestrian involved,50.0,1,5,17.3,Fatal
+RWACC-01363,Kicukiro,Urban,Clear,Dry,Daylight,Afternoon,Motorcycle,100.0,1,3,350.0,Minor
+RWACC-01364,Muhanga,Rural,Clear,Dry,Daylight,Morning,Motorcycle,30.0,3,5,13.8,Minor
+RWACC-01365,Karongi,Urban,Clear,Damaged,Dark,Morning,Pedestrian involved,50.0,2,2,22.6,Minor
+RWACC-01366,Nyarugenge,Rural,Clear,Dry,Dark,Morning,Motorcycle,80.0,3,4,20.9,Serious
+RWACC-01367,Nyagatare,Market road,Clear,Gravel,Daylight,Night,Truck,50.0,3,6,6.1,Serious
+RWACC-01368,Gasabo,Urban,Clear,Wet,Street lights,Afternoon,Pedestrian involved,50.0,1,3,39.1,Minor
+RWACC-01369,Rubavu,Rural,Clear,Dry,Street lights,Afternoon,Car,60.0,1,4,2.0,Minor
+RWACC-01370,Gasabo,Highway,Rain,Dry,Daylight,Night,Motorcycle,80.0,1,5,27.7,Serious
+RWACC-01371,Gasabo,Rural,Clear,Dry,Daylight,Morning,Motorcycle,50.0,2,1,8.5,Minor
+RWACC-01372,Rusizi,Highway,Clear,Wet,Daylight,Morning,Truck,30.0,2,4,7.0,Serious
+RWACC-01373,Muhanga,Market road,Clear,Gravel,Street lights,Night,Car,40.0,2,4,31.3,Minor
+RWACC-01374,Musanze,Market road,Windy,Dry,Daylight,Morning,Car,40.0,1,3,27.5,Minor
+RWACC-01375,Musanze,Urban,Clear,Dry,Street lights,Night,Car,30.0,1,6,18.6,Serious
+RWACC-01376,Karongi,Urban,Rain,Gravel,Street lights,Evening,Motorcycle,60.0,1,5,7.4,Minor
+RWACC-01377,Nyagatare,Urban,Clear,Dry,Daylight,Evening,Car,60.0,3,1,17.6,Minor
+RWACC-01378,Huye,Urban,Clear,Gravel,Daylight,Afternoon,Truck,60.0,1,6,10.8,Minor
+RWACC-01379,Kicukiro,Rural,Rain,Dry,Daylight,Afternoon,Motorcycle,50.0,1,5,2.0,Minor
+RWACC-01380,Nyagatare,Market road,Clear,Dry,Daylight,Afternoon,Bus,40.0,3,5,29.8,Serious
+RWACC-01381,Karongi,Rural,Clear,Wet,Street lights,Morning,Truck,50.0,1,4,,Serious
+RWACC-01382,Musanze,Highway,,Wet,Dark,Afternoon,Car,80.0,2,5,7.3,Serious
+RWACC-01383,Rwamagana,Urban,Rain,Gravel,Street lights,Morning,Car,60.0,1,6,17.1,Minor
+RWACC-01384,Muhanga,Urban,Clear,Wet,Daylight,Morning,Motorcycle,50.0,2,4,23.0,Serious
+RWACC-01385,Nyarugenge,Urban,Clear,Dry,Daylight,Afternoon,Car,50.0,4,1,17.7,Minor
+RWACC-01386,Gasabo,Highway,Fog,Dry,Dark,Night,Car,60.0,2,3,13.4,Fatal
+RWACC-01387,Huye,Urban,Clear,Dry,Daylight,Evening,Car,60.0,2,2,30.9,Minor
+RWACC-01388,Gasabo,Highway,Clear,Dry,Daylight,Afternoon,Motorcycle,80.0,4,1,39.2,Serious
+RWACC-01389,Nyarugenge,Urban,Clear,Dry,Daylight,Night,Car,40.0,2,3,8.8,Minor
+RWACC-01390,Gasabo,Rural,Clear,Dry,Daylight,Evening,Car,60.0,2,4,13.7,Minor
+RWACC-01391,Musanze,Urban,Clear,Dry,Street lights,Morning,Truck,50.0,1,3,10.9,Minor
+RWACC-01392,Huye,Market road,Clear,Wet,Daylight,Afternoon,Car,100.0,1,3,9.5,Minor
+RWACC-01393,Rubavu,Rural,Clear,Dry,Daylight,Afternoon,Car,40.0,2,6,5.6,Minor
+RWACC-01394,Gasabo,Market road,Rain,Dry,Daylight,Morning,Car,80.0,1,6,21.8,Serious
+RWACC-01395,Gasabo,Rural,Clear,Gravel,Daylight,Morning,Car,80.0,2,1,39.2,Minor
+RWACC-01396,Karongi,Rural,Clear,Wet,Street lights,Morning,Car,50.0,3,1,21.9,Serious
+RWACC-01397,Rwamagana,Urban,Clear,Damaged,Daylight,Morning,Motorcycle,80.0,1,3,12.8,Minor
+RWACC-01398,Rwamagana,Urban,Rain,Dry,Dark,Afternoon,Truck,100.0,2,3,5.9,Serious
+RWACC-01399,Nyagatare,Urban,Clear,Wet,Street lights,Afternoon,Car,50.0,1,3,8.5,Minor
+RWACC-01400,Muhanga,Urban,Clear,Wet,Street lights,Evening,Motorcycle,60.0,3,3,14.0,Minor
+RWACC-01401,Muhanga,Urban,Clear,Dry,Street lights,Evening,Car,40.0,3,5,17.4,Minor
+RWACC-01402,Kicukiro,Highway,Rain,Dry,Daylight,Night,Truck,60.0,3,3,23.0,Fatal
+RWACC-01403,Nyagatare,Rural,Rain,Dry,Dark,Afternoon,Car,40.0,3,2,11.8,Fatal
+RWACC-01404,Karongi,Urban,Clear,Damaged,Daylight,Afternoon,Truck,60.0,1,6,18.1,Fatal
+RWACC-01405,Bugesera,Highway,Clear,Wet,Street lights,Morning,Car,40.0,1,6,40.4,Serious
+RWACC-01406,Musanze,Market road,Clear,Dry,Daylight,Night,Bus,100.0,1,3,5.6,Minor
+RWACC-01407,Bugesera,Rural,Clear,Dry,Daylight,Afternoon,Motorcycle,40.0,1,1,24.7,Minor
+RWACC-01408,Gasabo,Rural,Clear,Gravel,Daylight,Morning,Car,40.0,1,1,18.5,Minor
+RWACC-01409,Nyarugenge,Urban,Clear,Damaged,Dark,Afternoon,Motorcycle,60.0,2,3,6.0,Serious
+RWACC-01410,Nyagatare,Highway,Clear,Dry,Street lights,Evening,Bus,80.0,2,2,,Minor
+RWACC-01411,Musanze,Rural,Rain,Wet,Daylight,Afternoon,Car,50.0,1,2,15.9,Minor
+RWACC-01412,Karongi,Urban,Rain,Gravel,Daylight,Morning,Motorcycle,30.0,1,4,9.6,Minor
+RWACC-01413,Kicukiro,Market road,Fog,Gravel,Daylight,Evening,Car,50.0,3,5,7.9,Fatal
+RWACC-01414,Nyagatare,Rural,Clear,Dry,Dark,Morning,Truck,50.0,1,2,20.2,Minor
+RWACC-01415,Musanze,Market road,Clear,,Daylight,Morning,Motorcycle,80.0,1,6,15.2,Minor
+RWACC-01416,Nyagatare,Market road,Clear,Dry,Daylight,Afternoon,Car,50.0,1,5,33.4,Serious
+RWACC-01417,Nyarugenge,Urban,Clear,Gravel,Street lights,Night,Truck,60.0,2,2,4.0,Serious
+RWACC-01418,Huye,Rural,Windy,Dry,Daylight,Morning,Car,80.0,1,3,14.9,Minor
+RWACC-01419,Musanze,Urban,Rain,Dry,Daylight,Night,Car,30.0,1,4,11.4,Serious
+RWACC-01420,Bugesera,Highway,Windy,Wet,Daylight,Morning,Bicycle,40.0,2,6,9.7,Minor
+RWACC-01421,Huye,Rural,Clear,Dry,Daylight,Evening,Car,30.0,2,2,15.5,Minor
+RWACC-01422,Karongi,Rural,Clear,Gravel,Daylight,Morning,Motorcycle,80.0,4,6,6.3,Serious
+RWACC-01423,Bugesera,Rural,Clear,Dry,Daylight,Afternoon,Truck,30.0,3,6,18.9,Serious
+RWACC-01424,Karongi,Urban,Rain,Gravel,Street lights,Afternoon,Car,50.0,3,1,16.0,Minor
+RWACC-01425,Rusizi,Rural,Clear,Gravel,Daylight,Morning,Motorcycle,30.0,2,2,18.0,Minor
+RWACC-01426,Rusizi,Urban,Clear,Dry,Daylight,Afternoon,Pedestrian involved,40.0,2,3,11.3,Minor
+RWACC-01427,Rwamagana,Urban,Clear,Wet,Daylight,Night,Bus,30.0,1,1,28.7,Serious
+RWACC-01428,Rusizi,Highway,Rain,Dry,Daylight,Afternoon,Truck,60.0,1,1,11.9,Minor
+RWACC-01429,Karongi,Urban,Clear,Wet,Dark,Morning,Motorcycle,30.0,5,1,10.4,Serious
+RWACC-01430,Nyarugenge,Rural,Clear,Dry,Street lights,Afternoon,Motorcycle,80.0,4,5,24.8,Serious
+RWACC-01431,Kicukiro,Urban,Clear,Damaged,Daylight,Afternoon,Motorcycle,80.0,1,5,9.1,Minor
+RWACC-01432,Huye,Rural,Rain,Wet,Dark,Morning,Truck,40.0,1,4,5.0,Serious
+RWACC-01433,Kicukiro,Market road,Rain,Damaged,Daylight,Afternoon,Car,60.0,1,6,14.8,Fatal
+RWACC-01434,Musanze,Rural,Clear,Dry,Street lights,Morning,Truck,50.0,2,3,34.1,Minor
+RWACC-01435,Bugesera,Highway,Clear,Dry,Daylight,Evening,Car,40.0,1,6,31.8,Minor
+RWACC-01436,Nyarugenge,Urban,Clear,Gravel,Daylight,Morning,Motorcycle,60.0,1,1,26.6,Minor
+RWACC-01437,Bugesera,Urban,Clear,Gravel,Daylight,Afternoon,Car,30.0,2,4,45.7,Minor
+RWACC-01438,Huye,Urban,Clear,Wet,Daylight,Evening,Motorcycle,60.0,1,6,14.5,Fatal
+RWACC-01439,Kicukiro,Market road,Clear,Dry,Dark,Morning,Car,80.0,4,3,11.5,Minor
+RWACC-01440,Gasabo,Urban,Clear,Dry,Dark,Evening,Pedestrian involved,50.0,1,6,14.3,Serious
+RWACC-01441,Karongi,Market road,Clear,Dry,Daylight,Morning,Car,60.0,3,1,2.5,Minor
+RWACC-01442,Nyagatare,Urban,Clear,Dry,Street lights,Night,Truck,80.0,1,3,32.8,Serious
+RWACC-01443,Muhanga,Urban,Clear,Dry,Dark,Morning,Motorcycle,30.0,1,3,31.7,Minor
+RWACC-01444,Kicukiro,Rural,Clear,Dry,Street lights,Night,Motorcycle,50.0,1,1,17.9,Minor
+RWACC-01445,Karongi,Highway,Clear,Dry,Street lights,Afternoon,Car,50.0,2,5,12.8,Serious
+RWACC-01446,Huye,Rural,Clear,Wet,Dark,Morning,Truck,40.0,1,2,7.9,Minor
+RWACC-01447,Karongi,Highway,Rain,Dry,Dark,Morning,Motorcycle,40.0,2,5,28.5,Serious
+RWACC-01448,Huye,Urban,Clear,Gravel,Dark,Afternoon,Bus,60.0,2,5,23.8,Serious
+RWACC-01449,Kicukiro,Rural,Rain,Gravel,Street lights,Morning,Bicycle,30.0,2,5,5.2,Serious
+RWACC-01450,Muhanga,Rural,Clear,Dry,Daylight,Afternoon,Motorcycle,80.0,1,1,13.9,Minor
+RWACC-01451,Nyagatare,Rural,Clear,Dry,Street lights,Night,Pedestrian involved,50.0,4,5,4.8,Serious
+RWACC-01452,Rusizi,Highway,Clear,Dry,Dark,Night,Motorcycle,40.0,3,3,18.8,Serious
+RWACC-01453,Musanze,Urban,,Dry,Daylight,Evening,Car,30.0,1,1,7.7,Minor
+RWACC-01454,Karongi,Market road,Clear,Dry,Street lights,Evening,Truck,50.0,1,6,25.0,Serious
+RWACC-01455,Nyarugenge,Urban,Clear,Dry,Daylight,Morning,Car,50.0,1,4,22.6,Serious
+RWACC-01456,Gasabo,Urban,Rain,Damaged,Street lights,Afternoon,Car,60.0,2,5,46.8,Minor
+RWACC-01457,Kicukiro,Urban,Fog,Dry,Street lights,Afternoon,Motorcycle,30.0,1,6,28.2,Fatal
+RWACC-01458,Bugesera,Rural,Rain,Dry,Daylight,Evening,Car,30.0,1,2,6.1,Minor
+RWACC-01459,Rubavu,Market road,Clear,Dry,Daylight,Night,Motorcycle,80.0,1,2,7.0,Serious
+RWACC-01460,Rusizi,Highway,Clear,Wet,Street lights,Afternoon,Car,50.0,1,2,20.7,Serious
+RWACC-01461,Rwamagana,Highway,Clear,Dry,Daylight,Night,Car,80.0,2,2,16.2,Minor
+RWACC-01462,Muhanga,Urban,Clear,Gravel,Daylight,Afternoon,Bus,30.0,5,5,7.0,Minor
+RWACC-01463,Nyagatare,Urban,Clear,,Dark,Night,Bus,60.0,1,6,22.9,Serious
+RWACC-01464,Bugesera,Rural,,Dry,Daylight,Afternoon,Motorcycle,40.0,1,6,7.7,Minor
+RWACC-01465,Kicukiro,Market road,Rain,Dry,Daylight,Afternoon,Pedestrian involved,80.0,2,2,2.8,Minor
+RWACC-01466,Rwamagana,Urban,Clear,Wet,Daylight,Night,Truck,40.0,3,4,18.8,Fatal
+RWACC-01467,Nyagatare,Rural,Fog,Dry,Daylight,Night,Truck,50.0,1,1,24.0,Fatal
+RWACC-01468,Huye,Urban,Rain,Dry,Daylight,Night,Motorcycle,50.0,1,6,21.8,Serious
+RWACC-01469,Musanze,Urban,Rain,Dry,Daylight,Night,Bus,30.0,4,5,6.3,Serious
+RWACC-01470,Bugesera,Urban,Rain,Dry,Daylight,Night,Car,40.0,1,3,15.1,Serious
+RWACC-01471,Nyagatare,Urban,Rain,Dry,Street lights,Afternoon,Car,30.0,1,2,8.0,Minor
+RWACC-01472,Rusizi,Rural,Clear,Wet,Street lights,Morning,Bus,40.0,2,5,5.6,Serious
+RWACC-01473,Rusizi,Urban,Clear,Dry,Street lights,Afternoon,Motorcycle,60.0,1,4,9.2,Minor
+RWACC-01474,Gasabo,Highway,Clear,Wet,Daylight,Evening,Car,40.0,1,6,36.7,Serious
+RWACC-01475,Bugesera,Urban,Clear,Dry,Dark,Afternoon,Motorcycle,60.0,4,5,3.5,Fatal
+RWACC-01476,Bugesera,Rural,Clear,Dry,Daylight,Morning,Car,60.0,1,3,10.2,Minor
+RWACC-01477,Huye,Urban,Clear,Dry,Daylight,Afternoon,Car,60.0,4,1,21.1,Minor
+RWACC-01478,Muhanga,Urban,Rain,Dry,Daylight,Morning,Motorcycle,40.0,3,6,6.2,Minor
+RWACC-01479,Karongi,Rural,Rain,Dry,Daylight,Morning,Car,30.0,2,4,8.8,Minor
+RWACC-01480,Musanze,Urban,Fog,Damaged,Dark,Afternoon,Car,50.0,2,5,4.2,Fatal
+RWACC-01481,Nyarugenge,Urban,Clear,Dry,Dark,Morning,Car,60.0,1,4,8.4,Minor
+RWACC-01482,Rubavu,Urban,Clear,Dry,Daylight,Afternoon,Pedestrian involved,30.0,2,2,11.2,Minor
+RWACC-01483,Karongi,Rural,Rain,Dry,Daylight,Morning,Motorcycle,50.0,2,1,7.0,Serious
+RWACC-01484,Muhanga,Rural,Clear,Gravel,Dark,Morning,Motorcycle,30.0,1,4,8.0,Minor
+RWACC-01485,Nyarugenge,Urban,Clear,Dry,Daylight,Morning,Pedestrian involved,60.0,1,1,9.8,Minor
+RWACC-01486,Karongi,Highway,Rain,Dry,Daylight,Night,Motorcycle,30.0,2,5,6.0,Serious
+RWACC-01487,Bugesera,Urban,Clear,Damaged,Dark,Afternoon,Car,50.0,2,1,13.6,Minor
+RWACC-01488,Gasabo,Rural,Clear,Wet,Dark,Afternoon,Car,60.0,1,5,16.9,Serious
+RWACC-01489,Rwamagana,Rural,Clear,Dry,Daylight,Morning,Truck,60.0,2,3,20.5,Minor
+RWACC-01490,Gasabo,Highway,Clear,Gravel,Daylight,Evening,Pedestrian involved,60.0,1,5,37.9,Minor
+RWACC-01491,Kicukiro,Rural,Clear,Damaged,Daylight,Afternoon,Bicycle,80.0,2,5,9.7,Serious
+RWACC-01492,Kicukiro,Highway,Rain,Dry,Daylight,Morning,Pedestrian involved,30.0,3,6,8.6,Serious
+RWACC-01493,Nyagatare,Rural,Clear,Wet,Dark,Morning,Bus,40.0,1,3,15.8,Serious
+RWACC-01494,Gasabo,Urban,Clear,Dry,Daylight,Morning,Bicycle,40.0,3,5,30.0,Serious
+RWACC-01495,Rubavu,Market road,Clear,Dry,Street lights,Morning,Car,50.0,1,6,25.0,Minor
+RWACC-01496,Huye,Rural,Clear,Wet,Daylight,Afternoon,Bus,80.0,1,2,32.2,Minor
+RWACC-01497,Muhanga,Rural,Clear,Dry,Daylight,Afternoon,Car,30.0,1,1,37.2,Minor
+RWACC-01498,Musanze,Urban,Clear,Dry,Street lights,Evening,Pedestrian involved,30.0,2,1,4.8,Minor
+RWACC-01499,Kicukiro,Rural,Clear,Dry,Daylight,Evening,Bicycle,40.0,2,2,6.9,Minor
+RWACC-01500,Huye,Rural,Rain,Dry,Daylight,Afternoon,Pedestrian involved,80.0,1,3,48.6,Minor
+RWACC-01501,Rwamagana,Highway,Rain,Gravel,Daylight,Morning,Bus,60.0,2,2,22.7,Serious
+RWACC-01502,Gasabo,Highway,Clear,Dry,Daylight,Evening,Motorcycle,60.0,1,6,19.8,Minor
+RWACC-01503,Muhanga,Market road,Windy,Dry,Daylight,Morning,Bicycle,30.0,2,5,40.1,Minor
+RWACC-01504,Bugesera,Highway,Clear,Dry,Daylight,Night,Motorcycle,30.0,3,6,10.0,Serious
+RWACC-01505,Bugesera,Market road,Rain,Damaged,Street lights,Afternoon,Bus,50.0,1,5,17.6,Serious
+RWACC-01506,Rusizi,Highway,Rain,Dry,Daylight,Afternoon,Motorcycle,60.0,2,6,7.7,Minor
+RWACC-01507,Musanze,Highway,Clear,Dry,Daylight,Night,Pedestrian involved,60.0,2,2,15.4,Minor
+RWACC-01508,Gasabo,Highway,Windy,Dry,Street lights,Afternoon,Car,50.0,5,2,35.1,Serious
+RWACC-01509,Muhanga,Rural,Fog,Dry,Daylight,Afternoon,Pedestrian involved,60.0,2,4,24.1,Serious
+RWACC-01510,Rwamagana,Highway,Fog,Damaged,Street lights,Night,Car,40.0,1,3,4.4,Serious
+RWACC-01511,Nyarugenge,Urban,Clear,Dry,Street lights,Afternoon,Car,60.0,1,1,4.1,Minor
+RWACC-01512,Kicukiro,Highway,Clear,Dry,Dark,Night,Pedestrian involved,60.0,2,5,4.6,Serious
+RWACC-01513,Gasabo,Urban,Clear,Dry,Daylight,Afternoon,Bicycle,80.0,2,5,6.0,Minor
+RWACC-01514,Rubavu,Urban,Clear,Damaged,Daylight,Morning,Motorcycle,40.0,1,5,22.0,Minor
+RWACC-01515,Bugesera,Market road,Clear,Dry,Daylight,Afternoon,Pedestrian involved,60.0,1,4,7.0,Minor
+RWACC-01516,Rwamagana,Urban,Clear,Dry,Street lights,Evening,Motorcycle,60.0,2,5,18.0,Minor
+RWACC-01517,Gasabo,Rural,Rain,Dry,Daylight,Morning,Car,30.0,1,2,2.7,Serious
+RWACC-01518,Kicukiro,Highway,Clear,Dry,Street lights,Morning,Motorcycle,50.0,1,5,24.7,Serious
+RWACC-01519,Muhanga,Rural,Clear,Dry,Daylight,Evening,Motorcycle,50.0,3,1,41.5,Minor
+RWACC-01520,Nyarugenge,Highway,Clear,Wet,Daylight,Evening,Motorcycle,50.0,1,4,31.9,Fatal
+RWACC-01521,Karongi,Urban,Clear,Damaged,Daylight,Night,Bus,60.0,1,5,22.2,Serious
+RWACC-01522,Nyagatare,Rural,Clear,Dry,Daylight,Morning,Motorcycle,40.0,1,1,3.7,Minor
+RWACC-01523,Muhanga,Urban,Clear,Wet,Daylight,Evening,Truck,30.0,2,6,19.4,Serious
+RWACC-01524,Kicukiro,Highway,Clear,Damaged,Daylight,Evening,Truck,60.0,4,3,27.1,Serious
+RWACC-01525,Nyagatare,Rural,Rain,Wet,Daylight,Afternoon,Car,30.0,5,2,5.8,Serious
+RWACC-01526,Nyagatare,Urban,Rain,Dry,Daylight,Afternoon,Car,80.0,1,2,36.0,Minor
+RWACC-01527,Muhanga,Rural,Rain,Gravel,Daylight,Night,Car,80.0,2,6,17.2,Serious
+RWACC-01528,Bugesera,Rural,Clear,Dry,Daylight,Night,Car,30.0,3,1,22.6,Serious
+RWACC-01529,Huye,Urban,Clear,Dry,Street lights,Afternoon,Motorcycle,40.0,1,3,28.9,Minor
+RWACC-01530,Gasabo,Rural,Clear,Dry,Daylight,Night,Motorcycle,40.0,1,6,21.6,Minor
+RWACC-01531,Nyagatare,Urban,Clear,Gravel,Daylight,Evening,Bus,60.0,1,4,11.6,Serious
+RWACC-01532,Nyagatare,Urban,Rain,Dry,Street lights,Night,Truck,30.0,1,3,13.8,Serious
+RWACC-01533,Rusizi,Highway,Rain,Dry,Street lights,Evening,Motorcycle,80.0,1,2,33.8,Minor
+RWACC-01534,Muhanga,Urban,Clear,Dry,Street lights,Night,Car,30.0,2,4,12.0,Minor
+RWACC-01535,Rwamagana,Urban,,Dry,Daylight,Morning,Truck,50.0,1,2,22.0,Minor
+RWACC-01536,Kicukiro,Highway,Rain,Wet,Daylight,Morning,Bicycle,30.0,1,1,6.5,Serious
+RWACC-01537,Huye,Rural,Clear,Wet,Daylight,Afternoon,Motorcycle,30.0,5,3,11.1,Minor
+RWACC-01538,Nyagatare,Rural,Rain,Dry,Street lights,Morning,Motorcycle,30.0,1,5,3.1,Serious
+RWACC-01539,Rubavu,Highway,Rain,Damaged,Dark,Evening,Motorcycle,30.0,2,6,4.7,Serious
+RWACC-01540,Rubavu,Rural,Clear,Dry,Daylight,Night,Car,40.0,2,2,4.7,Minor
+RWACC-01541,Huye,Urban,Clear,Dry,Daylight,Afternoon,Truck,,2,5,42.6,Serious
+RWACC-01542,Kicukiro,Rural,Rain,Gravel,Street lights,Afternoon,Motorcycle,30.0,4,2,8.0,Minor
+RWACC-01543,Bugesera,Urban,Clear,Damaged,Daylight,Night,Motorcycle,40.0,1,1,12.2,Minor
+RWACC-01544,Nyagatare,Rural,Clear,Dry,Daylight,Afternoon,Truck,40.0,1,3,8.6,Minor
+RWACC-01545,Muhanga,Highway,Rain,Wet,Street lights,Evening,Car,50.0,2,5,18.2,Serious
+RWACC-01546,Musanze,Urban,,Wet,Daylight,Night,Motorcycle,40.0,1,1,9.1,Serious
+RWACC-01547,Nyagatare,Urban,Windy,Gravel,Daylight,Afternoon,Motorcycle,50.0,4,3,13.3,Minor
+RWACC-01548,Muhanga,Urban,Clear,Dry,Daylight,Morning,Motorcycle,30.0,4,6,5.2,Minor
+RWACC-01549,Musanze,Rural,Clear,Dry,Daylight,Afternoon,Car,60.0,1,4,14.5,Serious
+RWACC-01550,Karongi,Rural,Clear,Damaged,Street lights,Night,Car,30.0,3,3,16.1,Serious
+RWACC-01551,Musanze,Urban,Clear,Dry,Daylight,Afternoon,Motorcycle,50.0,1,6,14.3,Serious
+RWACC-01552,Rubavu,Highway,Clear,Dry,Dark,Morning,Car,80.0,2,2,3.1,Minor
+RWACC-01553,Rwamagana,Rural,Rain,Wet,Dark,Morning,Motorcycle,40.0,1,1,22.1,Serious
+RWACC-01554,Rwamagana,Urban,Fog,Dry,Street lights,Evening,Bus,50.0,3,1,25.0,Serious
+RWACC-01555,Rusizi,Urban,Windy,Dry,Daylight,Afternoon,Motorcycle,40.0,2,6,20.5,Minor
+RWACC-01556,Rusizi,Highway,Clear,Wet,Dark,Morning,Car,40.0,5,2,5.9,Minor
+RWACC-01557,Kicukiro,Urban,Clear,Dry,Daylight,Morning,Motorcycle,80.0,2,5,21.0,Minor
+RWACC-01558,Karongi,Highway,Rain,Dry,Daylight,Afternoon,Motorcycle,40.0,3,1,6.2,Minor
+RWACC-01559,Huye,Rural,Clear,Dry,Daylight,Afternoon,Bicycle,30.0,1,3,19.9,Minor
+RWACC-01560,Bugesera,Rural,Clear,Wet,Street lights,Evening,Motorcycle,40.0,3,6,10.8,Serious
+RWACC-01561,Musanze,Highway,Fog,Dry,Dark,Evening,Pedestrian involved,40.0,2,4,6.5,Serious
+RWACC-01562,Gasabo,Market road,Clear,Damaged,Daylight,Evening,Car,50.0,2,6,,Minor
+RWACC-01563,Muhanga,Urban,Rain,Wet,Daylight,Afternoon,Motorcycle,60.0,1,1,8.5,Serious
+RWACC-01564,Karongi,Rural,,Dry,Daylight,Morning,Car,30.0,3,4,9.5,Serious
+RWACC-01565,Nyagatare,Highway,Clear,,Street lights,Afternoon,Car,40.0,1,1,34.2,Minor
+RWACC-01566,Rusizi,Highway,Clear,Wet,Street lights,Morning,Motorcycle,100.0,2,5,18.8,Serious
+RWACC-01567,Rubavu,Market road,Clear,Wet,Street lights,Night,Motorcycle,80.0,2,5,11.1,Serious
+RWACC-01568,Gasabo,Urban,Rain,Dry,Daylight,Morning,Bus,80.0,1,1,5.5,Minor
+RWACC-01569,Gasabo,Urban,Clear,Damaged,Daylight,Night,Pedestrian involved,50.0,1,5,25.7,Serious
+RWACC-01570,Huye,Market road,Clear,Wet,Daylight,Morning,Car,60.0,2,3,11.3,Minor
+RWACC-01571,Bugesera,Rural,Clear,Dry,Daylight,Morning,Motorcycle,50.0,1,3,2.1,Minor
+RWACC-01572,Nyagatare,Rural,Clear,Dry,Daylight,Night,Bus,80.0,2,3,24.5,Minor
+RWACC-01573,Muhanga,Urban,Clear,Dry,Dark,Morning,Pedestrian involved,40.0,3,5,10.3,Serious
+RWACC-01574,Nyagatare,Rural,Clear,Dry,Dark,Morning,Car,40.0,1,5,9.4,Minor
+RWACC-01575,Nyagatare,Highway,Clear,Wet,Street lights,Evening,Motorcycle,40.0,5,6,2.5,Serious
+RWACC-01576,Huye,Market road,Clear,Dry,Daylight,Morning,Truck,40.0,1,4,20.5,Minor
+RWACC-01577,Karongi,Highway,Clear,Dry,Daylight,Afternoon,Car,60.0,2,6,8.6,Minor
+RWACC-01578,Nyagatare,Rural,Clear,Damaged,Street lights,Evening,Motorcycle,60.0,2,3,9.6,Minor
+RWACC-01579,Kicukiro,Urban,Rain,Dry,Dark,Afternoon,Motorcycle,40.0,3,3,19.2,Fatal
+RWACC-01580,Muhanga,Highway,Rain,Damaged,Daylight,Afternoon,Pedestrian involved,40.0,2,6,24.7,Serious
+RWACC-01581,Nyagatare,Highway,Clear,Dry,Dark,Evening,Car,40.0,2,5,17.2,Serious
+RWACC-01582,Karongi,Highway,Clear,Dry,Daylight,Night,Motorcycle,60.0,1,6,9.1,Serious
+RWACC-01583,Rwamagana,Rural,,Dry,Daylight,Evening,Car,80.0,1,1,12.5,Minor
+RWACC-01584,Rusizi,Urban,Clear,Wet,Street lights,Morning,Motorcycle,60.0,3,5,14.7,Minor
+RWACC-01585,Nyarugenge,Market road,Clear,Dry,Dark,Night,Car,30.0,3,6,17.1,Serious
+RWACC-01586,Rubavu,Urban,Clear,Dry,Dark,Night,Motorcycle,60.0,4,6,9.8,Serious
+RWACC-01587,Musanze,Urban,Clear,Damaged,Dark,Night,Motorcycle,60.0,1,3,24.9,Serious
+RWACC-01588,Nyagatare,Rural,Clear,Wet,Daylight,Morning,Motorcycle,40.0,1,4,4.5,Minor
+RWACC-01589,Nyagatare,Urban,Clear,Damaged,Dark,Night,Motorcycle,60.0,1,2,41.0,Fatal
+RWACC-01590,Musanze,Market road,Rain,Dry,Dark,Evening,Car,30.0,2,1,29.3,Minor
+RWACC-01591,Huye,Urban,Fog,Wet,Street lights,Evening,Truck,80.0,1,2,10.9,Fatal
+RWACC-01592,Rubavu,Urban,Clear,Gravel,Daylight,Afternoon,Motorcycle,30.0,1,4,7.6,Minor
+RWACC-01593,Rwamagana,Urban,Clear,Dry,Daylight,Afternoon,Car,40.0,1,4,28.9,Minor
+RWACC-01594,Muhanga,Rural,Clear,Damaged,Dark,Morning,Motorcycle,30.0,1,3,34.9,Serious
+RWACC-01595,Rwamagana,Rural,Clear,Dry,Street lights,Morning,Motorcycle,100.0,3,6,10.3,Minor
+RWACC-01596,Muhanga,Urban,Clear,Gravel,Dark,Morning,Motorcycle,40.0,1,1,18.6,Minor
+RWACC-01597,Rubavu,Urban,Rain,Dry,Dark,Night,Car,40.0,1,4,7.1,Fatal
+RWACC-01598,Rwamagana,Urban,Clear,Wet,Daylight,Evening,Motorcycle,30.0,2,6,5.2,Serious
+RWACC-01599,Huye,Rural,Clear,Dry,Daylight,Afternoon,Motorcycle,100.0,1,5,16.5,Minor
+RWACC-01600,Bugesera,Urban,Clear,Dry,Street lights,Evening,Pedestrian involved,50.0,1,5,18.8,Minor

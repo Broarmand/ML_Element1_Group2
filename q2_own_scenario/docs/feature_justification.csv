@@ -1,0 +1,7 @@
+New_Feature,Original_Feature,Transformation,Justification
+night_accident,time_of_day,Night indicator,Represents nighttime conditions
+poor_weather,weather,Rain/Fog indicator,Represents adverse weather
+poor_surface,road_surface,Wet/Damaged indicator,Represents poor road surface
+high_risk_vehicle,vehicle_type,Bus/Truck indicator,Represents heavy vehicle involvement
+multi_vehicle,vehicles_involved,2 or more indicator,Represents multi-vehicle accidents
+affected_users_group,road_users_affected,Low/Medium/High groups,Categorizes accident size

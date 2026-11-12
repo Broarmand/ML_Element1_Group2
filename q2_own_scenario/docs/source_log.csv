@@ -1,0 +1,2 @@
+Source,Generator,Access_date,License,Dataset_type,Limitations,Ethical_issues,Official_data
+Group-generated synthetic dataset,generate_rwanda_traffic_dataset.py,2026-11-12,Group-generated; proposed CC0 release,Synthetic,Simulated records and labels,No personal identifiers,No

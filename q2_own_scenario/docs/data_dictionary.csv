@@ -1,0 +1,14 @@
+Column,Meaning,Type,Unit,Allowed values
+accident_id,Unique simulated accident identifier,Categorical/ID,None,Generated unique identifiers
+district,District assigned to the simulated accident,Categorical,None,12 simulated Rwanda district labels
+road_type,Classification of the road,Categorical,None,"Urban, Highway, Rural, Market road"
+weather,Weather condition during the accident,Categorical,None,"Clear, Rain, Fog, Windy"
+road_surface,Condition of the road surface,Categorical,None,"Dry, Wet, Gravel, Damaged"
+lighting,Lighting condition,Categorical,None,"Daylight, Street lights, Dark"
+time_of_day,Time period when accident occurred,Categorical,None,"Morning, Afternoon, Evening, Night"
+vehicle_type,Vehicle or road-user category,Categorical,None,"Motorcycle, Car, Bus, Truck, Bicycle, Pedestrian involved"
+speed_limit_kmh,Speed limit of the road,Numerical,km/h,"30, 40, 50, 60, 80, 100; generated outliers also present"
+vehicles_involved,Number of vehicles involved,Numerical,Vehicles,1 to 5
+road_users_affected,Number of affected road users,Numerical,People,1 to 6
+response_time_min,Emergency response time,Numerical,Minutes,Positive response times; invalid values deliberately included
+severity,Simulated accident severity classification,Categorical/Target,None,"Minor, Serious, Fatal"
